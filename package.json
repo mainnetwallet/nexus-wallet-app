@@ -1,0 +1,27 @@
+{
+  "name": "nexus-wallet-rebuild",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Nexus Wallet rebuild — React Native + TypeScript, parity with legacy WebView app",
+  "workspaces": [
+    "core",
+    "ui",
+    "proxy"
+  ],
+  "scripts": {
+    "test": "npm run test -w core",
+    "test:proxy": "npm run test -w proxy",
+    "test:all": "npm run test && npm run test:proxy",
+    "typecheck": "npm run typecheck -w core && npm run typecheck -w ui",
+    "lint": "npm run lint -w core",
+    "proxy": "npm run start -w proxy",
+    "audit": "node tools/index-legacy.mjs",
+    "package": "node tools/package.mjs",
+    "qa:smoke": "node tools/smoke.mjs",
+    "qa:wallet": "node tools/qa-wallet.mjs",
+    "qa:nav": "node tools/qa-nav.mjs"
+  },
+  "engines": {
+    "node": ">=20.19.4"
+  }
+}

@@ -1,0 +1,7018 @@
+[
+  {
+    "id": "nexus-manifest-link",
+    "line": 350
+  },
+  {
+    "id": "_pasteDenyBtn",
+    "line": 7418
+  },
+  {
+    "id": "_pasteAllowBtn",
+    "line": 7421
+  },
+  {
+    "id": "_pasteRetryBtn",
+    "line": 7465
+  },
+  {
+    "id": "_pasteDismissBtn",
+    "line": 7468
+  },
+  {
+    "id": "nexus-lock-overlay",
+    "line": 7503
+  },
+  {
+    "id": "lg1",
+    "line": 7507
+  },
+  {
+    "id": "lg2",
+    "line": 7507
+  },
+  {
+    "id": "nlk-bio-panel",
+    "line": 7513
+  },
+  {
+    "id": "nlk-bio-icon",
+    "line": 7514
+  },
+  {
+    "id": "nlk-bio-glyph",
+    "line": 7515
+  },
+  {
+    "id": "nlk-bio-msg",
+    "line": 7517
+  },
+  {
+    "id": "nlk-bio-alt-btns",
+    "line": 7518
+  },
+  {
+    "id": "nlk-pin-panel",
+    "line": 7522
+  },
+  {
+    "id": "nlk-pin-dots",
+    "line": 7524
+  },
+  {
+    "id": "nlk-dot-0",
+    "line": 7525
+  },
+  {
+    "id": "nlk-dot-1",
+    "line": 7526
+  },
+  {
+    "id": "nlk-dot-2",
+    "line": 7527
+  },
+  {
+    "id": "nlk-dot-3",
+    "line": 7528
+  },
+  {
+    "id": "nlk-dot-4",
+    "line": 7529
+  },
+  {
+    "id": "nlk-dot-5",
+    "line": 7530
+  },
+  {
+    "id": "nlk-keypad",
+    "line": 7532
+  },
+  {
+    "id": "nlk-pin-err",
+    "line": 7546
+  },
+  {
+    "id": "nlk-pin-alt-btns",
+    "line": 7547
+  },
+  {
+    "id": "nlk-pattern-panel",
+    "line": 7551
+  },
+  {
+    "id": "nlk-pattern-canvas",
+    "line": 7553
+  },
+  {
+    "id": "nlk-pat-err",
+    "line": 7554
+  },
+  {
+    "id": "nlk-pat-alt-btns",
+    "line": 7555
+  },
+  {
+    "id": "nexus-lock-setup",
+    "line": 7874
+  },
+  {
+    "id": "nlks-status-pin",
+    "line": 7890
+  },
+  {
+    "id": "nlks-status-pattern",
+    "line": 7893
+  },
+  {
+    "id": "nlks-status-bio",
+    "line": 7896
+  },
+  {
+    "id": "nlks-sec-fill",
+    "line": 7904
+  },
+  {
+    "id": "nlks-sec-label",
+    "line": 7905
+  },
+  {
+    "id": "nlks-step-0",
+    "line": 7909
+  },
+  {
+    "id": "nlks-card-pin",
+    "line": 7913
+  },
+  {
+    "id": "nlks-pin-radio",
+    "line": 7914
+  },
+  {
+    "id": "nlks-pin-card-sub",
+    "line": 7921
+  },
+  {
+    "id": "nlks-pin-card-btn",
+    "line": 7924
+  },
+  {
+    "id": "nlks-pin-default-btn",
+    "line": 7925
+  },
+  {
+    "id": "nlks-pin-default-label",
+    "line": 7926
+  },
+  {
+    "id": "nlks-pin-remove-btn",
+    "line": 7928
+  },
+  {
+    "id": "nlks-card-pattern",
+    "line": 7935
+  },
+  {
+    "id": "nlks-pat-radio",
+    "line": 7936
+  },
+  {
+    "id": "nlks-pat-card-sub",
+    "line": 7943
+  },
+  {
+    "id": "nlks-pat-card-btn",
+    "line": 7946
+  },
+  {
+    "id": "nlks-pat-default-btn",
+    "line": 7947
+  },
+  {
+    "id": "nlks-pat-default-label",
+    "line": 7948
+  },
+  {
+    "id": "nlks-pat-remove-btn",
+    "line": 7950
+  },
+  {
+    "id": "nlks-card-bio",
+    "line": 7957
+  },
+  {
+    "id": "nlks-bio-radio",
+    "line": 7958
+  },
+  {
+    "id": "nlks-bio-card-sub",
+    "line": 7965
+  },
+  {
+    "id": "nlks-bio-card-btn",
+    "line": 7968
+  },
+  {
+    "id": "nlks-bio-default-btn",
+    "line": 7969
+  },
+  {
+    "id": "nlks-bio-default-label",
+    "line": 7970
+  },
+  {
+    "id": "nlks-bio-remove-btn",
+    "line": 7972
+  },
+  {
+    "id": "nlks-step-1",
+    "line": 7982
+  },
+  {
+    "id": "nlks-pin-setup",
+    "line": 7984
+  },
+  {
+    "id": "nlks-pin-label",
+    "line": 7985
+  },
+  {
+    "id": "nlks-dot-0",
+    "line": 7987
+  },
+  {
+    "id": "nlks-dot-1",
+    "line": 7988
+  },
+  {
+    "id": "nlks-dot-2",
+    "line": 7989
+  },
+  {
+    "id": "nlks-dot-3",
+    "line": 7990
+  },
+  {
+    "id": "nlks-dot-4",
+    "line": 7991
+  },
+  {
+    "id": "nlks-dot-5",
+    "line": 7992
+  },
+  {
+    "id": "nlks-pin-err",
+    "line": 8008
+  },
+  {
+    "id": "nlks-pattern-setup",
+    "line": 8011
+  },
+  {
+    "id": "nlks-pat-label",
+    "line": 8012
+  },
+  {
+    "id": "nlks-pattern-canvas",
+    "line": 8013
+  },
+  {
+    "id": "nlks-pat-err",
+    "line": 8014
+  },
+  {
+    "id": "nlks-bio-setup",
+    "line": 8021
+  },
+  {
+    "id": "nlks-bio-icon-wrap",
+    "line": 8022
+  },
+  {
+    "id": "nlks-bio-setup-msg",
+    "line": 8025
+  },
+  {
+    "id": "nlks-bio-err",
+    "line": 8026
+  },
+  {
+    "id": "nlks-step-2",
+    "line": 8032
+  },
+  {
+    "id": "nlks-confirm-label",
+    "line": 8033
+  },
+  {
+    "id": "nlks-cdot-0",
+    "line": 8035
+  },
+  {
+    "id": "nlks-cdot-1",
+    "line": 8036
+  },
+  {
+    "id": "nlks-cdot-2",
+    "line": 8037
+  },
+  {
+    "id": "nlks-cdot-3",
+    "line": 8038
+  },
+  {
+    "id": "nlks-cdot-4",
+    "line": 8039
+  },
+  {
+    "id": "nlks-cdot-5",
+    "line": 8040
+  },
+  {
+    "id": "nlks-confirm-err",
+    "line": 8056
+  },
+  {
+    "id": "nlks-step-2-pat",
+    "line": 8059
+  },
+  {
+    "id": "nlks-confirm-canvas",
+    "line": 8061
+  },
+  {
+    "id": "nlks-confirm-pat-err",
+    "line": 8062
+  },
+  {
+    "id": "ticon-",
+    "line": 8141
+  },
+  {
+    "id": "tlp-",
+    "line": 8147
+  },
+  {
+    "id": "_ph_init_style",
+    "line": 8191
+  },
+  {
+    "id": "splash",
+    "line": 8193
+  },
+  {
+    "id": "logoGrad",
+    "line": 8219
+  },
+  {
+    "id": "logoGrad2",
+    "line": 8223
+  },
+  {
+    "id": "toast",
+    "line": 8238
+  },
+  {
+    "id": "toast-icon",
+    "line": 8239
+  },
+  {
+    "id": "toast-msg",
+    "line": 8240
+  },
+  {
+    "id": "app",
+    "line": 8243
+  },
+  {
+    "id": "ptr-indicator-global",
+    "line": 8246
+  },
+  {
+    "id": "gptr-ring",
+    "line": 8248
+  },
+  {
+    "id": "gptr-arc",
+    "line": 8250
+  },
+  {
+    "id": "gptr-label",
+    "line": 8252
+  },
+  {
+    "id": "page-home",
+    "line": 8261
+  },
+  {
+    "id": "home-mode-toggle",
+    "line": 8270
+  },
+  {
+    "id": "home-mode-wallet",
+    "line": 8271
+  },
+  {
+    "id": "home-mode-exchange",
+    "line": 8272
+  },
+  {
+    "id": "hw-empty",
+    "line": 8283
+  },
+  {
+    "id": "hw-list",
+    "line": 8289
+  },
+  {
+    "id": "home-group-select",
+    "line": 8292
+  },
+  {
+    "id": "home-wallet-select",
+    "line": 8293
+  },
+  {
+    "id": "hw-group-pill",
+    "line": 8296
+  },
+  {
+    "id": "hw-group-label",
+    "line": 8302
+  },
+  {
+    "id": "hw-wallet-addr-label",
+    "line": 8307
+  },
+  {
+    "id": "hw-group-total-value",
+    "line": 8313
+  },
+  {
+    "id": "hw-addr-pill",
+    "line": 8317
+  },
+  {
+    "id": "hw-addr-text",
+    "line": 8317
+  },
+  {
+    "id": "hw-wallet-index",
+    "line": 8317
+  },
+  {
+    "id": "home-wallet-chips",
+    "line": 8319
+  },
+  {
+    "id": "hw-total-value-box",
+    "line": 8323
+  },
+  {
+    "id": "hw-total-value-text",
+    "line": 8324
+  },
+  {
+    "id": "home-chain-btn",
+    "line": 8349
+  },
+  {
+    "id": "home-chain-emoji",
+    "line": 8350
+  },
+  {
+    "id": "home-chain-name",
+    "line": 8351
+  },
+  {
+    "id": "home-chain-clear",
+    "line": 8352
+  },
+  {
+    "id": "home-chain-arrow",
+    "line": 8353
+  },
+  {
+    "id": "home-chain-dot",
+    "line": 8354
+  },
+  {
+    "id": "home-greeting-sub",
+    "line": 8364
+  },
+  {
+    "id": "home-greeting-main",
+    "line": 8365
+  },
+  {
+    "id": "home-portfolio-card",
+    "line": 8366
+  },
+  {
+    "id": "home-portfolio-value",
+    "line": 8367
+  },
+  {
+    "id": "home-portfolio-change",
+    "line": 8368
+  },
+  {
+    "id": "home-portfolio-change-text",
+    "line": 8368
+  },
+  {
+    "id": "home-portfolio-chips",
+    "line": 8369
+  },
+  {
+    "id": "home-pchip-tokens",
+    "line": 8370
+  },
+  {
+    "id": "home-pchip-chains",
+    "line": 8371
+  },
+  {
+    "id": "home-pchip-pnl",
+    "line": 8372
+  },
+  {
+    "id": "home-price-source-label",
+    "line": 8378
+  },
+  {
+    "id": "live-countdown",
+    "line": 8380
+  },
+  {
+    "id": "home-token-search",
+    "line": 8450
+  },
+  {
+    "id": "home-token-search-clear",
+    "line": 8455
+  },
+  {
+    "id": "home-manage-btn",
+    "line": 8460
+  },
+  {
+    "id": "home-token-scroll",
+    "line": 8469
+  },
+  {
+    "id": "token-list",
+    "line": 8471
+  },
+  {
+    "id": "skel1",
+    "line": 8473
+  },
+  {
+    "id": "skel2",
+    "line": 8474
+  },
+  {
+    "id": "skel3",
+    "line": 8475
+  },
+  {
+    "id": "page-swap",
+    "line": 8483
+  },
+  {
+    "id": "sw-chain-bar",
+    "line": 8501
+  },
+  {
+    "id": "sw-chain-emoji",
+    "line": 8502
+  },
+  {
+    "id": "sw-chain-name",
+    "line": 8503
+  },
+  {
+    "id": "sw-chain-status-dot",
+    "line": 8504
+  },
+  {
+    "id": "sw-connect-btn",
+    "line": 8507
+  },
+  {
+    "id": "sw-connect-icon",
+    "line": 8508
+  },
+  {
+    "id": "sw-connect-label",
+    "line": 8510
+  },
+  {
+    "id": "sw-connect-addr",
+    "line": 8511
+  },
+  {
+    "id": "sw-scroll-body",
+    "line": 8519
+  },
+  {
+    "id": "sw-from-token-btn",
+    "line": 8537
+  },
+  {
+    "id": "sw-from-icon",
+    "line": 8539
+  },
+  {
+    "id": "sw-from-sym",
+    "line": 8540
+  },
+  {
+    "id": "sw-from-amount",
+    "line": 8545
+  },
+  {
+    "id": "sw-from-usd",
+    "line": 8546
+  },
+  {
+    "id": "sw-from-bal",
+    "line": 8552
+  },
+  {
+    "id": "sw-pct-display",
+    "line": 8553
+  },
+  {
+    "id": "sw-pct-fill",
+    "line": 8560
+  },
+  {
+    "id": "sw-pct-range",
+    "line": 8577
+  },
+  {
+    "id": "sw-pct-thumb",
+    "line": 8584
+  },
+  {
+    "id": "sw-flip-btn",
+    "line": 8596
+  },
+  {
+    "id": "sw-to-bal",
+    "line": 8605
+  },
+  {
+    "id": "sw-to-token-btn",
+    "line": 8608
+  },
+  {
+    "id": "sw-to-icon",
+    "line": 8610
+  },
+  {
+    "id": "sw-to-sym",
+    "line": 8611
+  },
+  {
+    "id": "sw-to-amount",
+    "line": 8616
+  },
+  {
+    "id": "sw-to-usd",
+    "line": 8617
+  },
+  {
+    "id": "sw-step-indicator",
+    "line": 8623
+  },
+  {
+    "id": "sw-tx-progress-label",
+    "line": 8624
+  },
+  {
+    "id": "sw-tx-progress-sub",
+    "line": 8625
+  },
+  {
+    "id": "sw-tx-spinner",
+    "line": 8626
+  },
+  {
+    "id": "sw-tx-hash-row",
+    "line": 8627
+  },
+  {
+    "id": "sw-tx-explorer-link",
+    "line": 8628
+  },
+  {
+    "id": "sw-tx-hash-short",
+    "line": 8629
+  },
+  {
+    "id": "sw-approve-retry-row",
+    "line": 8630
+  },
+  {
+    "id": "sw-action-btn",
+    "line": 8633
+  },
+  {
+    "id": "sw-btn-icon",
+    "line": 8634
+  },
+  {
+    "id": "sw-btn-label",
+    "line": 8635
+  },
+  {
+    "id": "sw-quote-loading",
+    "line": 8639
+  },
+  {
+    "id": "sw-scan-dex-name",
+    "line": 8642
+  },
+  {
+    "id": "sw-error-box",
+    "line": 8646
+  },
+  {
+    "id": "sw-dex-compare",
+    "line": 8650
+  },
+  {
+    "id": "sw-compare-badge",
+    "line": 8656
+  },
+  {
+    "id": "sw-badge-dot",
+    "line": 8657
+  },
+  {
+    "id": "sw-badge-text",
+    "line": 8658
+  },
+  {
+    "id": "sw-dex-scroll-wrap",
+    "line": 8663
+  },
+  {
+    "id": "sw-dex-list",
+    "line": 8663
+  },
+  {
+    "id": "sw-token-modal",
+    "line": 8676
+  },
+  {
+    "id": "sw-token-sheet",
+    "line": 8677
+  },
+  {
+    "id": "sw-token-search",
+    "line": 8689
+  },
+  {
+    "id": "sw-contract-status",
+    "line": 8692
+  },
+  {
+    "id": "sw-contract-preview",
+    "line": 8694
+  },
+  {
+    "id": "sw-contract-icon",
+    "line": 8696
+  },
+  {
+    "id": "sw-contract-sym",
+    "line": 8698
+  },
+  {
+    "id": "sw-contract-name",
+    "line": 8699
+  },
+  {
+    "id": "sw-token-list",
+    "line": 8705
+  },
+  {
+    "id": "sw-settings-modal",
+    "line": 8710
+  },
+  {
+    "id": "sw-settings-sheet",
+    "line": 8711
+  },
+  {
+    "id": "sw-adv-slip",
+    "line": 8735
+  },
+  {
+    "id": "sw-deadline",
+    "line": 8743
+  },
+  {
+    "id": "sw-multiroute-toggle",
+    "line": 8753
+  },
+  {
+    "id": "sw-expert-toggle",
+    "line": 8763
+  },
+  {
+    "id": "br-settings-modal",
+    "line": 8773
+  },
+  {
+    "id": "br-settings-sheet",
+    "line": 8774
+  },
+  {
+    "id": "br-slip-chips",
+    "line": 8791
+  },
+  {
+    "id": "br-slip-auto",
+    "line": 8792
+  },
+  {
+    "id": "br-slip-custom-btn",
+    "line": 8795
+  },
+  {
+    "id": "br-slip-custom-wrap",
+    "line": 8797
+  },
+  {
+    "id": "br-slip-custom-input",
+    "line": 8799
+  },
+  {
+    "id": "nexus-gas-toggle-bridge",
+    "line": 8809
+  },
+  {
+    "id": "br-history-modal",
+    "line": 9030
+  },
+  {
+    "id": "br-history-sheet",
+    "line": 9031
+  },
+  {
+    "id": "brh-count-pill",
+    "line": 9041
+  },
+  {
+    "id": "brh-clear-btn",
+    "line": 9044
+  },
+  {
+    "id": "brh-filter-all",
+    "line": 9056
+  },
+  {
+    "id": "brh-filter-bridge",
+    "line": 9057
+  },
+  {
+    "id": "brh-filter-swap",
+    "line": 9058
+  },
+  {
+    "id": "br-hist-list",
+    "line": 9062
+  },
+  {
+    "id": "brh-expire-info",
+    "line": 9066
+  },
+  {
+    "id": "sw-history-modal",
+    "line": 9072
+  },
+  {
+    "id": "sw-history-sheet",
+    "line": 9073
+  },
+  {
+    "id": "sw-recent-clear-btn",
+    "line": 9085
+  },
+  {
+    "id": "sw-history-list",
+    "line": 9095
+  },
+  {
+    "id": "br-confirm-modal",
+    "line": 9224
+  },
+  {
+    "id": "br-confirm-sheet",
+    "line": 9225
+  },
+  {
+    "id": "br-confirm-scroll",
+    "line": 9229
+  },
+  {
+    "id": "brc-header-icon",
+    "line": 9234
+  },
+  {
+    "id": "brc-title",
+    "line": 9237
+  },
+  {
+    "id": "brc-subtitle",
+    "line": 9238
+  },
+  {
+    "id": "brc-from-icon",
+    "line": 9250
+  },
+  {
+    "id": "brc-from-sym",
+    "line": 9252
+  },
+  {
+    "id": "brc-from-amt",
+    "line": 9256
+  },
+  {
+    "id": "brc-to-icon",
+    "line": 9265
+  },
+  {
+    "id": "brc-to-sym",
+    "line": 9267
+  },
+  {
+    "id": "brc-to-amt",
+    "line": 9271
+  },
+  {
+    "id": "brc-chain-flow",
+    "line": 9276
+  },
+  {
+    "id": "brc-from-chain-icon",
+    "line": 9278
+  },
+  {
+    "id": "brc-from-chain-name",
+    "line": 9281
+  },
+  {
+    "id": "brc-to-chain-icon",
+    "line": 9288
+  },
+  {
+    "id": "brc-to-chain-name",
+    "line": 9291
+  },
+  {
+    "id": "brc-rate",
+    "line": 9302
+  },
+  {
+    "id": "brc-min",
+    "line": 9308
+  },
+  {
+    "id": "brc-time-row",
+    "line": 9310
+  },
+  {
+    "id": "brc-time",
+    "line": 9314
+  },
+  {
+    "id": "brc-gas",
+    "line": 9320
+  },
+  {
+    "id": "brc-provider-badge",
+    "line": 9325
+  },
+  {
+    "id": "brc-provider-label",
+    "line": 9327
+  },
+  {
+    "id": "brc-provider",
+    "line": 9327
+  },
+  {
+    "id": "br-confirm-footer",
+    "line": 9333
+  },
+  {
+    "id": "brc-execute-btn",
+    "line": 9334
+  },
+  {
+    "id": "brc-execute-label",
+    "line": 9337
+  },
+  {
+    "id": "sw-confirm-modal",
+    "line": 9812
+  },
+  {
+    "id": "sw-confirm-sheet",
+    "line": 9813
+  },
+  {
+    "id": "sw-confirm-scroll",
+    "line": 9819
+  },
+  {
+    "id": "sw-conf-from-icon",
+    "line": 9843
+  },
+  {
+    "id": "sw-conf-from-sym",
+    "line": 9845
+  },
+  {
+    "id": "sw-conf-from-amt",
+    "line": 9849
+  },
+  {
+    "id": "sw-conf-to-icon",
+    "line": 9860
+  },
+  {
+    "id": "sw-conf-to-sym",
+    "line": 9862
+  },
+  {
+    "id": "sw-conf-to-amt",
+    "line": 9866
+  },
+  {
+    "id": "sw-conf-rate",
+    "line": 9876
+  },
+  {
+    "id": "sw-conf-impact",
+    "line": 9882
+  },
+  {
+    "id": "sw-conf-min",
+    "line": 9888
+  },
+  {
+    "id": "sw-conf-slip",
+    "line": 9894
+  },
+  {
+    "id": "sw-conf-gas",
+    "line": 9900
+  },
+  {
+    "id": "sw-conf-dex-badge",
+    "line": 9905
+  },
+  {
+    "id": "sw-conf-dex-icon",
+    "line": 9906
+  },
+  {
+    "id": "sw-conf-dex-label",
+    "line": 9907
+  },
+  {
+    "id": "sw-conf-dex",
+    "line": 9907
+  },
+  {
+    "id": "sw-confirm-footer",
+    "line": 9913
+  },
+  {
+    "id": "sw-conf-execute-btn",
+    "line": 9914
+  },
+  {
+    "id": "sw-tx-progress",
+    "line": 10171
+  },
+  {
+    "id": "sw-txp-card",
+    "line": 10172
+  },
+  {
+    "id": "txp-step-approve",
+    "line": 10185
+  },
+  {
+    "id": "txp-step-send",
+    "line": 10189
+  },
+  {
+    "id": "txp-step-confirm",
+    "line": 10193
+  },
+  {
+    "id": "txp-title",
+    "line": 10199
+  },
+  {
+    "id": "txp-sub",
+    "line": 10200
+  },
+  {
+    "id": "txp-from-icon",
+    "line": 10204
+  },
+  {
+    "id": "txp-from-name",
+    "line": 10206
+  },
+  {
+    "id": "txp-from-amt",
+    "line": 10207
+  },
+  {
+    "id": "txp-to-icon",
+    "line": 10217
+  },
+  {
+    "id": "txp-to-name",
+    "line": 10219
+  },
+  {
+    "id": "txp-to-amt",
+    "line": 10220
+  },
+  {
+    "id": "txp-to-amt-val",
+    "line": 10220
+  },
+  {
+    "id": "sw-success-overlay",
+    "line": 10484
+  },
+  {
+    "id": "sw-success-card",
+    "line": 10485
+  },
+  {
+    "id": "sso-from-icon",
+    "line": 10499
+  },
+  {
+    "id": "sso-from-amt",
+    "line": 10500
+  },
+  {
+    "id": "sso-from-sym",
+    "line": 10501
+  },
+  {
+    "id": "sso-to-icon",
+    "line": 10507
+  },
+  {
+    "id": "sso-to-amt",
+    "line": 10508
+  },
+  {
+    "id": "sso-to-sym",
+    "line": 10509
+  },
+  {
+    "id": "sso-dex",
+    "line": 10516
+  },
+  {
+    "id": "sso-chain",
+    "line": 10520
+  },
+  {
+    "id": "sso-time",
+    "line": 10524
+  },
+  {
+    "id": "sso-hash-row",
+    "line": 10529
+  },
+  {
+    "id": "sso-hash-txt",
+    "line": 10531
+  },
+  {
+    "id": "snd-success-overlay",
+    "line": 10946
+  },
+  {
+    "id": "snd-success-card",
+    "line": 10947
+  },
+  {
+    "id": "snd-check-ring",
+    "line": 10951
+  },
+  {
+    "id": "snd-title",
+    "line": 10955
+  },
+  {
+    "id": "snd-subtitle",
+    "line": 10956
+  },
+  {
+    "id": "snd-tok-icon",
+    "line": 10960
+  },
+  {
+    "id": "snd-tok-amt",
+    "line": 10962
+  },
+  {
+    "id": "snd-tok-sym",
+    "line": 10963
+  },
+  {
+    "id": "snd-from-addr",
+    "line": 10972
+  },
+  {
+    "id": "snd-to-addr",
+    "line": 10976
+  },
+  {
+    "id": "snd-chain",
+    "line": 10980
+  },
+  {
+    "id": "snd-gas",
+    "line": 10984
+  },
+  {
+    "id": "snd-block",
+    "line": 10988
+  },
+  {
+    "id": "snd-time",
+    "line": 10992
+  },
+  {
+    "id": "snd-hash-row",
+    "line": 10997
+  },
+  {
+    "id": "snd-hash-txt",
+    "line": 10999
+  },
+  {
+    "id": "sw-wallet-panel-overlay",
+    "line": 11182
+  },
+  {
+    "id": "sw-wallet-panel",
+    "line": 11183
+  },
+  {
+    "id": "sw-key-input",
+    "line": 11198
+  },
+  {
+    "id": "sw-key-preview",
+    "line": 11203
+  },
+  {
+    "id": "sw-wallet-panel-body",
+    "line": 11206
+  },
+  {
+    "id": "page-bridge",
+    "line": 11212
+  },
+  {
+    "id": "br-connect-btn",
+    "line": 11225
+  },
+  {
+    "id": "br-connect-icon",
+    "line": 11226
+  },
+  {
+    "id": "br-connect-label",
+    "line": 11228
+  },
+  {
+    "id": "br-connect-addr",
+    "line": 11229
+  },
+  {
+    "id": "br-static-area",
+    "line": 11237
+  },
+  {
+    "id": "br-sender-addr",
+    "line": 11241
+  },
+  {
+    "id": "br-hist-pending-dot",
+    "line": 11249
+  },
+  {
+    "id": "br-from-chain-btn",
+    "line": 11259
+  },
+  {
+    "id": "br-from-chain-emoji",
+    "line": 11260
+  },
+  {
+    "id": "br-from-chain-name",
+    "line": 11261
+  },
+  {
+    "id": "br-from-token-btn",
+    "line": 11264
+  },
+  {
+    "id": "br-from-token-icon",
+    "line": 11265
+  },
+  {
+    "id": "br-from-token-sym",
+    "line": 11266
+  },
+  {
+    "id": "br-from-amount",
+    "line": 11270
+  },
+  {
+    "id": "br-from-usd",
+    "line": 11273
+  },
+  {
+    "id": "br-from-balance-row",
+    "line": 11278
+  },
+  {
+    "id": "br-bal-status-icon",
+    "line": 11280
+  },
+  {
+    "id": "br-bal-max-btn",
+    "line": 11281
+  },
+  {
+    "id": "br-from-balance-val",
+    "line": 11286
+  },
+  {
+    "id": "br-pct-row",
+    "line": 11290
+  },
+  {
+    "id": "br-pct-label",
+    "line": 11292
+  },
+  {
+    "id": "br-slider-track-bg",
+    "line": 11295
+  },
+  {
+    "id": "br-slider-track-fill",
+    "line": 11296
+  },
+  {
+    "id": "br-pct-slider",
+    "line": 11297
+  },
+  {
+    "id": "br-pct-100",
+    "line": 11305
+  },
+  {
+    "id": "br-flip-btn",
+    "line": 11339
+  },
+  {
+    "id": "br-to-chain-btn",
+    "line": 11349
+  },
+  {
+    "id": "br-to-chain-emoji",
+    "line": 11350
+  },
+  {
+    "id": "br-to-chain-name",
+    "line": 11351
+  },
+  {
+    "id": "br-to-token-btn",
+    "line": 11354
+  },
+  {
+    "id": "br-to-token-icon",
+    "line": 11355
+  },
+  {
+    "id": "br-to-token-sym",
+    "line": 11356
+  },
+  {
+    "id": "br-to-amount",
+    "line": 11360
+  },
+  {
+    "id": "br-to-usd",
+    "line": 11361
+  },
+  {
+    "id": "br-to-balance-row",
+    "line": 11366
+  },
+  {
+    "id": "br-to-balance-val",
+    "line": 11371
+  },
+  {
+    "id": "br-recipient-row",
+    "line": 11376
+  },
+  {
+    "id": "br-recipient",
+    "line": 11379
+  },
+  {
+    "id": "br-recipient-display",
+    "line": 11385
+  },
+  {
+    "id": "br-recipient-display-text",
+    "line": 11386
+  },
+  {
+    "id": "br-recipient-clear",
+    "line": 11390
+  },
+  {
+    "id": "br-exec-btn",
+    "line": 11399
+  },
+  {
+    "id": "br-exec-icon",
+    "line": 11400
+  },
+  {
+    "id": "br-exec-spin",
+    "line": 11401
+  },
+  {
+    "id": "br-exec-label",
+    "line": 11402
+  },
+  {
+    "id": "br-routes-found-label",
+    "line": 11409
+  },
+  {
+    "id": "br-routes-found-text",
+    "line": 11411
+  },
+  {
+    "id": "br-routes-scroll-area",
+    "line": 11416
+  },
+  {
+    "id": "br-quote-loading",
+    "line": 11417
+  },
+  {
+    "id": "br-quote-error",
+    "line": 11423
+  },
+  {
+    "id": "br-quote-btn",
+    "line": 11426
+  },
+  {
+    "id": "br-routes-list",
+    "line": 11429
+  },
+  {
+    "id": "br-success-overlay",
+    "line": 11646
+  },
+  {
+    "id": "br-success-card",
+    "line": 11647
+  },
+  {
+    "id": "bso-icon-ring",
+    "line": 11650
+  },
+  {
+    "id": "bso-icon",
+    "line": 11651
+  },
+  {
+    "id": "bso-title",
+    "line": 11655
+  },
+  {
+    "id": "bso-subtitle",
+    "line": 11656
+  },
+  {
+    "id": "bso-from-icon",
+    "line": 11661
+  },
+  {
+    "id": "bso-from-amt",
+    "line": 11662
+  },
+  {
+    "id": "bso-from-sym",
+    "line": 11663
+  },
+  {
+    "id": "bso-from-chain",
+    "line": 11664
+  },
+  {
+    "id": "bso-to-icon",
+    "line": 11668
+  },
+  {
+    "id": "bso-to-amt",
+    "line": 11669
+  },
+  {
+    "id": "bso-to-sym",
+    "line": 11670
+  },
+  {
+    "id": "bso-to-chain",
+    "line": 11671
+  },
+  {
+    "id": "bso-sent-row",
+    "line": 11676
+  },
+  {
+    "id": "bso-extra-info",
+    "line": 11679
+  },
+  {
+    "id": "bso-info-chain",
+    "line": 11684
+  },
+  {
+    "id": "bso-info-chain-logo",
+    "line": 11685
+  },
+  {
+    "id": "bso-info-protocol",
+    "line": 11693
+  },
+  {
+    "id": "bso-info-protocol-logo",
+    "line": 11694
+  },
+  {
+    "id": "bso-info-fee",
+    "line": 11702
+  },
+  {
+    "id": "bso-protocol-fee-row",
+    "line": 11709
+  },
+  {
+    "id": "bso-info-protocol-fee",
+    "line": 11711
+  },
+  {
+    "id": "bso-info-protocol-fee-val",
+    "line": 11713
+  },
+  {
+    "id": "bso-info-time",
+    "line": 11720
+  },
+  {
+    "id": "bso-info-time-val",
+    "line": 11722
+  },
+  {
+    "id": "bso-sent-hash-samechain",
+    "line": 11729
+  },
+  {
+    "id": "bso-sent-hash-txt-samechain",
+    "line": 11731
+  },
+  {
+    "id": "bso-bridge-info",
+    "line": 11736
+  },
+  {
+    "id": "bso-br-from-chain",
+    "line": 11742
+  },
+  {
+    "id": "bso-br-from-chain-logo",
+    "line": 11743
+  },
+  {
+    "id": "bso-sent-hash",
+    "line": 11746
+  },
+  {
+    "id": "bso-sent-hash-txt",
+    "line": 11748
+  },
+  {
+    "id": "bso-br-to-chain",
+    "line": 11757
+  },
+  {
+    "id": "bso-br-to-chain-logo",
+    "line": 11758
+  },
+  {
+    "id": "bso-recv-hash",
+    "line": 11761
+  },
+  {
+    "id": "bso-recv-hash-txt",
+    "line": 11763
+  },
+  {
+    "id": "bso-recv-spin",
+    "line": 11764
+  },
+  {
+    "id": "bso-br-protocol",
+    "line": 11772
+  },
+  {
+    "id": "bso-br-protocol-logo",
+    "line": 11773
+  },
+  {
+    "id": "bso-br-fee",
+    "line": 11781
+  },
+  {
+    "id": "bso-br-time",
+    "line": 11790
+  },
+  {
+    "id": "bso-br-time-val",
+    "line": 11792
+  },
+  {
+    "id": "bso-done-btn",
+    "line": 11801
+  },
+  {
+    "id": "bso-close-waiting-btn",
+    "line": 11804
+  },
+  {
+    "id": "br-chain-overlay",
+    "line": 12399
+  },
+  {
+    "id": "br-chain-modal-inner",
+    "line": 12400
+  },
+  {
+    "id": "br-chain-search-wrap",
+    "line": 12409
+  },
+  {
+    "id": "br-chain-search",
+    "line": 12411
+  },
+  {
+    "id": "br-chain-search-clear",
+    "line": 12417
+  },
+  {
+    "id": "br-chain-count",
+    "line": 12421
+  },
+  {
+    "id": "br-chain-list",
+    "line": 12423
+  },
+  {
+    "id": "br-token-overlay",
+    "line": 12428
+  },
+  {
+    "id": "br-token-modal-inner",
+    "line": 12429
+  },
+  {
+    "id": "br-token-search",
+    "line": 12437
+  },
+  {
+    "id": "br-token-list",
+    "line": 12440
+  },
+  {
+    "id": "br-wallet-panel-overlay",
+    "line": 12447
+  },
+  {
+    "id": "br-wallet-panel",
+    "line": 12448
+  },
+  {
+    "id": "br-wallet-panel-title",
+    "line": 12452
+  },
+  {
+    "id": "br-wallet-panel-sub",
+    "line": 12453
+  },
+  {
+    "id": "br-key-input",
+    "line": 12463
+  },
+  {
+    "id": "br-key-preview",
+    "line": 12468
+  },
+  {
+    "id": "br-wallet-panel-body",
+    "line": 12471
+  },
+  {
+    "id": "page-profile",
+    "line": 12476
+  },
+  {
+    "id": "prof-search-bar",
+    "line": 12478
+  },
+  {
+    "id": "prof-sb-icon",
+    "line": 12494
+  },
+  {
+    "id": "prof-search-input",
+    "line": 12497
+  },
+  {
+    "id": "prof-sb-paste",
+    "line": 12510
+  },
+  {
+    "id": "prof-sb-clear",
+    "line": 12518
+  },
+  {
+    "id": "prof-sb-go",
+    "line": 12522
+  },
+  {
+    "id": "prof-sb-newtab",
+    "line": 12532
+  },
+  {
+    "id": "prof-sb-more",
+    "line": 12545
+  },
+  {
+    "id": "prof-3dot-menu",
+    "line": 12559
+  },
+  {
+    "id": "prof-3dot-history-list",
+    "line": 12573
+  },
+  {
+    "id": "prof-chain-single",
+    "line": 12619
+  },
+  {
+    "id": "prof-chain-single-emoji",
+    "line": 12628
+  },
+  {
+    "id": "prof-chain-single-name",
+    "line": 12629
+  },
+  {
+    "id": "prof-hero-wallet-count",
+    "line": 12642
+  },
+  {
+    "id": "prof-chain-grid",
+    "line": 12648
+  },
+  {
+    "id": "prof-chain-scroll",
+    "line": 12649
+  },
+  {
+    "id": "profile-addr-wrap",
+    "line": 12651
+  },
+  {
+    "id": "profile-addr-text",
+    "line": 12652
+  },
+  {
+    "id": "profile-stats-wrap",
+    "line": 12657
+  },
+  {
+    "id": "profile-stat-wallets",
+    "line": 12661
+  },
+  {
+    "id": "delegated-stat-card",
+    "line": 12664
+  },
+  {
+    "id": "profile-stat-keys",
+    "line": 12666
+  },
+  {
+    "id": "delegated-refresh-spinner",
+    "line": 12668
+  },
+  {
+    "id": "profile-stat-notdelegated",
+    "line": 12672
+  },
+  {
+    "id": "profile-stats-hint",
+    "line": 12677
+  },
+  {
+    "id": "txh-menu-sub",
+    "line": 12686
+  },
+  {
+    "id": "prof-tools-scroll",
+    "line": 12691
+  },
+  {
+    "id": "swap-menu-indicator",
+    "line": 12701
+  },
+  {
+    "id": "del-menu-sub",
+    "line": 12709
+  },
+  {
+    "id": "del-menu-chain",
+    "line": 12709
+  },
+  {
+    "id": "sup-menu-indicator",
+    "line": 12721
+  },
+  {
+    "id": "bsb-menu-indicator",
+    "line": 12731
+  },
+  {
+    "id": "page-transfer-hub",
+    "line": 12755
+  },
+  {
+    "id": "th-wrapper",
+    "line": 12756
+  },
+  {
+    "id": "mainDashboard",
+    "line": 12758
+  },
+  {
+    "id": "dashboardGrid",
+    "line": 12761
+  },
+  {
+    "id": "batchTransferUI",
+    "line": 12831
+  },
+  {
+    "id": "th-net-emoji-batchNative-hdr",
+    "line": 12833
+  },
+  {
+    "id": "th-net-name-batchNative-hdr",
+    "line": 12833
+  },
+  {
+    "id": "nativeModeBtn",
+    "line": 12838
+  },
+  {
+    "id": "tokenModeBtn",
+    "line": 12841
+  },
+  {
+    "id": "nativeModeContent",
+    "line": 12848
+  },
+  {
+    "id": "rpcUrl",
+    "line": 12850
+  },
+  {
+    "id": "privateKeyWrapper",
+    "line": 12858
+  },
+  {
+    "id": "privateKey",
+    "line": 12859
+  },
+  {
+    "id": "privateKeyToggleBtn",
+    "line": 12860
+  },
+  {
+    "id": "privateKeyEyeIcon",
+    "line": 12861
+  },
+  {
+    "id": "walletInfoBox",
+    "line": 12866
+  },
+  {
+    "id": "walletAddress",
+    "line": 12869
+  },
+  {
+    "id": "walletBalance",
+    "line": 12873
+  },
+  {
+    "id": "receiverAddresses",
+    "line": 12884
+  },
+  {
+    "id": "totalAddresses",
+    "line": 12898
+  },
+  {
+    "id": "perAddressDisplay",
+    "line": 12902
+  },
+  {
+    "id": "totalAmount",
+    "line": 12906
+  },
+  {
+    "id": "amountPerAddress",
+    "line": 12912
+  },
+  {
+    "id": "batchSize",
+    "line": 12926
+  },
+  {
+    "id": "batchDeleteContractsBtn",
+    "line": 12935
+  },
+  {
+    "id": "savedContractsHeader",
+    "line": 12939
+  },
+  {
+    "id": "savedContractsCount",
+    "line": 12941
+  },
+  {
+    "id": "savedContractsList",
+    "line": 12944
+  },
+  {
+    "id": "deployBtn",
+    "line": 12948
+  },
+  {
+    "id": "executeBtn",
+    "line": 12949
+  },
+  {
+    "id": "progressBar",
+    "line": 12951
+  },
+  {
+    "id": "progressFill",
+    "line": 12952
+  },
+  {
+    "id": "logContainer",
+    "line": 12962
+  },
+  {
+    "id": "tokenModeContent",
+    "line": 12968
+  },
+  {
+    "id": "rpcUrlToken",
+    "line": 12971
+  },
+  {
+    "id": "privateKeyTokenWrapper",
+    "line": 12981
+  },
+  {
+    "id": "privateKeyToken",
+    "line": 12982
+  },
+  {
+    "id": "privateKeyTokenToggleBtn",
+    "line": 12983
+  },
+  {
+    "id": "walletInfoBoxToken",
+    "line": 12988
+  },
+  {
+    "id": "walletAddressToken",
+    "line": 12991
+  },
+  {
+    "id": "walletNativeBalanceToken",
+    "line": 12995
+  },
+  {
+    "id": "walletTokenBalanceToken",
+    "line": 12999
+  },
+  {
+    "id": "tokenContractAddress",
+    "line": 13009
+  },
+  {
+    "id": "tokenSymbol",
+    "line": 13014
+  },
+  {
+    "id": "tokenDecimals",
+    "line": 13018
+  },
+  {
+    "id": "receiverAddressesToken",
+    "line": 13030
+  },
+  {
+    "id": "recipientBalancesToken",
+    "line": 13037
+  },
+  {
+    "id": "balanceBoxToggleIcon",
+    "line": 13040
+  },
+  {
+    "id": "recipientBalancesListToken",
+    "line": 13042
+  },
+  {
+    "id": "totalAddressesToken",
+    "line": 13054
+  },
+  {
+    "id": "perAddressDisplayToken",
+    "line": 13058
+  },
+  {
+    "id": "totalAmountToken",
+    "line": 13062
+  },
+  {
+    "id": "amountPerAddressToken",
+    "line": 13068
+  },
+  {
+    "id": "batchSizeToken",
+    "line": 13082
+  },
+  {
+    "id": "batchDeleteContractsBtnToken",
+    "line": 13091
+  },
+  {
+    "id": "savedContractsHeaderToken",
+    "line": 13095
+  },
+  {
+    "id": "savedContractsCountToken",
+    "line": 13097
+  },
+  {
+    "id": "savedContractsListToken",
+    "line": 13100
+  },
+  {
+    "id": "deployBtnToken",
+    "line": 13104
+  },
+  {
+    "id": "executeBtnToken",
+    "line": 13105
+  },
+  {
+    "id": "progressBarToken",
+    "line": 13107
+  },
+  {
+    "id": "progressFillToken",
+    "line": 13108
+  },
+  {
+    "id": "logContainerToken",
+    "line": 13118
+  },
+  {
+    "id": "multiKeyNativeUI",
+    "line": 13128
+  },
+  {
+    "id": "th-net-emoji-mkNative-hdr",
+    "line": 13130
+  },
+  {
+    "id": "th-net-name-mkNative-hdr",
+    "line": 13130
+  },
+  {
+    "id": "multiKeyNativeModeBtn",
+    "line": 13135
+  },
+  {
+    "id": "multiKeyTokenModeBtn",
+    "line": 13138
+  },
+  {
+    "id": "multiKeyNativeModeContent",
+    "line": 13145
+  },
+  {
+    "id": "rpcUrlMultiKeyNative",
+    "line": 13151
+  },
+  {
+    "id": "privateKeyMultiKeyNativeWrapper",
+    "line": 13155
+  },
+  {
+    "id": "privateKeyMultiKeyNative",
+    "line": 13156
+  },
+  {
+    "id": "privateKeyMultiKeyNativeToggleBtn",
+    "line": 13157
+  },
+  {
+    "id": "walletInfoBoxMultiKeyNative",
+    "line": 13162
+  },
+  {
+    "id": "walletAddressMultiKeyNative",
+    "line": 13165
+  },
+  {
+    "id": "walletBalanceMultiKeyNative",
+    "line": 13169
+  },
+  {
+    "id": "senderPrivateKeysMultiKeyNativeWrapper",
+    "line": 13180
+  },
+  {
+    "id": "senderPrivateKeysMultiKeyNative",
+    "line": 13181
+  },
+  {
+    "id": "senderPrivateKeysMultiKeyNativeToggleBtn",
+    "line": 13185
+  },
+  {
+    "id": "recipientAddressMultiKeyNative",
+    "line": 13201
+  },
+  {
+    "id": "recipientInfoBoxMultiKeyNative",
+    "line": 13203
+  },
+  {
+    "id": "recipientAddressDisplayMultiKeyNative",
+    "line": 13206
+  },
+  {
+    "id": "recipientBalanceMultiKeyNative",
+    "line": 13210
+  },
+  {
+    "id": "totalSendersMultiKeyNative",
+    "line": 13223
+  },
+  {
+    "id": "totalBalanceMultiKeyNative",
+    "line": 13227
+  },
+  {
+    "id": "perAddressDisplayMultiKeyNative",
+    "line": 13231
+  },
+  {
+    "id": "totalAmountMultiKeyNative",
+    "line": 13235
+  },
+  {
+    "id": "amountPerAddressMultiKeyNative",
+    "line": 13241
+  },
+  {
+    "id": "directTransferModeCard",
+    "line": 13261
+  },
+  {
+    "id": "contractTransferModeCard",
+    "line": 13264
+  },
+  {
+    "id": "directTransferSection",
+    "line": 13270
+  },
+  {
+    "id": "executeDirectBtnMultiKeyNative",
+    "line": 13271
+  },
+  {
+    "id": "contractTransferSection",
+    "line": 13277
+  },
+  {
+    "id": "savedContractsHeaderMultiKeyNative",
+    "line": 13280
+  },
+  {
+    "id": "savedContractsCountMultiKeyNative",
+    "line": 13282
+  },
+  {
+    "id": "savedContractsListMultiKeyNative",
+    "line": 13286
+  },
+  {
+    "id": "nexus-gas-toggle-th-mkn-contract-static",
+    "line": 13289
+  },
+  {
+    "id": "deployBtnMultiKeyNative",
+    "line": 13293
+  },
+  {
+    "id": "executeBtnMultiKeyNative",
+    "line": 13294
+  },
+  {
+    "id": "progressBarMultiKeyNative",
+    "line": 13298
+  },
+  {
+    "id": "progressFillMultiKeyNative",
+    "line": 13299
+  },
+  {
+    "id": "logContainerMultiKeyNative",
+    "line": 13309
+  },
+  {
+    "id": "multiKeyTokenModeContent",
+    "line": 13316
+  },
+  {
+    "id": "senderKeysMultiKeyTokenWrapper",
+    "line": 13325
+  },
+  {
+    "id": "senderKeysMultiKeyToken",
+    "line": 13326
+  },
+  {
+    "id": "senderKeysMultiKeyTokenToggleBtn",
+    "line": 13330
+  },
+  {
+    "id": "rpcUrlMultiKeyToken",
+    "line": 13339
+  },
+  {
+    "id": "recipientAddressMultiKeyToken",
+    "line": 13347
+  },
+  {
+    "id": "recipientTokenInfoBoxMultiKeyToken",
+    "line": 13350
+  },
+  {
+    "id": "recipientAddressDisplayMultiKeyToken",
+    "line": 13353
+  },
+  {
+    "id": "recipientTokenBalanceMultiKeyToken",
+    "line": 13357
+  },
+  {
+    "id": "tokenContractAddressMultiKeyToken",
+    "line": 13367
+  },
+  {
+    "id": "tokenSymbolMultiKeyToken",
+    "line": 13377
+  },
+  {
+    "id": "tokenDecimalsMultiKeyToken",
+    "line": 13381
+  },
+  {
+    "id": "totalSendersMultiKeyToken",
+    "line": 13392
+  },
+  {
+    "id": "perAddressDisplayMultiKeyToken",
+    "line": 13396
+  },
+  {
+    "id": "totalAmountMultiKeyToken",
+    "line": 13400
+  },
+  {
+    "id": "amountPerAddressMultiKeyToken",
+    "line": 13406
+  },
+  {
+    "id": "executeBtnMultiKeyToken",
+    "line": 13441
+  },
+  {
+    "id": "progressBarMultiKeyToken",
+    "line": 13445
+  },
+  {
+    "id": "progressFillMultiKeyToken",
+    "line": 13446
+  },
+  {
+    "id": "logContainerMultiKeyToken",
+    "line": 13456
+  },
+  {
+    "id": "nftTransferUI",
+    "line": 13466
+  },
+  {
+    "id": "th-net-emoji-nftDist-hdr",
+    "line": 13469
+  },
+  {
+    "id": "th-net-name-nftDist-hdr",
+    "line": 13469
+  },
+  {
+    "id": "nftDistributeModeCard",
+    "line": 13474
+  },
+  {
+    "id": "nftCollectModeCard",
+    "line": 13475
+  },
+  {
+    "id": "nftDistributeSection",
+    "line": 13480
+  },
+  {
+    "id": "rpcUrlNft",
+    "line": 13481
+  },
+  {
+    "id": "nftSenderKeyWrapper",
+    "line": 13487
+  },
+  {
+    "id": "nftSenderKey",
+    "line": 13488
+  },
+  {
+    "id": "nftSenderKeyToggleBtn",
+    "line": 13489
+  },
+  {
+    "id": "nftSenderWalletInfo",
+    "line": 13491
+  },
+  {
+    "id": "nftSenderAddress",
+    "line": 13492
+  },
+  {
+    "id": "nftSenderStatus",
+    "line": 13493
+  },
+  {
+    "id": "nftDistributeRecipientsCount",
+    "line": 13499
+  },
+  {
+    "id": "nftRecipientsDistribute",
+    "line": 13501
+  },
+  {
+    "id": "nftContractAddress",
+    "line": 13508
+  },
+  {
+    "id": "nftTokenIds",
+    "line": 13509
+  },
+  {
+    "id": "nftStandard",
+    "line": 13510
+  },
+  {
+    "id": "nftGridDistribute",
+    "line": 13519
+  },
+  {
+    "id": "totalCountDistribute",
+    "line": 13529
+  },
+  {
+    "id": "selectedCountDistribute",
+    "line": 13533
+  },
+  {
+    "id": "nftDistributeTokenCount",
+    "line": 13537
+  },
+  {
+    "id": "fetchNftsDistributeBtn",
+    "line": 13541
+  },
+  {
+    "id": "executeNftDistributeBtn",
+    "line": 13548
+  },
+  {
+    "id": "nftCollectSection",
+    "line": 13552
+  },
+  {
+    "id": "rpcUrlNftCollect",
+    "line": 13553
+  },
+  {
+    "id": "nftCollectWalletCount",
+    "line": 13558
+  },
+  {
+    "id": "nftSenderKeysWrapper",
+    "line": 13560
+  },
+  {
+    "id": "nftSenderKeys",
+    "line": 13561
+  },
+  {
+    "id": "nftSenderKeysToggleBtn",
+    "line": 13562
+  },
+  {
+    "id": "nftCollectRecipient",
+    "line": 13570
+  },
+  {
+    "id": "nftCollectRecipientInfo",
+    "line": 13571
+  },
+  {
+    "id": "nftCollectRecipientAddress",
+    "line": 13572
+  },
+  {
+    "id": "nftCollectRecipientStatus",
+    "line": 13573
+  },
+  {
+    "id": "nftContractAddressCollect",
+    "line": 13580
+  },
+  {
+    "id": "nftTokenIdsCollect",
+    "line": 13581
+  },
+  {
+    "id": "nftStandardCollect",
+    "line": 13582
+  },
+  {
+    "id": "nftGridCollect",
+    "line": 13591
+  },
+  {
+    "id": "totalCountCollect",
+    "line": 13601
+  },
+  {
+    "id": "selectedCountCollect",
+    "line": 13605
+  },
+  {
+    "id": "fetchNftsCollectBtn",
+    "line": 13609
+  },
+  {
+    "id": "executeNftCollectBtn",
+    "line": 13617
+  },
+  {
+    "id": "progressFillNft",
+    "line": 13622
+  },
+  {
+    "id": "logContainerNft",
+    "line": 13631
+  },
+  {
+    "id": "phraseToKeyUI",
+    "line": 13640
+  },
+  {
+    "id": "phraseModeBtn",
+    "line": 13650
+  },
+  {
+    "id": "keyToAddressModeBtn",
+    "line": 13653
+  },
+  {
+    "id": "phraseModeContent",
+    "line": 13660
+  },
+  {
+    "id": "mnemonicInput",
+    "line": 13667
+  },
+  {
+    "id": "phraseCountBadge",
+    "line": 13676
+  },
+  {
+    "id": "derivationPath",
+    "line": 13682
+  },
+  {
+    "id": "numAddresses",
+    "line": 13688
+  },
+  {
+    "id": "generateKeysBtn",
+    "line": 13693
+  },
+  {
+    "id": "outputSection",
+    "line": 13703
+  },
+  {
+    "id": "generatedKeysContainer",
+    "line": 13715
+  },
+  {
+    "id": "keyToAddressModeContent",
+    "line": 13720
+  },
+  {
+    "id": "keyCountBadge",
+    "line": 13723
+  },
+  {
+    "id": "privateKeysInputWrapper",
+    "line": 13725
+  },
+  {
+    "id": "privateKeysInput",
+    "line": 13726
+  },
+  {
+    "id": "privateKeysInputToggleBtn",
+    "line": 13727
+  },
+  {
+    "id": "addressCount",
+    "line": 13745
+  },
+  {
+    "id": "addressResults",
+    "line": 13758
+  },
+  {
+    "id": "logContainerKeyToAddress",
+    "line": 13773
+  },
+  {
+    "id": "selfTransferUI",
+    "line": 13784
+  },
+  {
+    "id": "th-net-emoji-selfTransfer-hdr",
+    "line": 13785
+  },
+  {
+    "id": "th-net-name-selfTransfer-hdr",
+    "line": 13785
+  },
+  {
+    "id": "selfNativeModeBtn",
+    "line": 13791
+  },
+  {
+    "id": "selfTokenModeBtn",
+    "line": 13794
+  },
+  {
+    "id": "rpcUrlSelfTransfer",
+    "line": 13800
+  },
+  {
+    "id": "selfTransferKeyCount",
+    "line": 13808
+  },
+  {
+    "id": "privateKeysSelfTransferWrapper",
+    "line": 13811
+  },
+  {
+    "id": "privateKeysSelfTransfer",
+    "line": 13812
+  },
+  {
+    "id": "privateKeysSelfTransferToggleBtn",
+    "line": 13813
+  },
+  {
+    "id": "txCountPerWallet",
+    "line": 13826
+  },
+  {
+    "id": "nativeAmountGroup",
+    "line": 13829
+  },
+  {
+    "id": "amountPerTx",
+    "line": 13831
+  },
+  {
+    "id": "tokenConfigSelfTransfer",
+    "line": 13837
+  },
+  {
+    "id": "tokenAddressSelfTransfer",
+    "line": 13842
+  },
+  {
+    "id": "tokenAmountPerTx",
+    "line": 13847
+  },
+  {
+    "id": "totalTxEstimate",
+    "line": 13857
+  },
+  {
+    "id": "totalWalletsEstimate",
+    "line": 13859
+  },
+  {
+    "id": "txPerWalletEstimate",
+    "line": 13859
+  },
+  {
+    "id": "executeSelfTransferBtn",
+    "line": 13866
+  },
+  {
+    "id": "logContainerSelfTransfer",
+    "line": 13879
+  },
+  {
+    "id": "balanceCheckUI",
+    "line": 13887
+  },
+  {
+    "id": "th-net-emoji-balanceCheck-hdr",
+    "line": 13889
+  },
+  {
+    "id": "th-net-name-balanceCheck-hdr",
+    "line": 13889
+  },
+  {
+    "id": "rpcUrlBalanceCheck",
+    "line": 13891
+  },
+  {
+    "id": "inputBalanceCheck",
+    "line": 13899
+  },
+  {
+    "id": "checkBalancesBtn",
+    "line": 13903
+  },
+  {
+    "id": "tokenAddressBalanceCheck",
+    "line": 13917
+  },
+  {
+    "id": "totalAddressesBalance",
+    "line": 13928
+  },
+  {
+    "id": "totalBalanceSum",
+    "line": 13932
+  },
+  {
+    "id": "balanceResultsList",
+    "line": 13940
+  },
+  {
+    "id": "logContainerBalanceCheck",
+    "line": 13968
+  },
+  {
+    "id": "withdrawManagerUI",
+    "line": 13980
+  },
+  {
+    "id": "th-net-emoji-withdraw-hdr",
+    "line": 13982
+  },
+  {
+    "id": "th-net-name-withdraw-hdr",
+    "line": 13982
+  },
+  {
+    "id": "withdrawRpcUrl",
+    "line": 13987
+  },
+  {
+    "id": "selectedContractInfoBox",
+    "line": 13994
+  },
+  {
+    "id": "selectedContractType",
+    "line": 13997
+  },
+  {
+    "id": "selectedContract",
+    "line": 13999
+  },
+  {
+    "id": "selectedContractBalance",
+    "line": 14005
+  },
+  {
+    "id": "selectedContractTokenBalance",
+    "line": 14009
+  },
+  {
+    "id": "selectedContractChain",
+    "line": 14014
+  },
+  {
+    "id": "noContractSelected",
+    "line": 14019
+  },
+  {
+    "id": "withdrawInputs",
+    "line": 14026
+  },
+  {
+    "id": "withdrawDeveloperKeyWrapper",
+    "line": 14030
+  },
+  {
+    "id": "withdrawDeveloperKey",
+    "line": 14031
+  },
+  {
+    "id": "withdrawDeveloperKeyToggleBtn",
+    "line": 14032
+  },
+  {
+    "id": "ownershipStatus",
+    "line": 14039
+  },
+  {
+    "id": "ownershipIcon",
+    "line": 14041
+  },
+  {
+    "id": "ownershipTitle",
+    "line": 14043
+  },
+  {
+    "id": "ownershipMessage",
+    "line": 14044
+  },
+  {
+    "id": "withdrawRecipient",
+    "line": 14052
+  },
+  {
+    "id": "tokenAddressGroup",
+    "line": 14055
+  },
+  {
+    "id": "withdrawTokenAddress",
+    "line": 14057
+  },
+  {
+    "id": "nexus-gas-toggle-th-wd-static",
+    "line": 14062
+  },
+  {
+    "id": "withdrawNativeBtn",
+    "line": 14066
+  },
+  {
+    "id": "withdrawTokenBtn",
+    "line": 14069
+  },
+  {
+    "id": "contractCount",
+    "line": 14080
+  },
+  {
+    "id": "contractsList",
+    "line": 14094
+  },
+  {
+    "id": "logContainerWithdraw",
+    "line": 14120
+  },
+  {
+    "id": "manualContractModal",
+    "line": 14129
+  },
+  {
+    "id": "manualContractType",
+    "line": 14145
+  },
+  {
+    "id": "manualContractAddress",
+    "line": 14154
+  },
+  {
+    "id": "manualTokenAddressGroup",
+    "line": 14158
+  },
+  {
+    "id": "manualTokenAddress",
+    "line": 14160
+  },
+  {
+    "id": "manualContractRpc",
+    "line": 14163
+  },
+  {
+    "id": "manualSelectedChainDisplay",
+    "line": 14168
+  },
+  {
+    "id": "manualChainEmoji",
+    "line": 14178
+  },
+  {
+    "id": "manualSelectedChainName",
+    "line": 14180
+  },
+  {
+    "id": "manualSelectedChainSymbol",
+    "line": 14181
+  },
+  {
+    "id": "wdDeleteModal",
+    "line": 14204
+  },
+  {
+    "id": "wdDeleteModalBox",
+    "line": 14205
+  },
+  {
+    "id": "wdDeleteIcon",
+    "line": 14212
+  },
+  {
+    "id": "wdDeleteTitle",
+    "line": 14213
+  },
+  {
+    "id": "wdDeleteSub",
+    "line": 14214
+  },
+  {
+    "id": "wdStep1Dot",
+    "line": 14219
+  },
+  {
+    "id": "wdStepLine",
+    "line": 14220
+  },
+  {
+    "id": "wdStepLineInner",
+    "line": 14220
+  },
+  {
+    "id": "wdStep2Dot",
+    "line": 14221
+  },
+  {
+    "id": "wdStepLabel1",
+    "line": 14224
+  },
+  {
+    "id": "wdStepLabel2",
+    "line": 14225
+  },
+  {
+    "id": "wdDeleteInfo",
+    "line": 14229
+  },
+  {
+    "id": "wdDeleteInfoContent",
+    "line": 14230
+  },
+  {
+    "id": "wdDeleteConfirmBtn",
+    "line": 14238
+  },
+  {
+    "id": "tokenApprovalManagerUI",
+    "line": 14257
+  },
+  {
+    "id": "th-net-emoji-approval-hdr",
+    "line": 14258
+  },
+  {
+    "id": "th-net-name-approval-hdr",
+    "line": 14258
+  },
+  {
+    "id": "rpcUrlApproval",
+    "line": 14262
+  },
+  {
+    "id": "privateKeyApprovalWrapper",
+    "line": 14270
+  },
+  {
+    "id": "privateKeyApproval",
+    "line": 14271
+  },
+  {
+    "id": "privateKeyApprovalToggleBtn",
+    "line": 14272
+  },
+  {
+    "id": "autoDetectCountApproval",
+    "line": 14277
+  },
+  {
+    "id": "walletsLoadedApproval",
+    "line": 14283
+  },
+  {
+    "id": "tokenAddressApproval",
+    "line": 14296
+  },
+  {
+    "id": "spenderAddressApproval",
+    "line": 14301
+  },
+  {
+    "id": "approvalAmount",
+    "line": 14306
+  },
+  {
+    "id": "successCountApproval",
+    "line": 14321
+  },
+  {
+    "id": "failedCountApproval",
+    "line": 14325
+  },
+  {
+    "id": "executeApprovalBtn",
+    "line": 14329
+  },
+  {
+    "id": "logContainerApproval",
+    "line": 14345
+  },
+  {
+    "id": "walletToWalletUI",
+    "line": 14354
+  },
+  {
+    "id": "th-net-emoji-w2wNative-hdr",
+    "line": 14357
+  },
+  {
+    "id": "th-net-name-w2wNative-hdr",
+    "line": 14357
+  },
+  {
+    "id": "w2wNativeModeBtn",
+    "line": 14362
+  },
+  {
+    "id": "w2wTokenModeBtn",
+    "line": 14363
+  },
+  {
+    "id": "w2wNativeFields",
+    "line": 14368
+  },
+  {
+    "id": "rpcUrlW2W",
+    "line": 14369
+  },
+  {
+    "id": "w2wSenderCount",
+    "line": 14373
+  },
+  {
+    "id": "w2wSenderKeysWrapper",
+    "line": 14375
+  },
+  {
+    "id": "w2wSenderKeys",
+    "line": 14376
+  },
+  {
+    "id": "w2wSenderKeysToggleBtn",
+    "line": 14377
+  },
+  {
+    "id": "w2wReceiverCount",
+    "line": 14383
+  },
+  {
+    "id": "w2wReceiverKeys",
+    "line": 14385
+  },
+  {
+    "id": "w2wTotalSenders",
+    "line": 14395
+  },
+  {
+    "id": "w2wTotalReceivers",
+    "line": 14399
+  },
+  {
+    "id": "w2wCustomAmount",
+    "line": 14402
+  },
+  {
+    "id": "executeW2WBtn",
+    "line": 14412
+  },
+  {
+    "id": "progressBarW2W",
+    "line": 14413
+  },
+  {
+    "id": "progressFillW2W",
+    "line": 14413
+  },
+  {
+    "id": "w2wTokenFields",
+    "line": 14417
+  },
+  {
+    "id": "rpcUrlW2WToken",
+    "line": 14418
+  },
+  {
+    "id": "w2wSenderCountToken",
+    "line": 14422
+  },
+  {
+    "id": "w2wSenderKeysTokenWrapper",
+    "line": 14424
+  },
+  {
+    "id": "w2wSenderKeysToken",
+    "line": 14425
+  },
+  {
+    "id": "w2wSenderKeysTokenToggleBtn",
+    "line": 14426
+  },
+  {
+    "id": "w2wReceiverCountToken",
+    "line": 14432
+  },
+  {
+    "id": "w2wReceiverKeysToken",
+    "line": 14434
+  },
+  {
+    "id": "w2wTokenContract",
+    "line": 14440
+  },
+  {
+    "id": "w2wCustomAmountToken",
+    "line": 14447
+  },
+  {
+    "id": "executeW2WTokenBtn",
+    "line": 14457
+  },
+  {
+    "id": "progressBarW2WToken",
+    "line": 14458
+  },
+  {
+    "id": "progressFillW2WToken",
+    "line": 14458
+  },
+  {
+    "id": "logSectionW2W",
+    "line": 14467
+  },
+  {
+    "id": "th-wallet-picker-overlay",
+    "line": 14477
+  },
+  {
+    "id": "th-wallet-picker-drawer",
+    "line": 14478
+  },
+  {
+    "id": "th-picker-icon-wrap",
+    "line": 14481
+  },
+  {
+    "id": "th-picker-subtitle",
+    "line": 14486
+  },
+  {
+    "id": "th-picker-mode-badge",
+    "line": 14494
+  },
+  {
+    "id": "th-wallet-picker-list",
+    "line": 14498
+  },
+  {
+    "id": "th-picker-apply-btn",
+    "line": 14501
+  },
+  {
+    "id": "page-sup-transfer",
+    "line": 14512
+  },
+  {
+    "id": "sup-status-pill",
+    "line": 14523
+  },
+  {
+    "id": "sup-live-dot",
+    "line": 14524
+  },
+  {
+    "id": "sup-status-txt",
+    "line": 14525
+  },
+  {
+    "id": "sup-s-total",
+    "line": 14539
+  },
+  {
+    "id": "sup-s-done",
+    "line": 14544
+  },
+  {
+    "id": "sup-s-err",
+    "line": 14549
+  },
+  {
+    "id": "sup-s-pct",
+    "line": 14554
+  },
+  {
+    "id": "sup-tab-bar",
+    "line": 14560
+  },
+  {
+    "id": "sup-tab-config",
+    "line": 14561
+  },
+  {
+    "id": "sup-tab-keys",
+    "line": 14562
+  },
+  {
+    "id": "sup-tab-queue",
+    "line": 14563
+  },
+  {
+    "id": "sup-tab-log",
+    "line": 14564
+  },
+  {
+    "id": "sup-log-badge",
+    "line": 14564
+  },
+  {
+    "id": "sup-panel-config",
+    "line": 14568
+  },
+  {
+    "id": "sup-tokenAddr",
+    "line": 14576
+  },
+  {
+    "id": "sup-tokenDecimals",
+    "line": 14580
+  },
+  {
+    "id": "sup-recipient",
+    "line": 14584
+  },
+  {
+    "id": "sup-mode",
+    "line": 14588
+  },
+  {
+    "id": "sup-fixedWrap",
+    "line": 14593
+  },
+  {
+    "id": "sup-amount",
+    "line": 14595
+  },
+  {
+    "id": "sup-rpc",
+    "line": 14608
+  },
+  {
+    "id": "sup-ethRpc",
+    "line": 14612
+  },
+  {
+    "id": "sup-chainId",
+    "line": 14624
+  },
+  {
+    "id": "sup-panel-keys",
+    "line": 14630
+  },
+  {
+    "id": "sup-pk-count",
+    "line": 14636
+  },
+  {
+    "id": "supPkAreaWrapper",
+    "line": 14643
+  },
+  {
+    "id": "sup-pkArea",
+    "line": 14644
+  },
+  {
+    "id": "supPkAreaToggleBtn",
+    "line": 14645
+  },
+  {
+    "id": "supPkAreaEyeIcon",
+    "line": 14646
+  },
+  {
+    "id": "sup-btn-clear",
+    "line": 14650
+  },
+  {
+    "id": "sup-pk-derived",
+    "line": 14652
+  },
+  {
+    "id": "sup-wallet-picker-overlay",
+    "line": 14657
+  },
+  {
+    "id": "sup-wallet-picker-drawer",
+    "line": 14658
+  },
+  {
+    "id": "sup-picker-subtitle",
+    "line": 14666
+  },
+  {
+    "id": "sup-picker-selall-btn",
+    "line": 14674
+  },
+  {
+    "id": "sup-wallet-picker-list",
+    "line": 14677
+  },
+  {
+    "id": "sup-panel-queue",
+    "line": 14683
+  },
+  {
+    "id": "sup-q-info",
+    "line": 14688
+  },
+  {
+    "id": "sup-prog-fill",
+    "line": 14692
+  },
+  {
+    "id": "sup-prog-l",
+    "line": 14695
+  },
+  {
+    "id": "sup-prog-r",
+    "line": 14695
+  },
+  {
+    "id": "sup-wallet-list",
+    "line": 14698
+  },
+  {
+    "id": "sup-panel-log",
+    "line": 14705
+  },
+  {
+    "id": "sup-log-box",
+    "line": 14715
+  },
+  {
+    "id": "sup-btn-next",
+    "line": 14724
+  },
+  {
+    "id": "sup-btn-start",
+    "line": 14726
+  },
+  {
+    "id": "sup-btn-stop",
+    "line": 14727
+  },
+  {
+    "id": "page-base-swap-bot",
+    "line": 14733
+  },
+  {
+    "id": "bsb-si1",
+    "line": 14750
+  },
+  {
+    "id": "bsb-sc1",
+    "line": 14751
+  },
+  {
+    "id": "bsb-conn1",
+    "line": 14754
+  },
+  {
+    "id": "bsb-si2",
+    "line": 14755
+  },
+  {
+    "id": "bsb-sc2",
+    "line": 14756
+  },
+  {
+    "id": "bsb-conn2",
+    "line": 14759
+  },
+  {
+    "id": "bsb-si3",
+    "line": 14760
+  },
+  {
+    "id": "bsb-sc3",
+    "line": 14761
+  },
+  {
+    "id": "bsb-container",
+    "line": 14767
+  },
+  {
+    "id": "bsb-step1",
+    "line": 14770
+  },
+  {
+    "id": "bsb-rpc",
+    "line": 14775
+  },
+  {
+    "id": "bsb-rpc2",
+    "line": 14777
+  },
+  {
+    "id": "bsb-rpc3",
+    "line": 14779
+  },
+  {
+    "id": "bsb-pm",
+    "line": 14781
+  },
+  {
+    "id": "bsb-chainId",
+    "line": 14783
+  },
+  {
+    "id": "bsb-ep",
+    "line": 14785
+  },
+  {
+    "id": "bsb-factory",
+    "line": 14787
+  },
+  {
+    "id": "bsb-poolMgr",
+    "line": 14793
+  },
+  {
+    "id": "bsb-posMgr",
+    "line": 14795
+  },
+  {
+    "id": "bsb-router",
+    "line": 14797
+  },
+  {
+    "id": "bsb-p2",
+    "line": 14799
+  },
+  {
+    "id": "bsb-fee",
+    "line": 14801
+  },
+  {
+    "id": "bsb-tick",
+    "line": 14807
+  },
+  {
+    "id": "bsb-aero-router",
+    "line": 14814
+  },
+  {
+    "id": "bsb-aero-factory",
+    "line": 14816
+  },
+  {
+    "id": "bsb-aero-fee",
+    "line": 14818
+  },
+  {
+    "id": "bsb-baseswap-router",
+    "line": 14830
+  },
+  {
+    "id": "bsb-baseswap-fee",
+    "line": 14832
+  },
+  {
+    "id": "bsb-swapbased-router",
+    "line": 14843
+  },
+  {
+    "id": "bsb-swapbased-fee",
+    "line": 14845
+  },
+  {
+    "id": "bsb-rocketswap-router",
+    "line": 14856
+  },
+  {
+    "id": "bsb-rocketswap-fee",
+    "line": 14858
+  },
+  {
+    "id": "bsb-alienbase-router",
+    "line": 14869
+  },
+  {
+    "id": "bsb-alienbase-fee",
+    "line": 14871
+  },
+  {
+    "id": "bsb-sushi-nfpm",
+    "line": 14882
+  },
+  {
+    "id": "bsb-sushi-fee",
+    "line": 14884
+  },
+  {
+    "id": "bsb-cake-nfpm",
+    "line": 14895
+  },
+  {
+    "id": "bsb-cake-fee",
+    "line": 14897
+  },
+  {
+    "id": "bsb-step2",
+    "line": 14910
+  },
+  {
+    "id": "bsbKeysWrapper",
+    "line": 14920
+  },
+  {
+    "id": "bsb-keys",
+    "line": 14921
+  },
+  {
+    "id": "bsbKeysToggleBtn",
+    "line": 14922
+  },
+  {
+    "id": "bsbKeysEyeIcon",
+    "line": 14923
+  },
+  {
+    "id": "bsb-keyList",
+    "line": 14927
+  },
+  {
+    "id": "bsb-settings-arrow",
+    "line": 14931
+  },
+  {
+    "id": "bsb-settings-body",
+    "line": 14932
+  },
+  {
+    "id": "bsb-swMin",
+    "line": 14935
+  },
+  {
+    "id": "bsb-swMax",
+    "line": 14936
+  },
+  {
+    "id": "bsb-amMin",
+    "line": 14940
+  },
+  {
+    "id": "bsb-amMax",
+    "line": 14941
+  },
+  {
+    "id": "bsb-lqMin",
+    "line": 14945
+  },
+  {
+    "id": "bsb-lqMax",
+    "line": 14946
+  },
+  {
+    "id": "bsb-dlMin",
+    "line": 14950
+  },
+  {
+    "id": "bsb-dlMax",
+    "line": 14951
+  },
+  {
+    "id": "bsb-slip-01",
+    "line": 14955
+  },
+  {
+    "id": "bsb-slip-05",
+    "line": 14956
+  },
+  {
+    "id": "bsb-slip-10",
+    "line": 14957
+  },
+  {
+    "id": "bsb-slip-30",
+    "line": 14958
+  },
+  {
+    "id": "bsb-slip-15",
+    "line": 14959
+  },
+  {
+    "id": "bsb-slip-custom",
+    "line": 14961
+  },
+  {
+    "id": "bsb-slip-val",
+    "line": 14962
+  },
+  {
+    "id": "bsb-step3",
+    "line": 14972
+  },
+  {
+    "id": "bsb-sKeys",
+    "line": 14977
+  },
+  {
+    "id": "bsb-sTxns",
+    "line": 14981
+  },
+  {
+    "id": "bsb-sSwaps",
+    "line": 14985
+  },
+  {
+    "id": "bsb-sErr",
+    "line": 14989
+  },
+  {
+    "id": "bsb-startBtn",
+    "line": 14996
+  },
+  {
+    "id": "bsb-stopBtn",
+    "line": 14997
+  },
+  {
+    "id": "bsb-logBox",
+    "line": 15006
+  },
+  {
+    "id": "bsb-wallet-picker-overlay",
+    "line": 15017
+  },
+  {
+    "id": "bsb-wallet-picker-drawer",
+    "line": 15018
+  },
+  {
+    "id": "bsb-wallet-picker-list",
+    "line": 15037
+  },
+  {
+    "id": "bsb-ki",
+    "line": 15144
+  },
+  {
+    "id": "bsb-dot",
+    "line": 15145
+  },
+  {
+    "id": "bsb-lbl",
+    "line": 15145
+  },
+  {
+    "id": "bsb-picker-card-",
+    "line": 16007
+  },
+  {
+    "id": "bsb-picker-chk-",
+    "line": 16010
+  },
+  {
+    "id": "bsb-picker-expbtn-",
+    "line": 16020
+  },
+  {
+    "id": "bsb-picker-expicon-",
+    "line": 16021
+  },
+  {
+    "id": "bsb-picker-keys-",
+    "line": 16028
+  },
+  {
+    "id": "bsb-picker-krow-",
+    "line": 16035
+  },
+  {
+    "id": "page-settings",
+    "line": 16272
+  },
+  {
+    "id": "wg-total-badge",
+    "line": 16291
+  },
+  {
+    "id": "wg-manage-btn",
+    "line": 16292
+  },
+  {
+    "id": "rpc-manager-sub",
+    "line": 16324
+  },
+  {
+    "id": "settings-pm-sub",
+    "line": 16340
+  },
+  {
+    "id": "settings-cfg-paymaster",
+    "line": 16343
+  },
+  {
+    "id": "settings-pm-panel",
+    "line": 16346
+  },
+  {
+    "id": "settings-paymaster-url-input",
+    "line": 16348
+  },
+  {
+    "id": "settings-pm-status",
+    "line": 16362
+  },
+  {
+    "id": "currency-menu-sub",
+    "line": 16380
+  },
+  {
+    "id": "theme-menu-icon",
+    "line": 16387
+  },
+  {
+    "id": "theme-menu-icon-glyph",
+    "line": 16388
+  },
+  {
+    "id": "theme-menu-title",
+    "line": 16391
+  },
+  {
+    "id": "theme-menu-sub",
+    "line": 16392
+  },
+  {
+    "id": "theme-toggle-track",
+    "line": 16394
+  },
+  {
+    "id": "theme-toggle-thumb",
+    "line": 16395
+  },
+  {
+    "id": "toggle-haptic",
+    "line": 16407
+  },
+  {
+    "id": "notif-toggle-sub",
+    "line": 16417
+  },
+  {
+    "id": "toggle-notif",
+    "line": 16419
+  },
+  {
+    "id": "lock-setup-sub",
+    "line": 16429
+  },
+  {
+    "id": "console-log-menu-sub",
+    "line": 16441
+  },
+  {
+    "id": "console-log-menu-toggle",
+    "line": 16443
+  },
+  {
+    "id": "nx-console-modal",
+    "line": 16460
+  },
+  {
+    "id": "nx-console-count-sub",
+    "line": 16467
+  },
+  {
+    "id": "nx-console-toggle",
+    "line": 16481
+  },
+  {
+    "id": "nx-console-list",
+    "line": 16483
+  },
+  {
+    "id": "page-nansen",
+    "line": 16486
+  },
+  {
+    "id": "swap-modal-inner",
+    "line": 16487
+  },
+  {
+    "id": "step-1",
+    "line": 16520
+  },
+  {
+    "id": "line-1-2",
+    "line": 16524
+  },
+  {
+    "id": "step-2",
+    "line": 16525
+  },
+  {
+    "id": "line-2-3",
+    "line": 16529
+  },
+  {
+    "id": "step-3",
+    "line": 16530
+  },
+  {
+    "id": "line-3-4",
+    "line": 16534
+  },
+  {
+    "id": "step-4",
+    "line": 16535
+  },
+  {
+    "id": "swap-step-1",
+    "line": 16542
+  },
+  {
+    "id": "swap-active-group-pill",
+    "line": 16545
+  },
+  {
+    "id": "swap-group-name",
+    "line": 16548
+  },
+  {
+    "id": "swap-group-meta",
+    "line": 16549
+  },
+  {
+    "id": "swap-group-picker",
+    "line": 16555
+  },
+  {
+    "id": "swap-group-btn-sub",
+    "line": 16570
+  },
+  {
+    "id": "key-count-badge",
+    "line": 16573
+  },
+  {
+    "id": "swap-group-list",
+    "line": 16579
+  },
+  {
+    "id": "swap-multiselect-summary",
+    "line": 16580
+  },
+  {
+    "id": "sms-text",
+    "line": 16581
+  },
+  {
+    "id": "sms-count",
+    "line": 16582
+  },
+  {
+    "id": "swap-picker-done-btn",
+    "line": 16584
+  },
+  {
+    "id": "group-toggle-all-btn",
+    "line": 16585
+  },
+  {
+    "id": "wallet-preview-section",
+    "line": 16589
+  },
+  {
+    "id": "wallet-preview-list",
+    "line": 16590
+  },
+  {
+    "id": "wallet-toggle-all-btn",
+    "line": 16591
+  },
+  {
+    "id": "step1-key-box",
+    "line": 16595
+  },
+  {
+    "id": "step1-key-valid-badge",
+    "line": 16608
+  },
+  {
+    "id": "step1-key-show-btn",
+    "line": 16610
+  },
+  {
+    "id": "step1-key-show-icon",
+    "line": 16614
+  },
+  {
+    "id": "step1-key-show-label",
+    "line": 16615
+  },
+  {
+    "id": "step1-key-masked",
+    "line": 16624
+  },
+  {
+    "id": "step1-key-masked-rows",
+    "line": 16625
+  },
+  {
+    "id": "step1-key-masked-empty",
+    "line": 16627
+  },
+  {
+    "id": "step1-key-textarea-wrap",
+    "line": 16634
+  },
+  {
+    "id": "step1-key-textarea",
+    "line": 16635
+  },
+  {
+    "id": "step1-key-count-overlay",
+    "line": 16644
+  },
+  {
+    "id": "step1-key-status",
+    "line": 16648
+  },
+  {
+    "id": "step1-key-status-icon",
+    "line": 16649
+  },
+  {
+    "id": "step1-key-status-text",
+    "line": 16650
+  },
+  {
+    "id": "step1-next-btn",
+    "line": 16654
+  },
+  {
+    "id": "swap-step-2",
+    "line": 16669
+  },
+  {
+    "id": "pair-saved-count",
+    "line": 16684
+  },
+  {
+    "id": "saved-pairs-list",
+    "line": 16691
+  },
+  {
+    "id": "no-pairs-msg",
+    "line": 16692
+  },
+  {
+    "id": "create-pair-header",
+    "line": 16701
+  },
+  {
+    "id": "create-pair-chevron",
+    "line": 16709
+  },
+  {
+    "id": "create-pair-body",
+    "line": 16713
+  },
+  {
+    "id": "from-token-defaults",
+    "line": 16717
+  },
+  {
+    "id": "pair-from-addr",
+    "line": 16719
+  },
+  {
+    "id": "pair-from-sym",
+    "line": 16720
+  },
+  {
+    "id": "to-token-defaults",
+    "line": 16734
+  },
+  {
+    "id": "pair-to-addr",
+    "line": 16736
+  },
+  {
+    "id": "pair-to-sym",
+    "line": 16737
+  },
+  {
+    "id": "pair-label",
+    "line": 16744
+  },
+  {
+    "id": "pair-preview-box",
+    "line": 16748
+  },
+  {
+    "id": "pair-preview-content",
+    "line": 16750
+  },
+  {
+    "id": "step2-next-btn",
+    "line": 16765
+  },
+  {
+    "id": "swap-step-3",
+    "line": 16772
+  },
+  {
+    "id": "active-pair-banner",
+    "line": 16775
+  },
+  {
+    "id": "active-pair-text",
+    "line": 16779
+  },
+  {
+    "id": "swap-min",
+    "line": 16796
+  },
+  {
+    "id": "swap-max",
+    "line": 16801
+  },
+  {
+    "id": "range-preview",
+    "line": 16803
+  },
+  {
+    "id": "randomize-btn",
+    "line": 16805
+  },
+  {
+    "id": "randomize-preview",
+    "line": 16809
+  },
+  {
+    "id": "review-start-btn",
+    "line": 16816
+  },
+  {
+    "id": "integrator-list",
+    "line": 16830
+  },
+  {
+    "id": "integrator-custom-input",
+    "line": 16833
+  },
+  {
+    "id": "cfg-modes-body",
+    "line": 16853
+  },
+  {
+    "id": "cfg-paymaster",
+    "line": 16855
+  },
+  {
+    "id": "paymaster-url-input",
+    "line": 16856
+  },
+  {
+    "id": "cfg-paymaster-sub",
+    "line": 16863
+  },
+  {
+    "id": "swap-modes-paymaster",
+    "line": 16865
+  },
+  {
+    "id": "cfg-dry",
+    "line": 16877
+  },
+  {
+    "id": "swap-step-4",
+    "line": 16907
+  },
+  {
+    "id": "run-summary",
+    "line": 16910
+  },
+  {
+    "id": "sum-wallets",
+    "line": 16913
+  },
+  {
+    "id": "sum-total-swaps",
+    "line": 16917
+  },
+  {
+    "id": "sum-pair",
+    "line": 16921
+  },
+  {
+    "id": "sum-gas",
+    "line": 16925
+  },
+  {
+    "id": "sum-integrator",
+    "line": 16929
+  },
+  {
+    "id": "wallet-progress-section",
+    "line": 16938
+  },
+  {
+    "id": "nansen-toadd-verify-wrap",
+    "line": 16941
+  },
+  {
+    "id": "nansen-toadd-verify-icon",
+    "line": 16943
+  },
+  {
+    "id": "nansen-toadd-verify-badge",
+    "line": 16944
+  },
+  {
+    "id": "wallet-progress-list",
+    "line": 16947
+  },
+  {
+    "id": "run-controls",
+    "line": 16951
+  },
+  {
+    "id": "back-btn-3",
+    "line": 16952
+  },
+  {
+    "id": "run-btn",
+    "line": 16955
+  },
+  {
+    "id": "terminal-card",
+    "line": 16962
+  },
+  {
+    "id": "terminal-status",
+    "line": 16969
+  },
+  {
+    "id": "log-output",
+    "line": 16972
+  },
+  {
+    "id": "resume-row",
+    "line": 16977
+  },
+  {
+    "id": "resume-wallet-input",
+    "line": 16983
+  },
+  {
+    "id": "resume-saved-badge",
+    "line": 16986
+  },
+  {
+    "id": "resume-hint",
+    "line": 16992
+  },
+  {
+    "id": "page-delegation",
+    "line": 17003
+  },
+  {
+    "id": "del-header-step-label",
+    "line": 17013
+  },
+  {
+    "id": "del-chain-badge",
+    "line": 17015
+  },
+  {
+    "id": "del-badge-emoji",
+    "line": 17016
+  },
+  {
+    "id": "del-badge-name",
+    "line": 17017
+  },
+  {
+    "id": "del-stepbar",
+    "line": 17022
+  },
+  {
+    "id": "del-step-item-1",
+    "line": 17024
+  },
+  {
+    "id": "del-conn-1-2",
+    "line": 17027
+  },
+  {
+    "id": "del-step-item-2",
+    "line": 17030
+  },
+  {
+    "id": "del-conn-2-3",
+    "line": 17033
+  },
+  {
+    "id": "del-step-item-3",
+    "line": 17036
+  },
+  {
+    "id": "del-modal-body-scroll",
+    "line": 17043
+  },
+  {
+    "id": "del-panel-1",
+    "line": 17048
+  },
+  {
+    "id": "del-delegationAddress",
+    "line": 17054
+  },
+  {
+    "id": "del-btnRevoke",
+    "line": 17057
+  },
+  {
+    "id": "del-ownerFunction",
+    "line": 17067
+  },
+  {
+    "id": "del-owner-fn-status",
+    "line": 17071
+  },
+  {
+    "id": "del-rpcUrls",
+    "line": 17076
+  },
+  {
+    "id": "del-rpcUrl",
+    "line": 17083
+  },
+  {
+    "id": "del-panel-2",
+    "line": 17097
+  },
+  {
+    "id": "del-pk-toggle",
+    "line": 17103
+  },
+  {
+    "id": "del-pk-icon",
+    "line": 17104
+  },
+  {
+    "id": "del-pk-lbl",
+    "line": 17105
+  },
+  {
+    "id": "del-pk-masked",
+    "line": 17109
+  },
+  {
+    "id": "del-pk-masked-rows",
+    "line": 17110
+  },
+  {
+    "id": "del-privateKeys",
+    "line": 17115
+  },
+  {
+    "id": "del-keyCountBadge",
+    "line": 17117
+  },
+  {
+    "id": "del-keyCountNum",
+    "line": 17120
+  },
+  {
+    "id": "del-group-trigger-meta",
+    "line": 17134
+  },
+  {
+    "id": "del-group-import-status",
+    "line": 17138
+  },
+  {
+    "id": "del-panel-3",
+    "line": 17156
+  },
+  {
+    "id": "del-totalWallets",
+    "line": 17163
+  },
+  {
+    "id": "del-successCount",
+    "line": 17167
+  },
+  {
+    "id": "del-failCount",
+    "line": 17171
+  },
+  {
+    "id": "del-skipCount",
+    "line": 17175
+  },
+  {
+    "id": "del-btnDelegate",
+    "line": 17181
+  },
+  {
+    "id": "del-btnCheckWallets",
+    "line": 17186
+  },
+  {
+    "id": "del-btnCheckAndRedelegate",
+    "line": 17190
+  },
+  {
+    "id": "del-btnRevokeBatch",
+    "line": 17195
+  },
+  {
+    "id": "page-exchange",
+    "line": 17216
+  },
+  {
+    "id": "exc-topbar",
+    "line": 17219
+  },
+  {
+    "id": "exc-selector-btn",
+    "line": 17224
+  },
+  {
+    "id": "exc-logo",
+    "line": 17225
+  },
+  {
+    "id": "exc-logo-fb",
+    "line": 17226
+  },
+  {
+    "id": "exc-name",
+    "line": 17227
+  },
+  {
+    "id": "exc-api-status",
+    "line": 17232
+  },
+  {
+    "id": "exc-api-dot",
+    "line": 17233
+  },
+  {
+    "id": "exc-api-label",
+    "line": 17234
+  },
+  {
+    "id": "exc-panel-markets",
+    "line": 17248
+  },
+  {
+    "id": "exc-mkt-search",
+    "line": 17253
+  },
+  {
+    "id": "exc-quote-btns",
+    "line": 17255
+  },
+  {
+    "id": "exc-q-USDT",
+    "line": 17256
+  },
+  {
+    "id": "exc-q-BTC",
+    "line": 17257
+  },
+  {
+    "id": "exc-q-ETH",
+    "line": 17258
+  },
+  {
+    "id": "exc-sort-price",
+    "line": 17265
+  },
+  {
+    "id": "exc-sort-change",
+    "line": 17266
+  },
+  {
+    "id": "exc-markets-list",
+    "line": 17269
+  },
+  {
+    "id": "exc-panel-trade",
+    "line": 17278
+  },
+  {
+    "id": "exc-ctab-convert",
+    "line": 17282
+  },
+  {
+    "id": "exc-ctab-spot",
+    "line": 17283
+  },
+  {
+    "id": "exc-ctab-futures",
+    "line": 17284
+  },
+  {
+    "id": "exc-convert-content",
+    "line": 17288
+  },
+  {
+    "id": "exc-conv-unsupported",
+    "line": 17291
+  },
+  {
+    "id": "exc-conv-ui",
+    "line": 17298
+  },
+  {
+    "id": "exc-conv-from-btn",
+    "line": 17304
+  },
+  {
+    "id": "exc-conv-from-logo",
+    "line": 17305
+  },
+  {
+    "id": "exc-conv-from-sym",
+    "line": 17306
+  },
+  {
+    "id": "exc-conv-from-amt",
+    "line": 17309
+  },
+  {
+    "id": "exc-conv-from-bal",
+    "line": 17312
+  },
+  {
+    "id": "exc-conv-to-btn",
+    "line": 17328
+  },
+  {
+    "id": "exc-conv-to-logo",
+    "line": 17329
+  },
+  {
+    "id": "exc-conv-to-sym",
+    "line": 17330
+  },
+  {
+    "id": "exc-conv-to-amt",
+    "line": 17333
+  },
+  {
+    "id": "exc-conv-rate",
+    "line": 17336
+  },
+  {
+    "id": "exc-conv-preview-btn",
+    "line": 17341
+  },
+  {
+    "id": "exc-conv-nokey",
+    "line": 17344
+  },
+  {
+    "id": "exc-spot-content",
+    "line": 17353
+  },
+  {
+    "id": "exc-trade-pair",
+    "line": 17358
+  },
+  {
+    "id": "exc-trade-price",
+    "line": 17363
+  },
+  {
+    "id": "exc-trade-change",
+    "line": 17364
+  },
+  {
+    "id": "exc-split-top",
+    "line": 17369
+  },
+  {
+    "id": "exc-trade-split",
+    "line": 17370
+  },
+  {
+    "id": "exc-side-buy",
+    "line": 17377
+  },
+  {
+    "id": "exc-side-sell",
+    "line": 17378
+  },
+  {
+    "id": "exc-ot-limit",
+    "line": 17383
+  },
+  {
+    "id": "exc-ot-market",
+    "line": 17384
+  },
+  {
+    "id": "exc-limit-row",
+    "line": 17388
+  },
+  {
+    "id": "exc-limit-price",
+    "line": 17392
+  },
+  {
+    "id": "exc-trade-base2",
+    "line": 17399
+  },
+  {
+    "id": "exc-trade-amount",
+    "line": 17402
+  },
+  {
+    "id": "exc-trade-base",
+    "line": 17403
+  },
+  {
+    "id": "exc-trade-slider",
+    "line": 17410
+  },
+  {
+    "id": "exc-trade-total",
+    "line": 17424
+  },
+  {
+    "id": "exc-tpsl-check",
+    "line": 17432
+  },
+  {
+    "id": "exc-tpsl-rows",
+    "line": 17438
+  },
+  {
+    "id": "exc-tp-price",
+    "line": 17442
+  },
+  {
+    "id": "exc-sl-price",
+    "line": 17449
+  },
+  {
+    "id": "exc-avail-bal",
+    "line": 17459
+  },
+  {
+    "id": "exc-max-label",
+    "line": 17466
+  },
+  {
+    "id": "exc-max-buy",
+    "line": 17467
+  },
+  {
+    "id": "exc-main-btn",
+    "line": 17472
+  },
+  {
+    "id": "exc-trade-nokey",
+    "line": 17475
+  },
+  {
+    "id": "exc-ob-amt-label",
+    "line": 17487
+  },
+  {
+    "id": "exc-ob-asks",
+    "line": 17491
+  },
+  {
+    "id": "exc-ob-mid",
+    "line": 17495
+  },
+  {
+    "id": "exc-ob-mid-usd",
+    "line": 17496
+  },
+  {
+    "id": "exc-ob-bids",
+    "line": 17500
+  },
+  {
+    "id": "exc-depth-buy",
+    "line": 17505
+  },
+  {
+    "id": "exc-depth-sell",
+    "line": 17506
+  },
+  {
+    "id": "exc-depth-buy-pct",
+    "line": 17509
+  },
+  {
+    "id": "exc-depth-sell-pct",
+    "line": 17510
+  },
+  {
+    "id": "exc-ob-depth-sel",
+    "line": 17513
+  },
+  {
+    "id": "exc-ob-view-btn",
+    "line": 17519
+  },
+  {
+    "id": "exc-split-bottom",
+    "line": 17530
+  },
+  {
+    "id": "exc-trade-tt-open",
+    "line": 17532
+  },
+  {
+    "id": "exc-trade-open-count",
+    "line": 17532
+  },
+  {
+    "id": "exc-trade-tt-hold",
+    "line": 17533
+  },
+  {
+    "id": "exc-trade-hold-count",
+    "line": 17533
+  },
+  {
+    "id": "exc-trade-orders-list",
+    "line": 17538
+  },
+  {
+    "id": "exc-trade-port-list",
+    "line": 17539
+  },
+  {
+    "id": "exc-panel-orders",
+    "line": 17548
+  },
+  {
+    "id": "exc-ocat-open",
+    "line": 17552
+  },
+  {
+    "id": "exc-ocat-all",
+    "line": 17553
+  },
+  {
+    "id": "exc-ocat-spot",
+    "line": 17554
+  },
+  {
+    "id": "exc-ocat-futures",
+    "line": 17555
+  },
+  {
+    "id": "exc-ocat-convert",
+    "line": 17556
+  },
+  {
+    "id": "exc-orders-list",
+    "line": 17560
+  },
+  {
+    "id": "exc-panel-future",
+    "line": 17569
+  },
+  {
+    "id": "fut-symbol",
+    "line": 17575
+  },
+  {
+    "id": "fut-chg",
+    "line": 17581
+  },
+  {
+    "id": "fut-main-split",
+    "line": 17585
+  },
+  {
+    "id": "fut-form-col",
+    "line": 17588
+  },
+  {
+    "id": "fut-tab-buy",
+    "line": 17592
+  },
+  {
+    "id": "fut-tab-sell",
+    "line": 17593
+  },
+  {
+    "id": "fut-margin-mode",
+    "line": 17598
+  },
+  {
+    "id": "fut-leverage-btn",
+    "line": 17599
+  },
+  {
+    "id": "fut-lev-text",
+    "line": 17599
+  },
+  {
+    "id": "fut-order-type",
+    "line": 17604
+  },
+  {
+    "id": "fut-price-row",
+    "line": 17614
+  },
+  {
+    "id": "fut-price",
+    "line": 17619
+  },
+  {
+    "id": "fut-amount",
+    "line": 17629
+  },
+  {
+    "id": "fut-amt-unit",
+    "line": 17631
+  },
+  {
+    "id": "fut-pct-track",
+    "line": 17636
+  },
+  {
+    "id": "fut-pct-fill",
+    "line": 17642
+  },
+  {
+    "id": "fut-avbl",
+    "line": 17655
+  },
+  {
+    "id": "fut-chk-tpsl",
+    "line": 17663
+  },
+  {
+    "id": "fut-tif",
+    "line": 17666
+  },
+  {
+    "id": "fut-tpsl-rows",
+    "line": 17672
+  },
+  {
+    "id": "fut-tp",
+    "line": 17673
+  },
+  {
+    "id": "fut-sl",
+    "line": 17674
+  },
+  {
+    "id": "fut-cost",
+    "line": 17680
+  },
+  {
+    "id": "fut-liq-price",
+    "line": 17684
+  },
+  {
+    "id": "fut-submit-btn",
+    "line": 17688
+  },
+  {
+    "id": "fut-funding",
+    "line": 17698
+  },
+  {
+    "id": "fut-ob-asks",
+    "line": 17708
+  },
+  {
+    "id": "fut-ob-mid",
+    "line": 17712
+  },
+  {
+    "id": "fut-ob-mid2",
+    "line": 17713
+  },
+  {
+    "id": "fut-ob-bids",
+    "line": 17717
+  },
+  {
+    "id": "fut-depth-buy",
+    "line": 17722
+  },
+  {
+    "id": "fut-depth-sell",
+    "line": 17723
+  },
+  {
+    "id": "fut-depth-buy-pct",
+    "line": 17726
+  },
+  {
+    "id": "fut-depth-sell-pct",
+    "line": 17727
+  },
+  {
+    "id": "fut-ob-tick",
+    "line": 17730
+  },
+  {
+    "id": "fut-tt-positions",
+    "line": 17748
+  },
+  {
+    "id": "fut-positions-count",
+    "line": 17748
+  },
+  {
+    "id": "fut-tt-orders",
+    "line": 17749
+  },
+  {
+    "id": "fut-orders-count",
+    "line": 17749
+  },
+  {
+    "id": "fut-bottom-list",
+    "line": 17751
+  },
+  {
+    "id": "exc-panel-portfolio",
+    "line": 17761
+  },
+  {
+    "id": "exc-port-tabs",
+    "line": 17764
+  },
+  {
+    "id": "exc-port-sub-overview",
+    "line": 17767
+  },
+  {
+    "id": "exc-port-vis-toggle",
+    "line": 17773
+  },
+  {
+    "id": "exc-port-total",
+    "line": 17780
+  },
+  {
+    "id": "exc-port-usd",
+    "line": 17783
+  },
+  {
+    "id": "exc-port-pnl",
+    "line": 17784
+  },
+  {
+    "id": "exc-port-spark",
+    "line": 17787
+  },
+  {
+    "id": "exc-port-spark-line",
+    "line": 17788
+  },
+  {
+    "id": "exc-port-list",
+    "line": 17834
+  },
+  {
+    "id": "exc-port-sub-account",
+    "line": 17849
+  },
+  {
+    "id": "exc-acct-label",
+    "line": 17852
+  },
+  {
+    "id": "exc-acct-total",
+    "line": 17854
+  },
+  {
+    "id": "exc-acct-usd",
+    "line": 17857
+  },
+  {
+    "id": "exc-acct-list-label",
+    "line": 17880
+  },
+  {
+    "id": "exc-acct-list",
+    "line": 17882
+  },
+  {
+    "id": "exc-panel-transfer",
+    "line": 17894
+  },
+  {
+    "id": "trf-no-transfer-msg",
+    "line": 17908
+  },
+  {
+    "id": "trf-no-trf-name",
+    "line": 17910
+  },
+  {
+    "id": "trf-form-wrap",
+    "line": 17915
+  },
+  {
+    "id": "trf-from-label",
+    "line": 17924
+  },
+  {
+    "id": "trf-to-label",
+    "line": 17930
+  },
+  {
+    "id": "trf-coin-icon",
+    "line": 17944
+  },
+  {
+    "id": "trf-coin-sym",
+    "line": 17946
+  },
+  {
+    "id": "trf-coin-name",
+    "line": 17947
+  },
+  {
+    "id": "trf-warning",
+    "line": 17953
+  },
+  {
+    "id": "trf-amount-input",
+    "line": 17960
+  },
+  {
+    "id": "trf-amount-unit",
+    "line": 17961
+  },
+  {
+    "id": "trf-available-amt",
+    "line": 17965
+  },
+  {
+    "id": "trf-available-sym",
+    "line": 17965
+  },
+  {
+    "id": "trf-confirm-btn",
+    "line": 17972
+  },
+  {
+    "id": "trf-acct-overlay",
+    "line": 17980
+  },
+  {
+    "id": "trf-acct-sheet",
+    "line": 17981
+  },
+  {
+    "id": "trf-acct-list",
+    "line": 17986
+  },
+  {
+    "id": "trf-coin-overlay",
+    "line": 17993
+  },
+  {
+    "id": "trf-coin-sheet",
+    "line": 17994
+  },
+  {
+    "id": "trf-coin-search",
+    "line": 18002
+  },
+  {
+    "id": "trf-coin-list",
+    "line": 18005
+  },
+  {
+    "id": "exc-selector-sheet",
+    "line": 18896
+  },
+  {
+    "id": "exc-selector-panel",
+    "line": 18897
+  },
+  {
+    "id": "exc-selector-list",
+    "line": 18900
+  },
+  {
+    "id": "exc-apisetup-sheet",
+    "line": 18905
+  },
+  {
+    "id": "exc-setup-title",
+    "line": 18910
+  },
+  {
+    "id": "exc-my-ip",
+    "line": 18926
+  },
+  {
+    "id": "exc-ip-copy-icon",
+    "line": 18929
+  },
+  {
+    "id": "exc-input-apikey",
+    "line": 18935
+  },
+  {
+    "id": "exc-input-secret",
+    "line": 18941
+  },
+  {
+    "id": "exc-passphrase-row",
+    "line": 18946
+  },
+  {
+    "id": "exc-passphrase-label",
+    "line": 18947
+  },
+  {
+    "id": "exc-input-passphrase",
+    "line": 18948
+  },
+  {
+    "id": "exc-cdp-section",
+    "line": 18952
+  },
+  {
+    "id": "exc-input-cdpkeyname",
+    "line": 18959
+  },
+  {
+    "id": "exc-input-cdppem",
+    "line": 18963
+  },
+  {
+    "id": "exc-btn-test",
+    "line": 18968
+  },
+  {
+    "id": "exc-key-test-result",
+    "line": 18971
+  },
+  {
+    "id": "exc-saved-keys-section",
+    "line": 18973
+  },
+  {
+    "id": "exc-saved-keys-list",
+    "line": 18975
+  },
+  {
+    "id": "exc-order-confirm",
+    "line": 18981
+  },
+  {
+    "id": "exc-confirm-content",
+    "line": 18984
+  },
+  {
+    "id": "exc-confirm-btn",
+    "line": 18987
+  },
+  {
+    "id": "exc-conv-picker-sheet",
+    "line": 18994
+  },
+  {
+    "id": "exc-conv-picker-panel",
+    "line": 18995
+  },
+  {
+    "id": "exc-conv-picker-title",
+    "line": 18997
+  },
+  {
+    "id": "exc-conv-picker-search",
+    "line": 18998
+  },
+  {
+    "id": "exc-conv-picker-list",
+    "line": 18999
+  },
+  {
+    "id": "exc-conv-preview-sheet",
+    "line": 19004
+  },
+  {
+    "id": "exc-conv-prev-from-amt",
+    "line": 19014
+  },
+  {
+    "id": "exc-conv-prev-from-sym",
+    "line": 19015
+  },
+  {
+    "id": "exc-conv-prev-from-logo",
+    "line": 19017
+  },
+  {
+    "id": "exc-conv-prev-to-amt",
+    "line": 19030
+  },
+  {
+    "id": "exc-conv-prev-to-sym",
+    "line": 19031
+  },
+  {
+    "id": "exc-conv-prev-to-logo",
+    "line": 19033
+  },
+  {
+    "id": "exc-conv-prev-rate",
+    "line": 19040
+  },
+  {
+    "id": "exc-conv-prev-timer",
+    "line": 19046
+  },
+  {
+    "id": "exc-conv-confirm-btn",
+    "line": 19050
+  },
+  {
+    "id": "exc-pair-sheet",
+    "line": 19056
+  },
+  {
+    "id": "exc-pair-panel",
+    "line": 19057
+  },
+  {
+    "id": "exc-pair-search",
+    "line": 19060
+  },
+  {
+    "id": "exc-pair-list",
+    "line": 19061
+  },
+  {
+    "id": "nav-home",
+    "line": 19067
+  },
+  {
+    "id": "nav-swap",
+    "line": 19071
+  },
+  {
+    "id": "nav-bridge",
+    "line": 19075
+  },
+  {
+    "id": "nav-profile",
+    "line": 19079
+  },
+  {
+    "id": "nav-settings",
+    "line": 19083
+  },
+  {
+    "id": "exc-bottom-nav",
+    "line": 19090
+  },
+  {
+    "id": "exc-nav-markets",
+    "line": 19091
+  },
+  {
+    "id": "exc-nav-trade",
+    "line": 19095
+  },
+  {
+    "id": "exc-nav-future",
+    "line": 19099
+  },
+  {
+    "id": "exc-nav-orders",
+    "line": 19103
+  },
+  {
+    "id": "exc-nav-portfolio",
+    "line": 19107
+  },
+  {
+    "id": "bg-tx-pill",
+    "line": 19117
+  },
+  {
+    "id": "bgp-label",
+    "line": 19120
+  },
+  {
+    "id": "cw-drawer-overlay",
+    "line": 19387
+  },
+  {
+    "id": "cw-drawer",
+    "line": 19388
+  },
+  {
+    "id": "cw-drawer-back-btn",
+    "line": 19390
+  },
+  {
+    "id": "cw-drawer-close-btn",
+    "line": 19393
+  },
+  {
+    "id": "cw-drawer-title",
+    "line": 19396
+  },
+  {
+    "id": "cw-drawer-badge",
+    "line": 19397
+  },
+  {
+    "id": "cw-drawer-list",
+    "line": 19399
+  },
+  {
+    "id": "cw-copy-all-btn",
+    "line": 19401
+  },
+  {
+    "id": "cw-copy-label",
+    "line": 19403
+  },
+  {
+    "id": "br-browser-wallet-overlay",
+    "line": 19410
+  },
+  {
+    "id": "br-browser-wallet-drawer",
+    "line": 19413
+  },
+  {
+    "id": "br-bwd-back-btn",
+    "line": 19417
+  },
+  {
+    "id": "br-bwd-close-btn",
+    "line": 19420
+  },
+  {
+    "id": "br-bwd-title",
+    "line": 19423
+  },
+  {
+    "id": "br-bwd-badge",
+    "line": 19424
+  },
+  {
+    "id": "br-bwd-list",
+    "line": 19427
+  },
+  {
+    "id": "swap-wallet-drawer-overlay",
+    "line": 19434
+  },
+  {
+    "id": "swap-wallet-drawer",
+    "line": 19435
+  },
+  {
+    "id": "swap-wallet-drawer-back-btn",
+    "line": 19437
+  },
+  {
+    "id": "swap-wallet-drawer-close-btn",
+    "line": 19440
+  },
+  {
+    "id": "swap-wallet-drawer-title",
+    "line": 19443
+  },
+  {
+    "id": "swap-wallet-drawer-badge",
+    "line": 19444
+  },
+  {
+    "id": "swap-wallet-drawer-actions",
+    "line": 19448
+  },
+  {
+    "id": "swap-wallet-drawer-list",
+    "line": 19453
+  },
+  {
+    "id": "swap-wallet-drawer-confirm-btn",
+    "line": 19455
+  },
+  {
+    "id": "swap-wallet-drawer-confirm-label",
+    "line": 19457
+  },
+  {
+    "id": "del-group-drawer-overlay",
+    "line": 19463
+  },
+  {
+    "id": "del-group-drawer",
+    "line": 19464
+  },
+  {
+    "id": "del-drawer-back-btn",
+    "line": 19466
+  },
+  {
+    "id": "del-drawer-close-btn",
+    "line": 19469
+  },
+  {
+    "id": "del-drawer-title",
+    "line": 19472
+  },
+  {
+    "id": "del-drawer-count-badge",
+    "line": 19473
+  },
+  {
+    "id": "del-drawer-group-list",
+    "line": 19475
+  },
+  {
+    "id": "rpc-manager-overlay",
+    "line": 19489
+  },
+  {
+    "id": "rpc-manager-drawer",
+    "line": 19490
+  },
+  {
+    "id": "rpc-back-btn",
+    "line": 19494
+  },
+  {
+    "id": "rpc-close-btn",
+    "line": 19497
+  },
+  {
+    "id": "rpc-drawer-title",
+    "line": 19500
+  },
+  {
+    "id": "rpc-drawer-badge",
+    "line": 19501
+  },
+  {
+    "id": "rpc-view-chains",
+    "line": 19505
+  },
+  {
+    "id": "rpc-view-detail",
+    "line": 19508
+  },
+  {
+    "id": "rpc-detail-banner",
+    "line": 19511
+  },
+  {
+    "id": "rpc-detail-emoji",
+    "line": 19512
+  },
+  {
+    "id": "rpc-detail-name",
+    "line": 19514
+  },
+  {
+    "id": "rpc-detail-chainid",
+    "line": 19515
+  },
+  {
+    "id": "rpc-list-container",
+    "line": 19520
+  },
+  {
+    "id": "rpc-new-url-input",
+    "line": 19526
+  },
+  {
+    "id": "rpc-add-err",
+    "line": 19535
+  },
+  {
+    "id": "del-chain-overlay",
+    "line": 19545
+  },
+  {
+    "id": "del-chain-modal",
+    "line": 19546
+  },
+  {
+    "id": "del-chain-search",
+    "line": 19573
+  },
+  {
+    "id": "del-chain-search-clear",
+    "line": 19576
+  },
+  {
+    "id": "del-chain-list",
+    "line": 19582
+  },
+  {
+    "id": "pcp-overlay",
+    "line": 19587
+  },
+  {
+    "id": "pcp-modal",
+    "line": 19588
+  },
+  {
+    "id": "pcp-search",
+    "line": 19607
+  },
+  {
+    "id": "pcp-search-clear",
+    "line": 19610
+  },
+  {
+    "id": "pcp-list",
+    "line": 19616
+  },
+  {
+    "id": "th-chain-overlay",
+    "line": 19622
+  },
+  {
+    "id": "th-chain-modal",
+    "line": 19623
+  },
+  {
+    "id": "th-chain-modal-sub",
+    "line": 19630
+  },
+  {
+    "id": "th-chain-search",
+    "line": 19639
+  },
+  {
+    "id": "th-chain-search-clear",
+    "line": 19642
+  },
+  {
+    "id": "th-chain-list",
+    "line": 19647
+  },
+  {
+    "id": "sw-chain-overlay",
+    "line": 19652
+  },
+  {
+    "id": "sw-chain-modal",
+    "line": 19653
+  },
+  {
+    "id": "sw-chain-search",
+    "line": 19669
+  },
+  {
+    "id": "sw-chain-search-clear",
+    "line": 19672
+  },
+  {
+    "id": "sw-chain-list",
+    "line": 19677
+  },
+  {
+    "id": "hcp-overlay",
+    "line": 19711
+  },
+  {
+    "id": "hcp-modal",
+    "line": 19712
+  },
+  {
+    "id": "hcp-tab-my",
+    "line": 19729
+  },
+  {
+    "id": "hcp-tab-cl",
+    "line": 19730
+  },
+  {
+    "id": "hcp-panel-my",
+    "line": 19734
+  },
+  {
+    "id": "hcp-my-search",
+    "line": 19739
+  },
+  {
+    "id": "hcp-my-clear",
+    "line": 19742
+  },
+  {
+    "id": "hcp-list",
+    "line": 19747
+  },
+  {
+    "id": "hcp-panel-cl",
+    "line": 19751
+  },
+  {
+    "id": "hcp-cl-search-wrap",
+    "line": 19754
+  },
+  {
+    "id": "hcp-cl-search",
+    "line": 19756
+  },
+  {
+    "id": "hcp-cl-clear",
+    "line": 19759
+  },
+  {
+    "id": "hcp-cl-status",
+    "line": 19763
+  },
+  {
+    "id": "hcp-cl-status-text",
+    "line": 19764
+  },
+  {
+    "id": "hcp-cl-testnet-btn",
+    "line": 19765
+  },
+  {
+    "id": "hcp-cl-results",
+    "line": 19769
+  },
+  {
+    "id": "hcp-add-footer",
+    "line": 19773
+  },
+  {
+    "id": "hcp-add-chain-btn",
+    "line": 19774
+  },
+  {
+    "id": "hcp-add-chevron",
+    "line": 19780
+  },
+  {
+    "id": "hcp-add-form",
+    "line": 19783
+  },
+  {
+    "id": "hcp-new-emoji",
+    "line": 19787
+  },
+  {
+    "id": "hcp-new-name",
+    "line": 19790
+  },
+  {
+    "id": "hcp-new-chainid",
+    "line": 19793
+  },
+  {
+    "id": "hcp-new-rpc",
+    "line": 19796
+  },
+  {
+    "id": "hcp-new-explorer",
+    "line": 19800
+  },
+  {
+    "id": "hcp-new-native-sym",
+    "line": 19804
+  },
+  {
+    "id": "hcp-new-native-name",
+    "line": 19806
+  },
+  {
+    "id": "hcp-new-native-cgid",
+    "line": 19809
+  },
+  {
+    "id": "hcp-new-status",
+    "line": 19811
+  },
+  {
+    "id": "tm-overlay",
+    "line": 19824
+  },
+  {
+    "id": "tm-count-badge",
+    "line": 19831
+  },
+  {
+    "id": "tm-chain-selector",
+    "line": 19838
+  },
+  {
+    "id": "tm-chain-emoji",
+    "line": 19839
+  },
+  {
+    "id": "tm-chain-name",
+    "line": 19841
+  },
+  {
+    "id": "tm-chain-sub",
+    "line": 19842
+  },
+  {
+    "id": "tm-search-icon",
+    "line": 19850
+  },
+  {
+    "id": "tm-search",
+    "line": 19851
+  },
+  {
+    "id": "tm-clear-search",
+    "line": 19856
+  },
+  {
+    "id": "tm-contract-status",
+    "line": 19860
+  },
+  {
+    "id": "tm-contract-preview",
+    "line": 19863
+  },
+  {
+    "id": "tm-contract-preview-card",
+    "line": 19865
+  },
+  {
+    "id": "tm-contract-preview-warn",
+    "line": 19868
+  },
+  {
+    "id": "tm-search-results",
+    "line": 19874
+  },
+  {
+    "id": "tm-search-results-header",
+    "line": 19875
+  },
+  {
+    "id": "tm-results-list",
+    "line": 19876
+  },
+  {
+    "id": "tm-searching",
+    "line": 19877
+  },
+  {
+    "id": "tm-no-results",
+    "line": 19880
+  },
+  {
+    "id": "tm-divider",
+    "line": 19888
+  },
+  {
+    "id": "tm-active-list",
+    "line": 19892
+  },
+  {
+    "id": "tm-chain-overlay",
+    "line": 19898
+  },
+  {
+    "id": "tm-chain-modal",
+    "line": 19899
+  },
+  {
+    "id": "tm-chain-search",
+    "line": 19910
+  },
+  {
+    "id": "tm-chain-list",
+    "line": 19915
+  },
+  {
+    "id": "pm-overlay",
+    "line": 19921
+  },
+  {
+    "id": "pm-count-badge",
+    "line": 19928
+  },
+  {
+    "id": "pm-list",
+    "line": 19931
+  },
+  {
+    "id": "pm-empty",
+    "line": 19932
+  },
+  {
+    "id": "txh-overlay",
+    "line": 19944
+  },
+  {
+    "id": "txh-count-badge",
+    "line": 19951
+  },
+  {
+    "id": "txh-body",
+    "line": 19953
+  },
+  {
+    "id": "wg-edit-overlay",
+    "line": 19960
+  },
+  {
+    "id": "wg-edit-name-input",
+    "line": 19963
+  },
+  {
+    "id": "wgd-overlay",
+    "line": 19980
+  },
+  {
+    "id": "wgd-title",
+    "line": 19994
+  },
+  {
+    "id": "wgd-subtitle",
+    "line": 19995
+  },
+  {
+    "id": "wgd-count-pill",
+    "line": 19998
+  },
+  {
+    "id": "wgd-action-bar",
+    "line": 20002
+  },
+  {
+    "id": "wgd-copy-phrase-btn",
+    "line": 20021
+  },
+  {
+    "id": "wgd-wallet-list",
+    "line": 20036
+  },
+  {
+    "id": "wgek-overlay",
+    "line": 20041
+  },
+  {
+    "id": "wgek-title",
+    "line": 20054
+  },
+  {
+    "id": "wgek-key-list",
+    "line": 20065
+  },
+  {
+    "id": "wgek-remove-btn",
+    "line": 20068
+  },
+  {
+    "id": "wgm-overlay",
+    "line": 20077
+  },
+  {
+    "id": "wgm-count-badge",
+    "line": 20086
+  },
+  {
+    "id": "wgm-empty",
+    "line": 20092
+  },
+  {
+    "id": "wgm-list",
+    "line": 20101
+  },
+  {
+    "id": "receive-overlay",
+    "line": 20108
+  },
+  {
+    "id": "receive-no-wallet",
+    "line": 20120
+  },
+  {
+    "id": "receive-wallet-section",
+    "line": 20129
+  },
+  {
+    "id": "receive-group-select-wrap",
+    "line": 20135
+  },
+  {
+    "id": "receive-group-select",
+    "line": 20136
+  },
+  {
+    "id": "receive-wallet-select",
+    "line": 20143
+  },
+  {
+    "id": "receive-qr-canvas",
+    "line": 20152
+  },
+  {
+    "id": "receive-addr-text",
+    "line": 20159
+  },
+  {
+    "id": "receive-copy-btn",
+    "line": 20164
+  },
+  {
+    "id": "addr-list-overlay",
+    "line": 20180
+  },
+  {
+    "id": "addr-list-count-badge",
+    "line": 20188
+  },
+  {
+    "id": "addr-copy-all-btn",
+    "line": 20189
+  },
+  {
+    "id": "addr-list-container",
+    "line": 20195
+  },
+  {
+    "id": "wg-import-overlay",
+    "line": 20450
+  },
+  {
+    "id": "wg-import-modal-count",
+    "line": 20458
+  },
+  {
+    "id": "wg-list-panel",
+    "line": 20501
+  },
+  {
+    "id": "wg-list",
+    "line": 20502
+  },
+  {
+    "id": "wg-empty",
+    "line": 20503
+  },
+  {
+    "id": "wg-keyinput-overlay",
+    "line": 20514
+  },
+  {
+    "id": "wg-import-count",
+    "line": 20522
+  },
+  {
+    "id": "wg-name-input",
+    "line": 20530
+  },
+  {
+    "id": "wg-tab-pk",
+    "line": 20541
+  },
+  {
+    "id": "wg-tab-mn",
+    "line": 20544
+  },
+  {
+    "id": "wg-panel-pk",
+    "line": 20550
+  },
+  {
+    "id": "wg-key-textarea",
+    "line": 20555
+  },
+  {
+    "id": "wg-panel-mn",
+    "line": 20566
+  },
+  {
+    "id": "wg-mn-line-badge",
+    "line": 20571
+  },
+  {
+    "id": "wg-mn-bulk-textarea",
+    "line": 20573
+  },
+  {
+    "id": "wg-mn-phrase-list",
+    "line": 20582
+  },
+  {
+    "id": "wg-deriv-path",
+    "line": 20589
+  },
+  {
+    "id": "wg-mn-from",
+    "line": 20599
+  },
+  {
+    "id": "wg-mn-to",
+    "line": 20601
+  },
+  {
+    "id": "wg-mnem-status",
+    "line": 20607
+  },
+  {
+    "id": "wg-mnem-status-icon",
+    "line": 20608
+  },
+  {
+    "id": "wg-mnem-status-text",
+    "line": 20609
+  },
+  {
+    "id": "wg-mnem-count",
+    "line": 20612
+  },
+  {
+    "id": "wg-save-btn",
+    "line": 20616
+  },
+  {
+    "id": "wg-create-overlay",
+    "line": 20626
+  },
+  {
+    "id": "wg-create-count-badge",
+    "line": 20634
+  },
+  {
+    "id": "wg-create-name-input",
+    "line": 20642
+  },
+  {
+    "id": "wgcp-1",
+    "line": 20654
+  },
+  {
+    "id": "wgcp-5",
+    "line": 20655
+  },
+  {
+    "id": "wgcp-10",
+    "line": 20656
+  },
+  {
+    "id": "wgcp-25",
+    "line": 20657
+  },
+  {
+    "id": "wgcp-50",
+    "line": 20658
+  },
+  {
+    "id": "wgcp-100",
+    "line": 20659
+  },
+  {
+    "id": "wg-create-count-input",
+    "line": 20661
+  },
+  {
+    "id": "wg-create-gen-btn",
+    "line": 20669
+  },
+  {
+    "id": "wg-create-preview",
+    "line": 20675
+  },
+  {
+    "id": "wg-copy-all-btn",
+    "line": 20678
+  },
+  {
+    "id": "wg-create-wallet-list",
+    "line": 20682
+  },
+  {
+    "id": "wg-create-save-btn",
+    "line": 20686
+  },
+  {
+    "id": "wg-picker-overlay",
+    "line": 20855
+  },
+  {
+    "id": "wg-picker-badge",
+    "line": 20862
+  },
+  {
+    "id": "wg-picker-list",
+    "line": 20865
+  },
+  {
+    "id": "send-qr-modal-overlay",
+    "line": 20876
+  },
+  {
+    "id": "send-qr-inner",
+    "line": 20877
+  },
+  {
+    "id": "send-qr-header",
+    "line": 20878
+  },
+  {
+    "id": "send-qr-title",
+    "line": 20880
+  },
+  {
+    "id": "send-qr-subtitle",
+    "line": 20881
+  },
+  {
+    "id": "send-qr-close",
+    "line": 20883
+  },
+  {
+    "id": "send-qr-video-wrap",
+    "line": 20889
+  },
+  {
+    "id": "send-qr-video",
+    "line": 20890
+  },
+  {
+    "id": "send-qr-canvas",
+    "line": 20891
+  },
+  {
+    "id": "send-qr-aim",
+    "line": 20892
+  },
+  {
+    "id": "send-qr-status",
+    "line": 20901
+  },
+  {
+    "id": "send-overlay",
+    "line": 20905
+  },
+  {
+    "id": "send-network-badge",
+    "line": 20913
+  },
+  {
+    "id": "send-network-name",
+    "line": 20914
+  },
+  {
+    "id": "send-key-count-badge",
+    "line": 20925
+  },
+  {
+    "id": "send-from-wg-btn",
+    "line": 20926
+  },
+  {
+    "id": "send-selected-wallet-box",
+    "line": 20938
+  },
+  {
+    "id": "send-sel-wallet-item",
+    "line": 20939
+  },
+  {
+    "id": "send-sel-wallet-num",
+    "line": 20940
+  },
+  {
+    "id": "send-sel-wallet-label",
+    "line": 20942
+  },
+  {
+    "id": "send-sel-wallet-addr",
+    "line": 20943
+  },
+  {
+    "id": "send-key-selector",
+    "line": 20950
+  },
+  {
+    "id": "send-key-list",
+    "line": 20951
+  },
+  {
+    "id": "send-pk",
+    "line": 20955
+  },
+  {
+    "id": "send-chain-row",
+    "line": 20961
+  },
+  {
+    "id": "send-token-row",
+    "line": 20967
+  },
+  {
+    "id": "send-amount",
+    "line": 20973
+  },
+  {
+    "id": "send-amount-usd",
+    "line": 20976
+  },
+  {
+    "id": "send-pct-fill",
+    "line": 20982
+  },
+  {
+    "id": "send-pct-range",
+    "line": 20983
+  },
+  {
+    "id": "send-pct-badge",
+    "line": 20987
+  },
+  {
+    "id": "send-to-wg-btn",
+    "line": 20997
+  },
+  {
+    "id": "send-to",
+    "line": 21007
+  },
+  {
+    "id": "send-from-wg-overlay",
+    "line": 21018
+  },
+  {
+    "id": "send-from-wg-modal",
+    "line": 21019
+  },
+  {
+    "id": "send-from-wg-list",
+    "line": 21031
+  },
+  {
+    "id": "send-to-wg-overlay",
+    "line": 21036
+  },
+  {
+    "id": "send-to-wg-modal",
+    "line": 21037
+  },
+  {
+    "id": "send-to-wg-list",
+    "line": 21049
+  },
+  {
+    "id": "send-review-card",
+    "line": 21057
+  },
+  {
+    "id": "review-from",
+    "line": 21058
+  },
+  {
+    "id": "review-to",
+    "line": 21058
+  },
+  {
+    "id": "review-amount",
+    "line": 21059
+  },
+  {
+    "id": "review-token",
+    "line": 21059
+  },
+  {
+    "id": "review-network",
+    "line": 21060
+  },
+  {
+    "id": "review-gas",
+    "line": 21060
+  },
+  {
+    "id": "send-status",
+    "line": 21064
+  },
+  {
+    "id": "send-btn",
+    "line": 21067
+  },
+  {
+    "id": "send-confirm-overlay",
+    "line": 21079
+  },
+  {
+    "id": "send-confirm-sheet",
+    "line": 21088
+  },
+  {
+    "id": "csheet-amount",
+    "line": 21128
+  },
+  {
+    "id": "csheet-usd",
+    "line": 21129
+  },
+  {
+    "id": "csheet-from",
+    "line": 21137
+  },
+  {
+    "id": "csheet-to",
+    "line": 21142
+  },
+  {
+    "id": "csheet-network",
+    "line": 21147
+  },
+  {
+    "id": "csheet-gas",
+    "line": 21152
+  },
+  {
+    "id": "confirm-send-btn",
+    "line": 21161
+  },
+  {
+    "id": "_wgm_del_cancel",
+    "line": 25775
+  },
+  {
+    "id": "_wgm_del_confirm",
+    "line": 25776
+  },
+  {
+    "id": "token-action-inner",
+    "line": 30436
+  },
+  {
+    "id": "tas-token-icon",
+    "line": 30450
+  },
+  {
+    "id": "tas-header-chart-btn",
+    "line": 30460
+  },
+  {
+    "id": "tas-close-x",
+    "line": 30466
+  },
+  {
+    "id": "tas-swap-btn",
+    "line": 30483
+  },
+  {
+    "id": "tas-bridge-btn",
+    "line": 30497
+  },
+  {
+    "id": "tas-send-btn",
+    "line": 30512
+  },
+  {
+    "id": "tcf2",
+    "line": 31665
+  },
+  {
+    "id": "tcf-back",
+    "line": 31669
+  },
+  {
+    "id": "tcf-icon",
+    "line": 31672
+  },
+  {
+    "id": "tcf-chart-type-btn",
+    "line": 31678
+  },
+  {
+    "id": "tcf-chart-type-icon",
+    "line": 31679
+  },
+  {
+    "id": "tcf-fs-btn",
+    "line": 31683
+  },
+  {
+    "id": "tcf-fs-icon",
+    "line": 31684
+  },
+  {
+    "id": "tcf-price-label",
+    "line": 31692
+  },
+  {
+    "id": "tcf-price",
+    "line": 31693
+  },
+  {
+    "id": "tcf-change",
+    "line": 31695
+  },
+  {
+    "id": "tcf-mcap",
+    "line": 31707
+  },
+  {
+    "id": "tcf-vol",
+    "line": 31711
+  },
+  {
+    "id": "tcf-high",
+    "line": 31715
+  },
+  {
+    "id": "tcf-low",
+    "line": 31719
+  },
+  {
+    "id": "tcf-coin-row",
+    "line": 31725
+  },
+  {
+    "id": "tcf-data-source-label",
+    "line": 31732
+  },
+  {
+    "id": "tcf-fs-btn-landscape",
+    "line": 31734
+  },
+  {
+    "id": "tcf-lw-wrap",
+    "line": 31740
+  },
+  {
+    "id": "tcf-draw-canvas",
+    "line": 31743
+  },
+  {
+    "id": "tcf-draw-textinput",
+    "line": 31744
+  },
+  {
+    "id": "tcf-draw-toggle",
+    "line": 31748
+  },
+  {
+    "id": "tcf-draw-toolbar",
+    "line": 31751
+  },
+  {
+    "id": "tcf-ohlc-bar",
+    "line": 31946
+  },
+  {
+    "id": "tcf-ohlc-time",
+    "line": 31948
+  },
+  {
+    "id": "tcf-ohlc-o",
+    "line": 31949
+  },
+  {
+    "id": "tcf-ohlc-h",
+    "line": 31950
+  },
+  {
+    "id": "tcf-ohlc-l",
+    "line": 31951
+  },
+  {
+    "id": "tcf-ohlc-c",
+    "line": 31952
+  },
+  {
+    "id": "tcf-lw-chart",
+    "line": 31955
+  },
+  {
+    "id": "tcf-lw-volume",
+    "line": 31956
+  },
+  {
+    "id": "tcf-chart-loading",
+    "line": 31957
+  },
+  {
+    "id": "tcf-chart-svg",
+    "line": 31964
+  },
+  {
+    "id": "tcf-tooltip",
+    "line": 31965
+  },
+  {
+    "id": "tcf-crosshair",
+    "line": 31966
+  },
+  {
+    "id": "tcf-supply",
+    "line": 31975
+  },
+  {
+    "id": "tcf-ath",
+    "line": 31979
+  },
+  {
+    "id": "tcf-about-section",
+    "line": 32003
+  },
+  {
+    "id": "tcf-about-text",
+    "line": 32007
+  },
+  {
+    "id": "tcf-readmore-btn",
+    "line": 32008
+  },
+  {
+    "id": "tcf-readmore-label",
+    "line": 32009
+  },
+  {
+    "id": "tcf-readmore-icon",
+    "line": 32010
+  },
+  {
+    "id": "tcf2-toast",
+    "line": 32017
+  },
+  {
+    "id": "tcf-fshud-sym",
+    "line": 32425
+  },
+  {
+    "id": "tcf-fshud-price",
+    "line": 32427
+  },
+  {
+    "id": "tcf-fshud-change",
+    "line": 32428
+  },
+  {
+    "id": "tcf-fshud-tf-bar",
+    "line": 32432
+  },
+  {
+    "id": "tm-ccp-hidden-chains",
+    "line": 37572
+  },
+  {
+    "id": "tm-ccp-more-btn",
+    "line": 37573
+  },
+  {
+    "id": "tm-ccp-more-icon",
+    "line": 37574
+  },
+  {
+    "id": "tm-ccp-more-label",
+    "line": 37575
+  },
+  {
+    "id": "tm-ccp-modal",
+    "line": 37594
+  },
+  {
+    "id": "tm-ccp-list",
+    "line": 37609
+  },
+  {
+    "id": "addr-copy-btn-",
+    "line": 41760
+  },
+  {
+    "id": "cw-sel-all-btn",
+    "line": 42304
+  },
+  {
+    "id": "hw-group-overlay",
+    "line": 53161
+  },
+  {
+    "id": "hw-group-modal",
+    "line": 53162
+  },
+  {
+    "id": "hw-group-list",
+    "line": 53166
+  },
+  {
+    "id": "currency-picker-overlay",
+    "line": 61076
+  },
+  {
+    "id": "currency-picker-sheet",
+    "line": 61080
+  },
+  {
+    "id": "currency-options-list",
+    "line": 61110
+  },
+  {
+    "id": "bdt-rate-label",
+    "line": 61133
+  },
+  {
+    "id": "eth-rate-label",
+    "line": 61146
+  },
+  {
+    "id": "btc-rate-label",
+    "line": 61159
+  },
+  {
+    "id": "sup-wrow-",
+    "line": 62442
+  },
+  {
+    "id": "sup-bal-",
+    "line": 62446
+  },
+  {
+    "id": "sup-amt-",
+    "line": 62446
+  },
+  {
+    "id": "sup-tx-",
+    "line": 62447
+  },
+  {
+    "id": "sup-st-",
+    "line": 62449
+  },
+  {
+    "id": "sup-picker-card-",
+    "line": 62555
+  },
+  {
+    "id": "sup-picker-chk-",
+    "line": 62558
+  },
+  {
+    "id": "sup-picker-expbtn-",
+    "line": 62567
+  },
+  {
+    "id": "sup-picker-expicon-",
+    "line": 62568
+  },
+  {
+    "id": "sup-picker-keys-",
+    "line": 62575
+  },
+  {
+    "id": "sup-picker-krow-",
+    "line": 62580
+  },
+  {
+    "id": "sup-picker-kchk-",
+    "line": 62581
+  },
+  {
+    "id": "th-picker-card-",
+    "line": 63258
+  },
+  {
+    "id": "th-picker-chk-",
+    "line": 63263
+  },
+  {
+    "id": "th-picker-expbtn-",
+    "line": 63273
+  },
+  {
+    "id": "th-picker-expicon-",
+    "line": 63274
+  },
+  {
+    "id": "th-picker-keys-",
+    "line": 63281
+  },
+  {
+    "id": "th-picker-krow-",
+    "line": 63290
+  },
+  {
+    "id": "th-picker-kchk-",
+    "line": 63291
+  },
+  {
+    "id": "th-rpc-log-inner",
+    "line": 63889
+  },
+  {
+    "id": "th-rpc-log-rpclist",
+    "line": 63902
+  },
+  {
+    "id": "th-rpc-log-entries",
+    "line": 63908
+  },
+  {
+    "id": "chainSearchW2WToken",
+    "line": 78229
+  },
+  {
+    "id": "chainSearchW2W",
+    "line": 78337
+  },
+  {
+    "id": "cdmOverlay",
+    "line": 81568
+  },
+  {
+    "id": "contractDeleteModal",
+    "line": 81571
+  },
+  {
+    "id": "cdmSelectAllBox",
+    "line": 81582
+  },
+  {
+    "id": "cdmSelectedCount",
+    "line": 81585
+  },
+  {
+    "id": "cdmContractList",
+    "line": 81587
+  },
+  {
+    "id": "cdmDeleteBtn",
+    "line": 81590
+  },
+  {
+    "id": "contractDeleteModalToken",
+    "line": 81595
+  },
+  {
+    "id": "cdmTSelectAllBox",
+    "line": 81606
+  },
+  {
+    "id": "cdmTSelectedCount",
+    "line": 81609
+  },
+  {
+    "id": "cdmTContractList",
+    "line": 81611
+  },
+  {
+    "id": "cdmTDeleteBtn",
+    "line": 81614
+  },
+  {
+    "id": "contractDeleteModalMKN",
+    "line": 81619
+  },
+  {
+    "id": "cdmMKNSelectAllBox",
+    "line": 81630
+  },
+  {
+    "id": "cdmMKNSelectedCount",
+    "line": 81633
+  },
+  {
+    "id": "cdmMKNContractList",
+    "line": 81635
+  },
+  {
+    "id": "cdmMKNDeleteBtn",
+    "line": 81638
+  },
+  {
+    "id": "nexus-sw-bootstrap",
+    "line": 82586
+  },
+  {
+    "id": "nexus-w3-modal-overlay",
+    "line": 83795
+  },
+  {
+    "id": "nexus-w3-modal",
+    "line": 83796
+  },
+  {
+    "id": "w3m-site-icon",
+    "line": 83799
+  },
+  {
+    "id": "w3m-site-name",
+    "line": 83801
+  },
+  {
+    "id": "w3m-action-label",
+    "line": 83802
+  },
+  {
+    "id": "w3m-wallet-row",
+    "line": 83805
+  },
+  {
+    "id": "w3m-wallet-label",
+    "line": 83807
+  },
+  {
+    "id": "w3m-wallet-addr",
+    "line": 83808
+  },
+  {
+    "id": "w3m-body",
+    "line": 83810
+  },
+  {
+    "id": "w3m-btn-reject",
+    "line": 83814
+  },
+  {
+    "id": "w3m-btn-approve",
+    "line": 83815
+  },
+  {
+    "id": "exc-ptab-overview",
+    "line": 89046
+  },
+  {
+    "id": "exc-ptab-",
+    "line": 89048
+  },
+  {
+    "id": "fut-lev-inner",
+    "line": 92165
+  },
+  {
+    "id": "fut-lev-display",
+    "line": 92173
+  },
+  {
+    "id": "fut-lev-slider",
+    "line": 92177
+  },
+  {
+    "id": "fut-lev-inp",
+    "line": 92205
+  },
+  {
+    "id": "fut-pair-search-inp",
+    "line": 92569
+  },
+  {
+    "id": "fut-pair-list",
+    "line": 92570
+  },
+  {
+    "id": "exc-deposit-overlay",
+    "line": 98236
+  },
+  {
+    "id": "exc-deposit-sheet",
+    "line": 98237
+  },
+  {
+    "id": "exc-dep-coin-sym",
+    "line": 98244
+  },
+  {
+    "id": "exc-dep-qr",
+    "line": 98256
+  },
+  {
+    "id": "exc-dep-sel-icon",
+    "line": 98265
+  },
+  {
+    "id": "exc-dep-sel-sym",
+    "line": 98267
+  },
+  {
+    "id": "exc-dep-sel-name",
+    "line": 98268
+  },
+  {
+    "id": "exc-dep-net-selected-row",
+    "line": 98278
+  },
+  {
+    "id": "exc-dep-net-label",
+    "line": 98280
+  },
+  {
+    "id": "exc-dep-net-sub",
+    "line": 98281
+  },
+  {
+    "id": "exc-dep-contract-row",
+    "line": 98282
+  },
+  {
+    "id": "exc-dep-contract-val",
+    "line": 98282
+  },
+  {
+    "id": "exc-dep-addr-text",
+    "line": 98295
+  },
+  {
+    "id": "exc-dep-memo-row",
+    "line": 98304
+  },
+  {
+    "id": "exc-dep-memo-val",
+    "line": 98313
+  },
+  {
+    "id": "exc-dep-memo-warn",
+    "line": 98322
+  },
+  {
+    "id": "exc-dep-warn-sym",
+    "line": 98340
+  },
+  {
+    "id": "exc-dep-coin-icon",
+    "line": 98344
+  },
+  {
+    "id": "exc-dep-coin-name",
+    "line": 98345
+  },
+  {
+    "id": "exc-dep-net-overlay",
+    "line": 98352
+  },
+  {
+    "id": "exc-dep-net-sheet",
+    "line": 98353
+  },
+  {
+    "id": "exc-dep-net-list",
+    "line": 98362
+  },
+  {
+    "id": "exc-wd-tok-overlay",
+    "line": 98370
+  },
+  {
+    "id": "exc-wd-tok-sheet",
+    "line": 98371
+  },
+  {
+    "id": "exc-wd-tok-exch-label",
+    "line": 98376
+  },
+  {
+    "id": "exc-wd-tok-bal-summary",
+    "line": 98383
+  },
+  {
+    "id": "exc-wd-tok-bal-val",
+    "line": 98385
+  },
+  {
+    "id": "exc-wd-tok-search",
+    "line": 98391
+  },
+  {
+    "id": "exc-wd-tok-list",
+    "line": 98396
+  },
+  {
+    "id": "exc-dep-tok-overlay",
+    "line": 98400
+  },
+  {
+    "id": "exc-dep-tok-sheet",
+    "line": 98401
+  },
+  {
+    "id": "exc-dep-tok-search",
+    "line": 98413
+  },
+  {
+    "id": "exc-dep-tok-list",
+    "line": 98418
+  },
+  {
+    "id": "exc-withdraw-overlay",
+    "line": 98423
+  },
+  {
+    "id": "exc-withdraw-sheet",
+    "line": 98424
+  },
+  {
+    "id": "exc-wd-coin-sym",
+    "line": 98431
+  },
+  {
+    "id": "exc-wd-unsupported-banner",
+    "line": 98438
+  },
+  {
+    "id": "exc-wd-unsupported-msg",
+    "line": 98443
+  },
+  {
+    "id": "exc-wd-body",
+    "line": 98450
+  },
+  {
+    "id": "exc-wd-sel-icon",
+    "line": 98457
+  },
+  {
+    "id": "exc-wd-sel-sym",
+    "line": 98459
+  },
+  {
+    "id": "exc-wd-sel-name",
+    "line": 98460
+  },
+  {
+    "id": "exc-wd-net-label",
+    "line": 98472
+  },
+  {
+    "id": "exc-wd-net-sub",
+    "line": 98473
+  },
+  {
+    "id": "exc-wd-addr-inp",
+    "line": 98485
+  },
+  {
+    "id": "exc-wd-amount-inp",
+    "line": 98511
+  },
+  {
+    "id": "exc-wd-available",
+    "line": 98526
+  },
+  {
+    "id": "exc-wd-warn-sym",
+    "line": 98532
+  },
+  {
+    "id": "exc-wd-footer",
+    "line": 98538
+  },
+  {
+    "id": "exc-wd-receive-val",
+    "line": 98544
+  },
+  {
+    "id": "exc-wd-fee-val",
+    "line": 98551
+  },
+  {
+    "id": "exc-wd-btn",
+    "line": 98553
+  },
+  {
+    "id": "exc-wd-net-overlay",
+    "line": 98565
+  },
+  {
+    "id": "exc-wd-net-sheet",
+    "line": 98566
+  },
+  {
+    "id": "exc-wd-net-list",
+    "line": 98573
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "name": "--bg-void",
+    "sample": "#050508",
+    "line": 363
+  },
+  {
+    "name": "--bg-deep",
+    "sample": "#0a0a12",
+    "line": 364
+  },
+  {
+    "name": "--bg-surface",
+    "sample": "#0f0f1a",
+    "line": 365
+  },
+  {
+    "name": "--bg-raised",
+    "sample": "#141423",
+    "line": 366
+  },
+  {
+    "name": "--bg-card",
+    "sample": "#0f0f1a",
+    "line": 367
+  },
+  {
+    "name": "--bg-glass",
+    "sample": "rgba(255,255,255,0.04)",
+    "line": 368
+  },
+  {
+    "name": "--bg-glass-hover",
+    "sample": "rgba(255,255,255,0.07)",
+    "line": 369
+  },
+  {
+    "name": "--border-subtle",
+    "sample": "rgba(255,255,255,0.06)",
+    "line": 370
+  },
+  {
+    "name": "--border-glow",
+    "sample": "rgba(99,102,241,0.4)",
+    "line": 371
+  },
+  {
+    "name": "--accent-primary",
+    "sample": "#6366f1",
+    "line": 372
+  },
+  {
+    "name": "--accent-secondary",
+    "sample": "#8b5cf6",
+    "line": 373
+  },
+  {
+    "name": "--accent-tertiary",
+    "sample": "#06b6d4",
+    "line": 374
+  },
+  {
+    "name": "--accent-green",
+    "sample": "#10b981",
+    "line": 375
+  },
+  {
+    "name": "--accent-red",
+    "sample": "#f43f5e",
+    "line": 376
+  },
+  {
+    "name": "--accent-amber",
+    "sample": "#f59e0b",
+    "line": 377
+  },
+  {
+    "name": "--neon-purple",
+    "sample": "#a78bfa",
+    "line": 378
+  },
+  {
+    "name": "--neon-cyan",
+    "sample": "#22d3ee",
+    "line": 379
+  },
+  {
+    "name": "--neon-pink",
+    "sample": "#f472b6",
+    "line": 380
+  },
+  {
+    "name": "--text-primary",
+    "sample": "#f1f1f8",
+    "line": 381
+  },
+  {
+    "name": "--text-secondary",
+    "sample": "#8b8ba7",
+    "line": 382
+  },
+  {
+    "name": "--text-muted",
+    "sample": "#4a4a65",
+    "line": 383
+  },
+  {
+    "name": "--glow-primary",
+    "sample": "0 0 20px rgba(99,102,241,0.3), 0 0 60px rgba(99,102,241,0.1)",
+    "line": 384
+  },
+  {
+    "name": "--glow-cyan",
+    "sample": "0 0 20px rgba(34,211,238,0.3), 0 0 60px rgba(34,211,238,0.1)",
+    "line": 385
+  },
+  {
+    "name": "--glow-green",
+    "sample": "0 0 20px rgba(16,185,129,0.3)",
+    "line": 386
+  },
+  {
+    "name": "--shadow-card",
+    "sample": "0 8px 32px rgba(0,0,0,0.6), 0 2px 8px rgba(0,0,0,0.4)",
+    "line": 387
+  },
+  {
+    "name": "--radius-sm",
+    "sample": "10px",
+    "line": 388
+  },
+  {
+    "name": "--radius-md",
+    "sample": "16px",
+    "line": 389
+  },
+  {
+    "name": "--radius-lg",
+    "sample": "24px",
+    "line": 390
+  },
+  {
+    "name": "--radius-xl",
+    "sample": "32px",
+    "line": 391
+  },
+  {
+    "name": "--font-display",
+    "sample": "'Syne', sans-serif",
+    "line": 392
+  },
+  {
+    "name": "--font-mono",
+    "sample": "'JetBrains Mono', monospace",
+    "line": 393
+  },
+  {
+    "name": "--nav-height",
+    "sample": "72px",
+    "line": 394
+  },
+  {
+    "name": "--safe-top",
+    "sample": "env(safe-area-inset-top, 0px)",
+    "line": 395
+  },
+  {
+    "name": "--safe-bottom",
+    "sample": "env(safe-area-inset-bottom, 0px)",
+    "line": 396
+  },
+  {
+    "name": "--dc-g1",
+    "sample": "#667eea",
+    "line": 12763
+  },
+  {
+    "name": "--dc-g2",
+    "sample": "#764ba2",
+    "line": 12763
+  },
+  {
+    "name": "--tc-font",
+    "sample": "'DM Sans', sans-serif",
+    "line": 30796
+  },
+  {
+    "name": "--tc-mono",
+    "sample": "'IBM Plex Mono', monospace",
+    "line": 30797
+  },
+  {
+    "name": "--tc-bg",
+    "sample": "#07070f",
+    "line": 30798
+  },
+  {
+    "name": "--tc-surface",
+    "sample": "#0d0d1a",
+    "line": 30799
+  },
+  {
+    "name": "--tc-raised",
+    "sample": "#131325",
+    "line": 30800
+  },
+  {
+    "name": "--tc-border",
+    "sample": "rgba(255,255,255,0.07)",
+    "line": 30801
+  },
+  {
+    "name": "--tc-border-strong",
+    "sample": "rgba(255,255,255,0.12)",
+    "line": 30802
+  },
+  {
+    "name": "--tc-text",
+    "sample": "#f0f0fa",
+    "line": 30803
+  },
+  {
+    "name": "--tc-sub",
+    "sample": "#7878a0",
+    "line": 30804
+  },
+  {
+    "name": "--tc-muted",
+    "sample": "#3a3a58",
+    "line": 30805
+  },
+  {
+    "name": "--tc-accent",
+    "sample": "#6366f1",
+    "line": 30806
+  },
+  {
+    "name": "--tc-accent-soft",
+    "sample": "rgba(99,102,241,0.12)",
+    "line": 30807
+  },
+  {
+    "name": "--tc-accent-border",
+    "sample": "rgba(99,102,241,0.35)",
+    "line": 30808
+  },
+  {
+    "name": "--tc-green",
+    "sample": "#22c55e",
+    "line": 30809
+  },
+  {
+    "name": "--tc-green-soft",
+    "sample": "rgba(34,197,94,0.1)",
+    "line": 30810
+  },
+  {
+    "name": "--tc-green-border",
+    "sample": "rgba(34,197,94,0.25)",
+    "line": 30811
+  },
+  {
+    "name": "--tc-red",
+    "sample": "#ef4444",
+    "line": 30812
+  },
+  {
+    "name": "--tc-red-soft",
+    "sample": "rgba(239,68,68,0.1)",
+    "line": 30813
+  },
+  {
+    "name": "--tc-red-border",
+    "sample": "rgba(239,68,68,0.25)",
+    "line": 30814
+  },
+  {
+    "name": "--tc-amber",
+    "sample": "#f59e0b",
+    "line": 30815
+  }
+]

@@ -1,0 +1,79 @@
+apply plugin: "com.android.application"
+apply plugin: "org.jetbrains.kotlin.android"
+apply plugin: "com.facebook.react"
+
+def enableProguardInReleaseBuilds = true
+def jscFlavor = 'io.github.react-native-community:jsc-android:2026004.+'
+def hermesEnabled = project.hasProperty('hermesEnabled') ? project.property('hermesEnabled').toBoolean() : true
+// Packaging builds (-PbundleInDebug=true) embed the JS bundle so the debug APK runs without Metro.
+def bundleInDebug = project.hasProperty('bundleInDebug') && project.property('bundleInDebug').toBoolean()
+
+react {
+    reactNativeDir.set(file("../../../node_modules/react-native"))
+    codegenDir.set(file("../../../node_modules/@react-native/codegen"))
+    autolinkLibrariesWithApp()
+    if (bundleInDebug) {
+        debuggableVariants.set([])
+    }
+    // Monorepo: the plugin looks under the android project for hermesc; point at the workspace.
+    def hermescName = System.getProperty("os.name").toLowerCase().contains("windows") ? "hermesc.exe" : "hermesc"
+    hermesCommand = file("../../../node_modules/react-native/sdks/hermesc/%OS-BIN%/${hermescName}").absolutePath
+}
+
+android {
+    buildToolsVersion rootProject.ext.buildToolsVersion
+    compileSdk rootProject.ext.compileSdkVersion
+
+    namespace "com.nexus.wallet"
+
+    defaultConfig {
+        applicationId "com.nexus.wallet"
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        // 10000 + legacy 213, above the legacy 270 requirement and installs over 1.213.
+        versionCode 10213
+        versionName "1.214-rebuild"
+    }
+
+    signingConfigs {
+        debug {
+            storeFile file('debug.keystore')
+            storePassword 'android'
+            keyAlias 'androiddebugkey'
+            keyPassword 'android'
+        }
+    }
+
+    buildTypes {
+        debug {
+            signingConfig signingConfigs.debug
+        }
+        release {
+            // Deliberately unsigned: ship with your own keystore via CI secrets.
+            minifyEnabled enableProguardInReleaseBuilds
+            shrinkResources enableProguardInReleaseBuilds
+            proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    packagingOptions {
+        jniLibs {
+            useLegacyPackaging false
+        }
+    }
+}
+
+dependencies {
+    implementation("com.facebook.react:react-android")
+    implementation("androidx.biometric:biometric:1.1.0")
+    if (hermesEnabled.toBoolean()) {
+        implementation("com.facebook.react:hermes-android")
+    } else {
+        implementation jscFlavor
+    }
+}

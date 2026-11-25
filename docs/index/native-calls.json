@@ -1,0 +1,152 @@
+[
+  {
+    "fn": "copyToClipboard",
+    "line": 42969,
+    "count": 3
+  },
+  {
+    "fn": "dismissTxModal",
+    "line": 84285,
+    "count": 6
+  },
+  {
+    "fn": "exitApp",
+    "line": 50882,
+    "count": 1
+  },
+  {
+    "fn": "getClipboardText",
+    "line": 43021,
+    "count": 1
+  },
+  {
+    "fn": "getPersistedBrowserWallet",
+    "line": 84144,
+    "count": 5
+  },
+  {
+    "fn": "getSelectedBrowserChainId",
+    "line": 42063,
+    "count": 4
+  },
+  {
+    "fn": "httpGet",
+    "line": 72,
+    "count": 1
+  },
+  {
+    "fn": "httpPost",
+    "line": 112,
+    "count": 1
+  },
+  {
+    "fn": "injectChainError",
+    "line": 84884,
+    "count": 1
+  },
+  {
+    "fn": "isBiometricAvailable",
+    "line": 40491,
+    "count": 2
+  },
+  {
+    "fn": "isBrowserOpen",
+    "line": 84137,
+    "count": 1
+  },
+  {
+    "fn": "isNotificationPermissionGranted",
+    "line": 40543,
+    "count": 2
+  },
+  {
+    "fn": "openBrowserTabSwitcher",
+    "line": 42820,
+    "count": 1
+  },
+  {
+    "fn": "openInAppBrowser",
+    "line": 42953,
+    "count": 1
+  },
+  {
+    "fn": "openSystemBrowser",
+    "line": 10765,
+    "count": 1
+  },
+  {
+    "fn": "requestNotificationPermission",
+    "line": 40559,
+    "count": 1
+  },
+  {
+    "fn": "setOrientation",
+    "line": 32370,
+    "count": 3
+  },
+  {
+    "fn": "showBiometricPrompt",
+    "line": 60511,
+    "count": 2
+  },
+  {
+    "fn": "showDappTxSuccess",
+    "line": 85648,
+    "count": 3
+  },
+  {
+    "fn": "showNotification",
+    "line": 28305,
+    "count": 6
+  },
+  {
+    "fn": "showNotificationWithUrl",
+    "line": 28303,
+    "count": 1
+  },
+  {
+    "fn": "showSilentNotification",
+    "line": 40519,
+    "count": 1
+  },
+  {
+    "fn": "showToast",
+    "line": 84878,
+    "count": 1
+  },
+  {
+    "fn": "showTxModal",
+    "line": 84158,
+    "count": 1
+  },
+  {
+    "fn": "web3OpenWalletDrawer",
+    "line": 84494,
+    "count": 1
+  },
+  {
+    "fn": "web3Reject",
+    "line": 41840,
+    "count": 7
+  },
+  {
+    "fn": "web3Resolve",
+    "line": 42078,
+    "count": 3
+  },
+  {
+    "fn": "web3SetSelectedWallet",
+    "line": 42055,
+    "count": 1
+  },
+  {
+    "fn": "web3SwitchChain",
+    "line": 84536,
+    "count": 2
+  },
+  {
+    "fn": "web3UpdateAccount",
+    "line": 42074,
+    "count": 3
+  }
+]

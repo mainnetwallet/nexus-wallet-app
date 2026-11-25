@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+
+    <domain-config cleartextTrafficPermitted="false">
+        <!-- CDN Libraries (ethers.js, qrcode, lightweight-charts, fonts) -->
+        <domain includeSubdomains="true">cdnjs.cloudflare.com</domain>
+        <domain includeSubdomains="true">unpkg.com</domain>
+        <domain includeSubdomains="true">fonts.googleapis.com</domain>
+        <domain includeSubdomains="true">fonts.gstatic.com</domain>
+
+        <!-- RPC Providers -->
+        <domain includeSubdomains="true">infura.io</domain>
+        <domain includeSubdomains="true">alchemy.com</domain>
+        <domain includeSubdomains="true">ankr.com</domain>
+        <domain includeSubdomains="true">cloudflare-eth.com</domain>
+        <domain includeSubdomains="true">publicnode.com</domain>
+        <domain includeSubdomains="true">llamarpc.com</domain>
+        <domain includeSubdomains="true">meowrpc.com</domain>
+        <domain includeSubdomains="true">flashbots.net</domain>
+        <domain includeSubdomains="true">mevblocker.io</domain>
+        <domain includeSubdomains="true">zerion.io</domain>
+
+        <!-- DEX Aggregators -->
+        <domain includeSubdomains="true">li.fi</domain>
+        <domain includeSubdomains="true">lifi.io</domain>
+        <domain includeSubdomains="true">paraswap.io</domain>
+        <domain includeSubdomains="true">paraswap.xyz</domain>
+        <domain includeSubdomains="true">kyberswap.com</domain>
+        <domain includeSubdomains="true">aggregator-api.kyberswap.com</domain>
+        <domain includeSubdomains="true">openocean.finance</domain>
+        <domain includeSubdomains="true">socket.tech</domain>
+        <domain includeSubdomains="true">bungee.exchange</domain>
+        <domain includeSubdomains="true">symbiosis.finance</domain>
+        <domain includeSubdomains="true">enso.finance</domain>
+        <domain includeSubdomains="true">velora.xyz</domain>
+        <domain includeSubdomains="true">1inch.io</domain>
+        <domain includeSubdomains="true">1inch.dev</domain>
+        <domain includeSubdomains="true">api.swapapi.dev</domain>
+        <domain includeSubdomains="true">swapapi.dev</domain>
+        <domain includeSubdomains="true">odos.xyz</domain>
+        <domain includeSubdomains="true">rango.exchange</domain>
+        <domain includeSubdomains="true">rubic.exchange</domain>
+
+        <!-- Price / Market Data -->
+        <domain includeSubdomains="true">coingecko.com</domain>
+        <domain includeSubdomains="true">assets.coingecko.com</domain>
+        <domain includeSubdomains="true">binance.com</domain>
+        <domain includeSubdomains="true">api.binance.com</domain>
+        <domain includeSubdomains="true">dexscreener.com</domain>
+        <domain includeSubdomains="true">coinbase.com</domain>
+        <domain includeSubdomains="true">okx.com</domain>
+        <domain includeSubdomains="true">static.okx.com</domain>
+        <domain includeSubdomains="true">oklink.com</domain>
+        <domain includeSubdomains="true">bitget.com</domain>
+        <domain includeSubdomains="true">bybit.com</domain>
+        <domain includeSubdomains="true">kucoin.com</domain>
+        <domain includeSubdomains="true">kraken.com</domain>
+        <domain includeSubdomains="true">cryptocompare.com</domain>
+        <domain includeSubdomains="true">coinmarketcap.com</domain>
+
+        <!-- Block Explorers -->
+        <domain includeSubdomains="true">etherscan.io</domain>
+        <domain includeSubdomains="true">basescan.org</domain>
+        <domain includeSubdomains="true">bscscan.com</domain>
+        <domain includeSubdomains="true">arbiscan.io</domain>
+        <domain includeSubdomains="true">polygonscan.com</domain>
+        <domain includeSubdomains="true">snowtrace.io</domain>
+        <domain includeSubdomains="true">ftmscan.com</domain>
+        <domain includeSubdomains="true">optimistic.etherscan.io</domain>
+        <domain includeSubdomains="true">lineascan.build</domain>
+        <domain includeSubdomains="true">scrollscan.com</domain>
+        <domain includeSubdomains="true">zksync.io</domain>
+        <domain includeSubdomains="true">uniscan.xyz</domain>
+        <domain includeSubdomains="true">blastscan.io</domain>
+        <domain includeSubdomains="true">socketscan.io</domain>
+        <domain includeSubdomains="true">uniswap.org</domain>
+
+        <!-- CORS Proxies -->
+        <domain includeSubdomains="true">api.allorigins.win</domain>
+        <domain includeSubdomains="true">api.codetabs.com</domain>
+
+        <!-- TrustWallet / Token Logos -->
+        <domain includeSubdomains="true">raw.githubusercontent.com</domain>
+        <domain includeSubdomains="true">github.com</domain>
+        <domain includeSubdomains="true">githubusercontent.com</domain>
+    </domain-config>
+</network-security-config>

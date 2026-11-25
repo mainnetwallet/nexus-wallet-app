@@ -1,0 +1,1842 @@
+[
+  {
+    "name": "_nxConsoleLogs",
+    "line": 9
+  },
+  {
+    "name": "_nxConsoleEnabled",
+    "line": 10
+  },
+  {
+    "name": "_nxRenderConsoleLogPanel",
+    "line": 24
+  },
+  {
+    "name": "__nxBridgeResolve",
+    "line": 49
+  },
+  {
+    "name": "nxFetch",
+    "line": 76
+  },
+  {
+    "name": "nxBridgeGet",
+    "line": 91
+  },
+  {
+    "name": "nxPost",
+    "line": 116
+  },
+  {
+    "name": "nexusSignedFetch",
+    "line": 135
+  },
+  {
+    "name": "console",
+    "line": 194
+  },
+  {
+    "name": "_nexusPageTimers",
+    "line": 203
+  },
+  {
+    "name": "nexusInterval",
+    "line": 206
+  },
+  {
+    "name": "nexusTimeout",
+    "line": 214
+  },
+  {
+    "name": "nexusClearPageTimers",
+    "line": 222
+  },
+  {
+    "name": "nexusSanitize",
+    "line": 238
+  },
+  {
+    "name": "nexusFetch",
+    "line": 249
+  },
+  {
+    "name": "_nexusEarlyTokens",
+    "line": 8111
+  },
+  {
+    "name": "_portfolioTotalUsd",
+    "line": 8165
+  },
+  {
+    "name": "_swSD",
+    "line": 8579
+  },
+  {
+    "name": "_swSX",
+    "line": 8579
+  },
+  {
+    "name": "_swSY",
+    "line": 8579
+  },
+  {
+    "name": "_swAxis",
+    "line": 8579
+  },
+  {
+    "name": "brOpenConfirm",
+    "line": 9347
+  },
+  {
+    "name": "brCloseConfirm",
+    "line": 9508
+  },
+  {
+    "name": "swOpenConfirm",
+    "line": 9977
+  },
+  {
+    "name": "swCloseConfirm",
+    "line": 9986
+  },
+  {
+    "name": "_txpFmtAmt",
+    "line": 10241
+  },
+  {
+    "name": "_txpOpen",
+    "line": 10243
+  },
+  {
+    "name": "_txpSetStep",
+    "line": 10280
+  },
+  {
+    "name": "_txpClose",
+    "line": 10298
+  },
+  {
+    "name": "_ssoOpen",
+    "line": 10574
+  },
+  {
+    "name": "_ssoClose",
+    "line": 10787
+  },
+  {
+    "name": "_ssoClosedAt",
+    "line": 10795
+  },
+  {
+    "name": "brUpdateSliderUI",
+    "line": 10848
+  },
+  {
+    "name": "_sndSsoOpen",
+    "line": 11033
+  },
+  {
+    "name": "_sndSsoClose",
+    "line": 11133
+  },
+  {
+    "name": "_brSD",
+    "line": 11299
+  },
+  {
+    "name": "_brSX",
+    "line": 11299
+  },
+  {
+    "name": "_brSY",
+    "line": 11299
+  },
+  {
+    "name": "_brPY",
+    "line": 11299
+  },
+  {
+    "name": "_brAxis",
+    "line": 11299
+  },
+  {
+    "name": "_bsoOpen",
+    "line": 11858
+  },
+  {
+    "name": "_bsoReopenedFromHistory",
+    "line": 11863
+  },
+  {
+    "name": "_bsoPendingHistId",
+    "line": 11864
+  },
+  {
+    "name": "_bsoSentHash",
+    "line": 11865
+  },
+  {
+    "name": "_bsoSentExplorer",
+    "line": 11866
+  },
+  {
+    "name": "_bsoRecvHash",
+    "line": 11867
+  },
+  {
+    "name": "_bsoRecvExplorer",
+    "line": 11868
+  },
+  {
+    "name": "_brGetProvider",
+    "line": 11877
+  },
+  {
+    "name": "tokenIconHTML",
+    "line": 11900
+  },
+  {
+    "name": "_bsoSetSentHash",
+    "line": 12159
+  },
+  {
+    "name": "_bsoSetRecvHash",
+    "line": 12182
+  },
+  {
+    "name": "_bsoSetToAmt",
+    "line": 12193
+  },
+  {
+    "name": "_bsoDone",
+    "line": 12201
+  },
+  {
+    "name": "brRunning",
+    "line": 12207
+  },
+  {
+    "name": "_updateAllToolBadges",
+    "line": 12209
+  },
+  {
+    "name": "_bgPillUpdate",
+    "line": 12210
+  },
+  {
+    "name": "_bsoClose",
+    "line": 12239
+  },
+  {
+    "name": "_bsoCloseWhileWaiting",
+    "line": 12309
+  },
+  {
+    "name": "_bsoIsOpen",
+    "line": 12357
+  },
+  {
+    "name": "_bsoOpenSentExplorer",
+    "line": 12362
+  },
+  {
+    "name": "_bsoOpenRecvExplorer",
+    "line": 12367
+  },
+  {
+    "name": "bsbSelectSlip",
+    "line": 15073
+  },
+  {
+    "name": "bsbSelectSlipCustom",
+    "line": 15089
+  },
+  {
+    "name": "bsbLoadKeys",
+    "line": 15134
+  },
+  {
+    "name": "bsbStartBot",
+    "line": 15918
+  },
+  {
+    "name": "bsbRunning",
+    "line": 15920
+  },
+  {
+    "name": "bsbStopBot",
+    "line": 15941
+  },
+  {
+    "name": "bsbGoStep",
+    "line": 15952
+  },
+  {
+    "name": "bsbOpenWalletPicker",
+    "line": 16051
+  },
+  {
+    "name": "bsbPickerToggle",
+    "line": 16090
+  },
+  {
+    "name": "bsbPickerToggleExpand",
+    "line": 16110
+  },
+  {
+    "name": "bsbPickerToggleKey",
+    "line": 16119
+  },
+  {
+    "name": "bsbWalletPickerSelectAll",
+    "line": 16158
+  },
+  {
+    "name": "bsbApplyWalletPicker",
+    "line": 16175
+  },
+  {
+    "name": "bsbCloseWalletPicker",
+    "line": 16199
+  },
+  {
+    "name": "_futSD",
+    "line": 17637
+  },
+  {
+    "name": "EXC_PORT_CFG",
+    "line": 18454
+  },
+  {
+    "name": "_getPortCfg",
+    "line": 18455
+  },
+  {
+    "name": "trfSwapDirection",
+    "line": 18657
+  },
+  {
+    "name": "trfOpenAccountPicker",
+    "line": 18667
+  },
+  {
+    "name": "trfSelectAccount",
+    "line": 18687
+  },
+  {
+    "name": "trfCloseAccountPicker",
+    "line": 18705
+  },
+  {
+    "name": "trfOpenCoinPicker",
+    "line": 18719
+  },
+  {
+    "name": "trfFilterCoins",
+    "line": 18747
+  },
+  {
+    "name": "trfSelectCoin",
+    "line": 18753
+  },
+  {
+    "name": "trfCloseCoinPicker",
+    "line": 18762
+  },
+  {
+    "name": "trfOnAmountInput",
+    "line": 18774
+  },
+  {
+    "name": "trfSetMax",
+    "line": 18776
+  },
+  {
+    "name": "trfConfirm",
+    "line": 18785
+  },
+  {
+    "name": "trfOpenHistory",
+    "line": 18863
+  },
+  {
+    "name": "trfBack",
+    "line": 18870
+  },
+  {
+    "name": "trfOpen",
+    "line": 18878
+  },
+  {
+    "name": "_bgPillTap",
+    "line": 19342
+  },
+  {
+    "name": "switchPage",
+    "line": 19343
+  },
+  {
+    "name": "_NEXUS_RANGO_KEY",
+    "line": 21192
+  },
+  {
+    "name": "_balanceCache",
+    "line": 21310
+  },
+  {
+    "name": "_balanceCacheTime",
+    "line": 21311
+  },
+  {
+    "name": "_nexusPTRRestore",
+    "line": 21374
+  },
+  {
+    "name": "_nexusPendingRestore",
+    "line": 21377
+  },
+  {
+    "name": "currentPage",
+    "line": 21451
+  },
+  {
+    "name": "_nexusPageHistory",
+    "line": 21484
+  },
+  {
+    "name": "_nexusBackPressTime",
+    "line": 21490
+  },
+  {
+    "name": "thBootstrap",
+    "line": 21551
+  },
+  {
+    "name": "thSyncHomeChain",
+    "line": 21552
+  },
+  {
+    "name": "_brSyncBalances",
+    "line": 21581
+  },
+  {
+    "name": "_brSyncDebounce",
+    "line": 23536
+  },
+  {
+    "name": "_swSyncTokenList",
+    "line": 23538
+  },
+  {
+    "name": "_swSyncDebounce",
+    "line": 23540
+  },
+  {
+    "name": "_nexusPTRSaveNow",
+    "line": 23590
+  },
+  {
+    "name": "refreshTokenBalance",
+    "line": 23751
+  },
+  {
+    "name": "homeWalletGuardRefresh",
+    "line": 24631
+  },
+  {
+    "name": "_wgDragStart",
+    "line": 25388
+  },
+  {
+    "name": "_wgDragMove",
+    "line": 25389
+  },
+  {
+    "name": "_wgDragEnd",
+    "line": 25390
+  },
+  {
+    "name": "_wgCleanDrag",
+    "line": 25391
+  },
+  {
+    "name": "brSyncChainToPicker",
+    "line": 29477
+  },
+  {
+    "name": "_tmContractPending",
+    "line": 30365
+  },
+  {
+    "name": "brUpdateTokenBtn",
+    "line": 30656
+  },
+  {
+    "name": "brLoadTokens",
+    "line": 30659
+  },
+  {
+    "name": "_tcfToken",
+    "line": 32047
+  },
+  {
+    "name": "_tcfTf",
+    "line": 32048
+  },
+  {
+    "name": "_tcfChartType",
+    "line": 32049
+  },
+  {
+    "name": "_tcfActiveCoin",
+    "line": 32050
+  },
+  {
+    "name": "_tcfMarketRefreshTimer",
+    "line": 32068
+  },
+  {
+    "name": "_lwTargetRange",
+    "line": 32146
+  },
+  {
+    "name": "_lwRangeGuard",
+    "line": 32225
+  },
+  {
+    "name": "_dtDrawingsLandscape",
+    "line": 32512
+  },
+  {
+    "name": "_dtDrawingsPortrait",
+    "line": 32514
+  },
+  {
+    "name": "_tcfFsHideTimer",
+    "line": 32538
+  },
+  {
+    "name": "_tcfFsTransitioning",
+    "line": 32609
+  },
+  {
+    "name": "_tcfOrientationListening",
+    "line": 32729
+  },
+  {
+    "name": "_tcfResizeTimer",
+    "line": 32734
+  },
+  {
+    "name": "_dtState",
+    "line": 32796
+  },
+  {
+    "name": "_dtRedoStack",
+    "line": 32808
+  },
+  {
+    "name": "_dtKeyInited",
+    "line": 33749
+  },
+  {
+    "name": "_dtLongPress",
+    "line": 33795
+  },
+  {
+    "name": "_dtLongPressTimer",
+    "line": 33796
+  },
+  {
+    "name": "_dtZoomHistory",
+    "line": 34045
+  },
+  {
+    "name": "_dtToolbarCollapsed",
+    "line": 34057
+  },
+  {
+    "name": "_psMarginsPerMode",
+    "line": 35135
+  },
+  {
+    "name": "_lwRestorePsMarginsForMode",
+    "line": 35148
+  },
+  {
+    "name": "_lwLastCandles",
+    "line": 35452
+  },
+  {
+    "name": "_lwLastCandlesKey",
+    "line": 35456
+  },
+  {
+    "name": "_sendFromExpandedGroupIdx",
+    "line": 38616
+  },
+  {
+    "name": "_sendMaxIsNative",
+    "line": 39400
+  },
+  {
+    "name": "_nativeMaxFinalAmt",
+    "line": 39401
+  },
+  {
+    "name": "_executeSendIsNativeMax",
+    "line": 39554
+  },
+  {
+    "name": "sendRunning",
+    "line": 39783
+  },
+  {
+    "name": "NexusGasMode",
+    "line": 40037
+  },
+  {
+    "name": "goToStep3",
+    "line": 40448
+  },
+  {
+    "name": "_nexusNotifPermCallback",
+    "line": 40549
+  },
+  {
+    "name": "_portfolioAllChainsTotal",
+    "line": 40979
+  },
+  {
+    "name": "silentPriceRefresh",
+    "line": 41008
+  },
+  {
+    "name": "_globalPriceCacheTime",
+    "line": 41009
+  },
+  {
+    "name": "_nexusPendingBrowserReqId",
+    "line": 41841
+  },
+  {
+    "name": "_nexusBrowserSelectedAddress",
+    "line": 42050
+  },
+  {
+    "name": "_nexusBrowserChainId",
+    "line": 42071
+  },
+  {
+    "name": "_bgTaskRunning",
+    "line": 42730
+  },
+  {
+    "name": "_bgTaskLabel",
+    "line": 42733
+  },
+  {
+    "name": "_nexusActiveBrowserHost",
+    "line": 42951
+  },
+  {
+    "name": "nexusOnBackPressed",
+    "line": 43139
+  },
+  {
+    "name": "delRunning",
+    "line": 44108
+  },
+  {
+    "name": "delPkToggle",
+    "line": 44310
+  },
+  {
+    "name": "brSetProvider",
+    "line": 44501
+  },
+  {
+    "name": "_brProvRoutes",
+    "line": 45111
+  },
+  {
+    "name": "_brFetchRubic",
+    "line": 45112
+  },
+  {
+    "name": "_brFetchRango",
+    "line": 45113
+  },
+  {
+    "name": "_brFetchSocket",
+    "line": 45114
+  },
+  {
+    "name": "br",
+    "line": 45117
+  },
+  {
+    "name": "PRESET_CHAINS",
+    "line": 45139
+  },
+  {
+    "name": "BR_CHAIN_RPC",
+    "line": 45193
+  },
+  {
+    "name": "brSetMaxBalance",
+    "line": 46155
+  },
+  {
+    "name": "brOnSliderInput",
+    "line": 46165
+  },
+  {
+    "name": "brSetPct",
+    "line": 46174
+  },
+  {
+    "name": "brForceRefreshBalance",
+    "line": 46236
+  },
+  {
+    "name": "_brRpcFetchCooldown",
+    "line": 46519
+  },
+  {
+    "name": "_brRpcFetchTimer",
+    "line": 46520
+  },
+  {
+    "name": "_brAutoFetchInProgress",
+    "line": 46536
+  },
+  {
+    "name": "brUpdateSenderRow",
+    "line": 46705
+  },
+  {
+    "name": "brOnAmountChange",
+    "line": 46708
+  },
+  {
+    "name": "brOnRecipientInput",
+    "line": 46775
+  },
+  {
+    "name": "brUpdateRecipientDisplay",
+    "line": 46803
+  },
+  {
+    "name": "brClearRecipient",
+    "line": 46825
+  },
+  {
+    "name": "brUpdateExecBtn",
+    "line": 46943
+  },
+  {
+    "name": "brFlipChains",
+    "line": 46946
+  },
+  {
+    "name": "brFetchRoutes",
+    "line": 46975
+  },
+  {
+    "name": "BR_EXPLORERS",
+    "line": 47529
+  },
+  {
+    "name": "brOpenRecvExplorer",
+    "line": 47789
+  },
+  {
+    "name": "brExecute",
+    "line": 47826
+  },
+  {
+    "name": "brIsSameChain",
+    "line": 47864
+  },
+  {
+    "name": "brOpenTxExplorer",
+    "line": 48800
+  },
+  {
+    "name": "brOpenWalletPanel",
+    "line": 48823
+  },
+  {
+    "name": "brOpenRecipientPanel",
+    "line": 48841
+  },
+  {
+    "name": "brCloseWalletPanel",
+    "line": 48857
+  },
+  {
+    "name": "brKeyInputPreview",
+    "line": 48954
+  },
+  {
+    "name": "brUseKeyInput",
+    "line": 48983
+  },
+  {
+    "name": "brOpenSettings",
+    "line": 49120
+  },
+  {
+    "name": "brCloseSettings",
+    "line": 49132
+  },
+  {
+    "name": "brSelectSlip",
+    "line": 49143
+  },
+  {
+    "name": "brToggleCustomSlip",
+    "line": 49160
+  },
+  {
+    "name": "brApplyCustomSlip",
+    "line": 49169
+  },
+  {
+    "name": "brOpenChainPicker",
+    "line": 49223
+  },
+  {
+    "name": "brFilterChains",
+    "line": 49241
+  },
+  {
+    "name": "brClearChainSearch",
+    "line": 49256
+  },
+  {
+    "name": "brCloseChainPicker",
+    "line": 49361
+  },
+  {
+    "name": "brFetchFromBalance",
+    "line": 49503
+  },
+  {
+    "name": "_brShowCachedBalance",
+    "line": 49504
+  },
+  {
+    "name": "brOpenTokenPicker",
+    "line": 49516
+  },
+  {
+    "name": "brFilterTokens",
+    "line": 49672
+  },
+  {
+    "name": "brCloseTokenPicker",
+    "line": 49733
+  },
+  {
+    "name": "brHistSetFilter",
+    "line": 49739
+  },
+  {
+    "name": "brToggleHistDropdown",
+    "line": 49750
+  },
+  {
+    "name": "brOpenHistory",
+    "line": 49759
+  },
+  {
+    "name": "brCloseHistory",
+    "line": 49798
+  },
+  {
+    "name": "brClearHistory",
+    "line": 49821
+  },
+  {
+    "name": "brHistOpenPendingCard",
+    "line": 49857
+  },
+  {
+    "name": "brPendingBadgeCheck",
+    "line": 50031
+  },
+  {
+    "name": "_brPendCheckMap",
+    "line": 50211
+  },
+  {
+    "name": "_brPendingCards",
+    "line": 50349
+  },
+  {
+    "name": "brRefreshRecentTx",
+    "line": 50379
+  },
+  {
+    "name": "brRenderRecentInline",
+    "line": 50510
+  },
+  {
+    "name": "brClearRecentInline",
+    "line": 50513
+  },
+  {
+    "name": "openJumper",
+    "line": 50767
+  },
+  {
+    "name": "loadBridgeIframe",
+    "line": 50768
+  },
+  {
+    "name": "swCloseSettings",
+    "line": 50833
+  },
+  {
+    "name": "supCloseWalletPicker",
+    "line": 50840
+  },
+  {
+    "name": "thCloseChainPicker",
+    "line": 50841
+  },
+  {
+    "name": "_nexusBackNavInProgress",
+    "line": 50866
+  },
+  {
+    "name": "_nexusSaveHomeWallet",
+    "line": 50999
+  },
+  {
+    "name": "_nexusRestoreHomeWallet",
+    "line": 51017
+  },
+  {
+    "name": "_nexusPostTxRefresh",
+    "line": 51120
+  },
+  {
+    "name": "openTokenManager",
+    "line": 51207
+  },
+  {
+    "name": "showToast",
+    "line": 51233
+  },
+  {
+    "name": "hwCloseGroupPicker",
+    "line": 51271
+  },
+  {
+    "name": "hwCloseWalletPicker",
+    "line": 51289
+  },
+  {
+    "name": "homeOnGroupChange",
+    "line": 51307
+  },
+  {
+    "name": "homeOnWalletChange",
+    "line": 51315
+  },
+  {
+    "name": "loadTokens",
+    "line": 51651
+  },
+  {
+    "name": "_saveBalanceCache",
+    "line": 51658
+  },
+  {
+    "name": "swUpdateButton",
+    "line": 51743
+  },
+  {
+    "name": "_swUpdateConnectBtn",
+    "line": 51746
+  },
+  {
+    "name": "swUpdateBalances",
+    "line": 51747
+  },
+  {
+    "name": "_swFetchFromBalanceLive",
+    "line": 51748
+  },
+  {
+    "name": "updateProfileStats",
+    "line": 51811
+  },
+  {
+    "name": "applySettingsGroupSelection",
+    "line": 51812
+  },
+  {
+    "name": "delSyncActiveChain",
+    "line": 51827
+  },
+  {
+    "name": "delPopulateGroupSelect",
+    "line": 51828
+  },
+  {
+    "name": "_wdAborted",
+    "line": 51838
+  },
+  {
+    "name": "_thStopFlags",
+    "line": 51855
+  },
+  {
+    "name": "selectedWithdrawContract",
+    "line": 52010
+  },
+  {
+    "name": "isOwnerVerified",
+    "line": 52012
+  },
+  {
+    "name": "updateButtonStates",
+    "line": 52215
+  },
+  {
+    "name": "checkDeployReady",
+    "line": 52277
+  },
+  {
+    "name": "validateTokenInputs",
+    "line": 52305
+  },
+  {
+    "name": "NexusGas",
+    "line": 52673
+  },
+  {
+    "name": "_applyTheme",
+    "line": 52930
+  },
+  {
+    "name": "toggleThemeMode",
+    "line": 52958
+  },
+  {
+    "name": "_ngSet",
+    "line": 53013
+  },
+  {
+    "name": "_thGas",
+    "line": 53122
+  },
+  {
+    "name": "confirmSwapWalletDrawer",
+    "line": 53851
+  },
+  {
+    "name": "swOpenWalletPanel",
+    "line": 54449
+  },
+  {
+    "name": "swCloseWalletPanel",
+    "line": 54482
+  },
+  {
+    "name": "swCloseTokenPicker",
+    "line": 54836
+  },
+  {
+    "name": "swCloseHistory",
+    "line": 54839
+  },
+  {
+    "name": "swKeyInputPreview",
+    "line": 55122
+  },
+  {
+    "name": "swUseKeyInput",
+    "line": 55142
+  },
+  {
+    "name": "_globalPriceCache",
+    "line": 55949
+  },
+  {
+    "name": "_swLog",
+    "line": 57086
+  },
+  {
+    "name": "swToggleMoreRoutes",
+    "line": 57834
+  },
+  {
+    "name": "swFlipTokens",
+    "line": 58051
+  },
+  {
+    "name": "swOpenTokenPicker",
+    "line": 58129
+  },
+  {
+    "name": "swTokLogoFallback",
+    "line": 58175
+  },
+  {
+    "name": "swFilterTokens",
+    "line": 58291
+  },
+  {
+    "name": "swSelectContractToken",
+    "line": 58394
+  },
+  {
+    "name": "swSelectToken",
+    "line": 58414
+  },
+  {
+    "name": "swOpenSettings",
+    "line": 58443
+  },
+  {
+    "name": "swSelectSlipAdv",
+    "line": 58476
+  },
+  {
+    "name": "swAdvSlipInput",
+    "line": 58482
+  },
+  {
+    "name": "swToggleMultiRoute",
+    "line": 58486
+  },
+  {
+    "name": "swToggleExpert",
+    "line": 58494
+  },
+  {
+    "name": "swRenderRecentSwaps",
+    "line": 58569
+  },
+  {
+    "name": "swClearRecent",
+    "line": 58572
+  },
+  {
+    "name": "swOpenHistory",
+    "line": 58652
+  },
+  {
+    "name": "swHandleAction",
+    "line": 58818
+  },
+  {
+    "name": "swExecuteSwap",
+    "line": 58851
+  },
+  {
+    "name": "swRunning",
+    "line": 59223
+  },
+  {
+    "name": "openSwapChainPicker",
+    "line": 60049
+  },
+  {
+    "name": "closeSwapChainPicker",
+    "line": 60050
+  },
+  {
+    "name": "renderSwapChainList",
+    "line": 60051
+  },
+  {
+    "name": "swFetchQuotes",
+    "line": 60052
+  },
+  {
+    "name": "swOnAmountChange",
+    "line": 60053
+  },
+  {
+    "name": "swSelectDex",
+    "line": 60054
+  },
+  {
+    "name": "swSetMax",
+    "line": 60055
+  },
+  {
+    "name": "_swFetchToBalanceLive",
+    "line": 60057
+  },
+  {
+    "name": "swRefreshGasFee",
+    "line": 60058
+  },
+  {
+    "name": "swUpdateUI",
+    "line": 60059
+  },
+  {
+    "name": "swInit",
+    "line": 60060
+  },
+  {
+    "name": "swRenderTokenBox",
+    "line": 60061
+  },
+  {
+    "name": "swSetPercent",
+    "line": 60097
+  },
+  {
+    "name": "setSwapChain",
+    "line": 60098
+  },
+  {
+    "name": "SW",
+    "line": 60099
+  },
+  {
+    "name": "swFetchBalances",
+    "line": 60101
+  },
+  {
+    "name": "homeChainBtnClick",
+    "line": 60218
+  },
+  {
+    "name": "homeManageBtnClick",
+    "line": 60225
+  },
+  {
+    "name": "homeManageBtnPress",
+    "line": 60232
+  },
+  {
+    "name": "nexusLock",
+    "line": 60273
+  },
+  {
+    "name": "_nexusBioUnlockCb",
+    "line": 60495
+  },
+  {
+    "name": "_nexusBioSetupCb",
+    "line": 60554
+  },
+  {
+    "name": "_nexusCurrency",
+    "line": 61174
+  },
+  {
+    "name": "_nexusCurrencyRates",
+    "line": 61175
+  },
+  {
+    "name": "updatePortfolioTotal",
+    "line": 61280
+  },
+  {
+    "name": "getChainRpcs",
+    "line": 61418
+  },
+  {
+    "name": "_thNormalizeRpc",
+    "line": 61763
+  },
+  {
+    "name": "thSetRpcStatus",
+    "line": 61795
+  },
+  {
+    "name": "profileDelegatedCardClick",
+    "line": 62150
+  },
+  {
+    "name": "supSwitchTab",
+    "line": 62335
+  },
+  {
+    "name": "supOnModeChange",
+    "line": 62370
+  },
+  {
+    "name": "supOnPkInput",
+    "line": 62475
+  },
+  {
+    "name": "supOpenWalletPicker",
+    "line": 62642
+  },
+  {
+    "name": "supPickerToggleExpand",
+    "line": 62691
+  },
+  {
+    "name": "supPickerToggleKey",
+    "line": 62698
+  },
+  {
+    "name": "supPickerToggle",
+    "line": 62716
+  },
+  {
+    "name": "supWalletPickerSelectAll",
+    "line": 62732
+  },
+  {
+    "name": "supApplyWalletPicker",
+    "line": 62749
+  },
+  {
+    "name": "supClearAll",
+    "line": 62807
+  },
+  {
+    "name": "supExportLog",
+    "line": 62819
+  },
+  {
+    "name": "supStartBot",
+    "line": 63073
+  },
+  {
+    "name": "supRunning",
+    "line": 63095
+  },
+  {
+    "name": "supStopBot",
+    "line": 63137
+  },
+  {
+    "name": "supOnPageEnter",
+    "line": 63157
+  },
+  {
+    "name": "thOpenWalletPicker",
+    "line": 63307
+  },
+  {
+    "name": "thPickerToggleExpand",
+    "line": 63383
+  },
+  {
+    "name": "thPickerToggleKey",
+    "line": 63393
+  },
+  {
+    "name": "thPickerSelectSingle",
+    "line": 63421
+  },
+  {
+    "name": "checkBatchNativeWallet",
+    "line": 63461
+  },
+  {
+    "name": "thPickerToggle",
+    "line": 63477
+  },
+  {
+    "name": "thPickerSelectAll",
+    "line": 63506
+  },
+  {
+    "name": "thApplyWalletPicker",
+    "line": 63523
+  },
+  {
+    "name": "thCloseWalletPicker",
+    "line": 63529
+  },
+  {
+    "name": "thGetRpcList",
+    "line": 63709
+  },
+  {
+    "name": "thGetActiveRpc",
+    "line": 63733
+  },
+  {
+    "name": "thResetRpcIdx",
+    "line": 63749
+  },
+  {
+    "name": "_thSelectRpcManually",
+    "line": 63938
+  },
+  {
+    "name": "thWithFallback",
+    "line": 64077
+  },
+  {
+    "name": "thGetProvider",
+    "line": 64177
+  },
+  {
+    "name": "thOnChainSelect",
+    "line": 64188
+  },
+  {
+    "name": "_thMakeProvider",
+    "line": 64223
+  },
+  {
+    "name": "thResilientSendAndConfirm",
+    "line": 64250
+  },
+  {
+    "name": "getAllTHChains",
+    "line": 64359
+  },
+  {
+    "name": "getTHExplorer",
+    "line": 64386
+  },
+  {
+    "name": "getTHExplorerTx",
+    "line": 64429
+  },
+  {
+    "name": "getTHExplorerFromConfig",
+    "line": 64434
+  },
+  {
+    "name": "thOpenHeaderChainPicker",
+    "line": 64440
+  },
+  {
+    "name": "thOpenChainPicker",
+    "line": 64459
+  },
+  {
+    "name": "thRenderChainList",
+    "line": 64477
+  },
+  {
+    "name": "thSetChain",
+    "line": 64526
+  },
+  {
+    "name": "thSyncSectionHeader",
+    "line": 64702
+  },
+  {
+    "name": "lastBackgroundPing",
+    "line": 64925
+  },
+  {
+    "name": "toggleChainList",
+    "line": 65454
+  },
+  {
+    "name": "selectChain",
+    "line": 65461
+  },
+  {
+    "name": "_thRpcLogTs",
+    "line": 66195
+  },
+  {
+    "name": "cachedWallet",
+    "line": 66225
+  },
+  {
+    "name": "parseAddressesVerbose",
+    "line": 66403
+  },
+  {
+    "name": "_batchTransferBaseInit",
+    "line": 67396
+  },
+  {
+    "name": "batchNativeChainInitialized",
+    "line": 67458
+  },
+  {
+    "name": "tokenChainInitialized",
+    "line": 67463
+  },
+  {
+    "name": "withdrawChainInitialized",
+    "line": 67545
+  },
+  {
+    "name": "_multiKeyBaseInit",
+    "line": 68762
+  },
+  {
+    "name": "multiKeyNativeChainInitialized",
+    "line": 68787
+  },
+  {
+    "name": "multiKeyNativeRecipientInitialized",
+    "line": 68796
+  },
+  {
+    "name": "multiKeyNativeDeveloperInitialized",
+    "line": 68802
+  },
+  {
+    "name": "multiKeyTokenChainInitialized",
+    "line": 68818
+  },
+  {
+    "name": "multiKeyTokenRecipientInitialized",
+    "line": 68826
+  },
+  {
+    "name": "nftChainInitialized",
+    "line": 68930
+  },
+  {
+    "name": "generatedPrivateKeys",
+    "line": 69747
+  },
+  {
+    "name": "generatedAddresses",
+    "line": 69748
+  },
+  {
+    "name": "tokenRpcTimeout",
+    "line": 72247
+  },
+  {
+    "name": "tokenAddressTimeout",
+    "line": 72256
+  },
+  {
+    "name": "multiKeyTokenSendAllMode",
+    "line": 74952
+  },
+  {
+    "name": "_recipientDebounce",
+    "line": 75411
+  },
+  {
+    "name": "multiKeyNativeRecipientTimeout",
+    "line": 76135
+  },
+  {
+    "name": "multiKeyNativeRpcTimeout",
+    "line": 76187
+  },
+  {
+    "name": "multiKeyTokenRecipientTimeout",
+    "line": 76338
+  },
+  {
+    "name": "multiKeyTokenRpcTimeout",
+    "line": 76382
+  },
+  {
+    "name": "multiKeyTokenContractTimeout",
+    "line": 76394
+  },
+  {
+    "name": "toggleChainListBalanceCheck",
+    "line": 76624
+  },
+  {
+    "name": "selectChainBalanceCheck",
+    "line": 76631
+  },
+  {
+    "name": "updateChainSearchApproval",
+    "line": 77053
+  },
+  {
+    "name": "selectChainApproval",
+    "line": 77058
+  },
+  {
+    "name": "actualKeysStorage",
+    "line": 77906
+  },
+  {
+    "name": "getActualKeys",
+    "line": 77916
+  },
+  {
+    "name": "cachedPrivateKey",
+    "line": 77990
+  },
+  {
+    "name": "lastUsedKey",
+    "line": 78040
+  },
+  {
+    "name": "selectChainW2WToken",
+    "line": 78305
+  },
+  {
+    "name": "selectChainW2W",
+    "line": 78416
+  },
+  {
+    "name": "lastLoggedNftAddress",
+    "line": 79524
+  },
+  {
+    "name": "lastNftKeyError",
+    "line": 79544
+  },
+  {
+    "name": "toggleChainListNft",
+    "line": 79642
+  },
+  {
+    "name": "selectChainNft",
+    "line": 79649
+  },
+  {
+    "name": "toggleChainListNftCollect",
+    "line": 79756
+  },
+  {
+    "name": "selectChainNftCollect",
+    "line": 79763
+  },
+  {
+    "name": "nftFetchInProgress",
+    "line": 79880
+  },
+  {
+    "name": "_nexusTxInProgress",
+    "line": 82036
+  },
+  {
+    "name": "_nexusTxStart",
+    "line": 82038
+  },
+  {
+    "name": "_nexusTxEnd",
+    "line": 82044
+  },
+  {
+    "name": "nexusSetInterval",
+    "line": 82109
+  },
+  {
+    "name": "nexusClearInterval",
+    "line": 82142
+  },
+  {
+    "name": "NexusBGGuard",
+    "line": 82250
+  },
+  {
+    "name": "NexusPWA",
+    "line": 82729
+  },
+  {
+    "name": "nexusNotifyTxComplete",
+    "line": 83186
+  },
+  {
+    "name": "toggleLightMode",
+    "line": 83266
+  },
+  {
+    "name": "NexusCapBG",
+    "line": 83284
+  },
+  {
+    "name": "_nexusW3ModalReject",
+    "line": 84222
+  },
+  {
+    "name": "_nexusW3ModalApprove",
+    "line": 84235
+  },
+  {
+    "name": "_nexusModalApproveFromBrowser",
+    "line": 84263
+  },
+  {
+    "name": "_nexusModalRejectFromBrowser",
+    "line": 84310
+  },
+  {
+    "name": "_nexusFallbackOpenModal",
+    "line": 84326
+  },
+  {
+    "name": "nexusSetBrowserSelectedWallet",
+    "line": 84367
+  },
+  {
+    "name": "nexusHandleWeb3Request",
+    "line": 84401
+  },
+  {
+    "name": "EXC",
+    "line": 85908
+  },
+  {
+    "name": "_futBalCache",
+    "line": 86216
+  },
+  {
+    "name": "_futPosCache",
+    "line": 86217
+  },
+  {
+    "name": "_futOrdCache",
+    "line": 86218
+  },
+  {
+    "name": "_nxSignedFetch",
+    "line": 86679
+  },
+  {
+    "name": "fetchJsonWithFallback",
+    "line": 86735
+  },
+  {
+    "name": "_excSide",
+    "line": 87371
+  },
+  {
+    "name": "_excUsdtBalanceCache",
+    "line": 87470
+  },
+  {
+    "name": "_obWsConnect",
+    "line": 89517
+  },
+  {
+    "name": "excDepositCoinInfo",
+    "line": 90934
+  },
+  {
+    "name": "excDepositOpen",
+    "line": 90935
+  },
+  {
+    "name": "excWithdrawOpen",
+    "line": 90938
+  },
+  {
+    "name": "_leveragePresetClick",
+    "line": 92151
+  },
+  {
+    "name": "_updateLevPresets",
+    "line": 92152
+  },
+  {
+    "name": "_futBottomTab",
+    "line": 93972
+  },
+  {
+    "name": "_excDepthTick",
+    "line": 94966
+  },
+  {
+    "name": "excDepTokenModalOpen",
+    "line": 95231
+  },
+  {
+    "name": "excDepTokenModalClose",
+    "line": 95243
+  },
+  {
+    "name": "excDepTokenSelect",
+    "line": 95252
+  },
+  {
+    "name": "excDepositClose",
+    "line": 96518
+  },
+  {
+    "name": "excDepositCloseBtn",
+    "line": 96522
+  },
+  {
+    "name": "excDepositNetModalOpen",
+    "line": 96533
+  },
+  {
+    "name": "excDepositNetModalClose",
+    "line": 96542
+  },
+  {
+    "name": "excDepositCopyAddr",
+    "line": 96551
+  },
+  {
+    "name": "excDepositCopyMemo",
+    "line": 96561
+  },
+  {
+    "name": "_fetchExcChains",
+    "line": 96581
+  },
+  {
+    "name": "_fetchExcChainsForWithdraw",
+    "line": 96930
+  },
+  {
+    "name": "_wdBinanceBal",
+    "line": 97018
+  },
+  {
+    "name": "_wdBingxBal",
+    "line": 97137
+  },
+  {
+    "name": "_renderWdTokList",
+    "line": 97771
+  },
+  {
+    "name": "excWdTokSelect",
+    "line": 97824
+  },
+  {
+    "name": "excWdTokModalOpen",
+    "line": 97836
+  },
+  {
+    "name": "excWdTokModalClose",
+    "line": 97947
+  },
+  {
+    "name": "excWdMax",
+    "line": 98103
+  },
+  {
+    "name": "excWdPasteAddr",
+    "line": 98113
+  },
+  {
+    "name": "excWdAddrBook",
+    "line": 98121
+  },
+  {
+    "name": "excWdNetModalOpen",
+    "line": 98125
+  },
+  {
+    "name": "excWdNetModalClose",
+    "line": 98131
+  },
+  {
+    "name": "excWdUpdateFooter",
+    "line": 98139
+  },
+  {
+    "name": "excWdSubmit",
+    "line": 98141
+  },
+  {
+    "name": "excWithdrawClose",
+    "line": 98223
+  }
+]

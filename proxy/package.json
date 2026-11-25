@@ -1,0 +1,15 @@
+{
+  "name": "@nexus/proxy",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Key-injecting forward proxy for secret-bearing Nexus Wallet providers",
+  "main": "src/server.mjs",
+  "scripts": {
+    "start": "node src/server.mjs",
+    "test": "node --test test/proxy.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

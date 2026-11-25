@@ -1,0 +1,2302 @@
+[
+  {
+    "name": "requestAnimationFrame",
+    "line": 9501
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 9942
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 9943
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 9958
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 9959
+  },
+  {
+    "name": "setTimeout",
+    "line": 9961
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 10275
+  },
+  {
+    "name": "setStyle",
+    "line": 10627
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 10780
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 10781
+  },
+  {
+    "name": "size",
+    "line": 11018
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 11126
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 11127
+  },
+  {
+    "name": "_fmt",
+    "line": 11827
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 12153
+  },
+  {
+    "name": "groups",
+    "line": 16059
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 16081
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 16082
+  },
+  {
+    "name": "groups",
+    "line": 16091
+  },
+  {
+    "name": "groups",
+    "line": 16120
+  },
+  {
+    "name": "groups",
+    "line": 16138
+  },
+  {
+    "name": "groups",
+    "line": 16159
+  },
+  {
+    "name": "groups",
+    "line": 16176
+  },
+  {
+    "name": "raw",
+    "line": 16188
+  },
+  {
+    "name": "amtRaw",
+    "line": 18802
+  },
+  {
+    "name": "setTimeout",
+    "line": 18845
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 19274
+  },
+  {
+    "name": "setTimeout",
+    "line": 19285
+  },
+  {
+    "name": "_onHwReady",
+    "line": 21432
+  },
+  {
+    "name": "setTimeout",
+    "line": 21433
+  },
+  {
+    "name": "setTimeout",
+    "line": 21558
+  },
+  {
+    "name": "setTimeout",
+    "line": 21584
+  },
+  {
+    "name": "setTimeout",
+    "line": 21621
+  },
+  {
+    "name": "setTimeout",
+    "line": 21651
+  },
+  {
+    "name": "sym",
+    "line": 22483
+  },
+  {
+    "name": "pair",
+    "line": 22507
+  },
+  {
+    "name": "rpcs",
+    "line": 22717
+  },
+  {
+    "name": "letter",
+    "line": 22986
+  },
+  {
+    "name": "_wk",
+    "line": 23176
+  },
+  {
+    "name": "_wk",
+    "line": 23763
+  },
+  {
+    "name": "_hk",
+    "line": 23765
+  },
+  {
+    "name": "setTimeout",
+    "line": 23874
+  },
+  {
+    "name": "pairs",
+    "line": 24036
+  },
+  {
+    "name": "price",
+    "line": 24060
+  },
+  {
+    "name": "setTimeout",
+    "line": 24646
+  },
+  {
+    "name": "setTimeout",
+    "line": 24674
+  },
+  {
+    "name": "name",
+    "line": 24748
+  },
+  {
+    "name": "name",
+    "line": 24832
+  },
+  {
+    "name": "setTimeout",
+    "line": 24854
+  },
+  {
+    "name": "lines",
+    "line": 24938
+  },
+  {
+    "name": "raw",
+    "line": 24958
+  },
+  {
+    "name": "name",
+    "line": 25104
+  },
+  {
+    "name": "raw",
+    "line": 25115
+  },
+  {
+    "name": "_lifiTo",
+    "line": 27486
+  },
+  {
+    "name": "calldataLower",
+    "line": 27496
+  },
+  {
+    "name": "st",
+    "line": 28370
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 29258
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 29259
+  },
+  {
+    "name": "q",
+    "line": 29837
+  },
+  {
+    "name": "allRpcs",
+    "line": 30037
+  },
+  {
+    "name": "q",
+    "line": 30275
+  },
+  {
+    "name": "_hk",
+    "line": 30702
+  },
+  {
+    "name": "setTimeout",
+    "line": 30716
+  },
+  {
+    "name": "step",
+    "line": 30749
+  },
+  {
+    "name": "sym",
+    "line": 32317
+  },
+  {
+    "name": "mx",
+    "line": 33447
+  },
+  {
+    "name": "pct",
+    "line": 33570
+  },
+  {
+    "name": "midY",
+    "line": 33572
+  },
+  {
+    "name": "t",
+    "line": 33742
+  },
+  {
+    "name": "set",
+    "line": 34241
+  },
+  {
+    "name": "pair",
+    "line": 34274
+  },
+  {
+    "name": "pair",
+    "line": 34625
+  },
+  {
+    "name": "step",
+    "line": 34633
+  },
+  {
+    "name": "pair",
+    "line": 34720
+  },
+  {
+    "name": "step",
+    "line": 34728
+  },
+  {
+    "name": "fmt",
+    "line": 34759
+  },
+  {
+    "name": "pct",
+    "line": 34824
+  },
+  {
+    "name": "toX",
+    "line": 34856
+  },
+  {
+    "name": "toY",
+    "line": 34857
+  },
+  {
+    "name": "fmt",
+    "line": 34866
+  },
+  {
+    "name": "relX",
+    "line": 34902
+  },
+  {
+    "name": "pct",
+    "line": 34915
+  },
+  {
+    "name": "fmt",
+    "line": 35060
+  },
+  {
+    "name": "pair",
+    "line": 35303
+  },
+  {
+    "name": "_applyRange",
+    "line": 35487
+  },
+  {
+    "name": "fmt",
+    "line": 35517
+  },
+  {
+    "name": "haClose",
+    "line": 35993
+  },
+  {
+    "name": "closeSheet",
+    "line": 36127
+  },
+  {
+    "name": "tryUrl",
+    "line": 36336
+  },
+  {
+    "name": "sym2",
+    "line": 36763
+  },
+  {
+    "name": "sym2",
+    "line": 37001
+  },
+  {
+    "name": "sym",
+    "line": 37099
+  },
+  {
+    "name": "pairs",
+    "line": 37135
+  },
+  {
+    "name": "name",
+    "line": 37136
+  },
+  {
+    "name": "sym",
+    "line": 37137
+  },
+  {
+    "name": "coins",
+    "line": 37163
+  },
+  {
+    "name": "pairs",
+    "line": 37174
+  },
+  {
+    "name": "name",
+    "line": 37175
+  },
+  {
+    "name": "sym",
+    "line": 37176
+  },
+  {
+    "name": "_atGroups",
+    "line": 37282
+  },
+  {
+    "name": "match",
+    "line": 37407
+  },
+  {
+    "name": "sym2",
+    "line": 37458
+  },
+  {
+    "name": "alreadyAdded",
+    "line": 37549
+  },
+  {
+    "name": "alreadyAdded",
+    "line": 37556
+  },
+  {
+    "name": "_atGroups",
+    "line": 37884
+  },
+  {
+    "name": "existing",
+    "line": 37891
+  },
+  {
+    "name": "rawPk",
+    "line": 38180
+  },
+  {
+    "name": "meta",
+    "line": 38570
+  },
+  {
+    "name": "norm",
+    "line": 38772
+  },
+  {
+    "name": "currentAddr",
+    "line": 38874
+  },
+  {
+    "name": "isNative",
+    "line": 39428
+  },
+  {
+    "name": "isNative",
+    "line": 39549
+  },
+  {
+    "name": "chainName",
+    "line": 39572
+  },
+  {
+    "name": "amt",
+    "line": 39789
+  },
+  {
+    "name": "val",
+    "line": 40400
+  },
+  {
+    "name": "_onHwReady",
+    "line": 40782
+  },
+  {
+    "name": "setTimeout",
+    "line": 41007
+  },
+  {
+    "name": "q",
+    "line": 41509
+  },
+  {
+    "name": "setTimeout",
+    "line": 41653
+  },
+  {
+    "name": "chains",
+    "line": 41870
+  },
+  {
+    "name": "setTimeout",
+    "line": 42120
+  },
+  {
+    "name": "setTimeout",
+    "line": 42129
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 42841
+  },
+  {
+    "name": "setTimeout",
+    "line": 42846
+  },
+  {
+    "name": "chainId",
+    "line": 43245
+  },
+  {
+    "name": "chain",
+    "line": 43247
+  },
+  {
+    "name": "rpcs",
+    "line": 43301
+  },
+  {
+    "name": "allChains",
+    "line": 43350
+  },
+  {
+    "name": "chain",
+    "line": 43407
+  },
+  {
+    "name": "setTimeout",
+    "line": 43448
+  },
+  {
+    "name": "delWaitForEthers",
+    "line": 43824
+  },
+  {
+    "name": "setTimeout",
+    "line": 44387
+  },
+  {
+    "name": "routeName",
+    "line": 45045
+  },
+  {
+    "name": "setTimeout",
+    "line": 45897
+  },
+  {
+    "name": "setTimeout",
+    "line": 45914
+  },
+  {
+    "name": "setTimeout",
+    "line": 45919
+  },
+  {
+    "name": "_groups",
+    "line": 46298
+  },
+  {
+    "name": "_hk",
+    "line": 46327
+  },
+  {
+    "name": "groups",
+    "line": 46651
+  },
+  {
+    "name": "preset",
+    "line": 46870
+  },
+  {
+    "name": "toUSD",
+    "line": 47435
+  },
+  {
+    "name": "_recvExp",
+    "line": 47590
+  },
+  {
+    "name": "recv",
+    "line": 47663
+  },
+  {
+    "name": "status",
+    "line": 47714
+  },
+  {
+    "name": "toAmtRaw",
+    "line": 47717
+  },
+  {
+    "name": "status",
+    "line": 47762
+  },
+  {
+    "name": "name",
+    "line": 47916
+  },
+  {
+    "name": "_minSym",
+    "line": 48039
+  },
+  {
+    "name": "_sentExp",
+    "line": 48605
+  },
+  {
+    "name": "fmt",
+    "line": 48747
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 49125
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 49126
+  },
+  {
+    "name": "q",
+    "line": 49244
+  },
+  {
+    "name": "letter",
+    "line": 49268
+  },
+  {
+    "name": "setTimeout",
+    "line": 49425
+  },
+  {
+    "name": "setTimeout",
+    "line": 49434
+  },
+  {
+    "name": "_fmtBal",
+    "line": 49573
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 49788
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 49789
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 49805
+  },
+  {
+    "name": "setTimeout",
+    "line": 49833
+  },
+  {
+    "name": "st",
+    "line": 49876
+  },
+  {
+    "name": "sub",
+    "line": 49877
+  },
+  {
+    "name": "recv",
+    "line": 49878
+  },
+  {
+    "name": "st",
+    "line": 49890
+  },
+  {
+    "name": "recv",
+    "line": 49901
+  },
+  {
+    "name": "st1",
+    "line": 49949
+  },
+  {
+    "name": "st2",
+    "line": 49972
+  },
+  {
+    "name": "prov",
+    "line": 49984
+  },
+  {
+    "name": "prov",
+    "line": 50043
+  },
+  {
+    "name": "st1",
+    "line": 50056
+  },
+  {
+    "name": "st2",
+    "line": 50076
+  },
+  {
+    "name": "allTxs",
+    "line": 50213
+  },
+  {
+    "name": "fromAmtStr",
+    "line": 50330
+  },
+  {
+    "name": "allTxs",
+    "line": 50397
+  },
+  {
+    "name": "_fmt",
+    "line": 50453
+  },
+  {
+    "name": "fromAmtStr",
+    "line": 50461
+  },
+  {
+    "name": "toAmtStr",
+    "line": 50462
+  },
+  {
+    "name": "timeStr",
+    "line": 50463
+  },
+  {
+    "name": "groups",
+    "line": 51024
+  },
+  {
+    "name": "setTimeout",
+    "line": 51123
+  },
+  {
+    "name": "setTimeout",
+    "line": 51277
+  },
+  {
+    "name": "setTimeout",
+    "line": 51294
+  },
+  {
+    "name": "setTimeout",
+    "line": 51304
+  },
+  {
+    "name": "_wk",
+    "line": 51331
+  },
+  {
+    "name": "chainId",
+    "line": 51361
+  },
+  {
+    "name": "_walletKey",
+    "line": 51363
+  },
+  {
+    "name": "_walletKey",
+    "line": 51387
+  },
+  {
+    "name": "priceText",
+    "line": 51505
+  },
+  {
+    "name": "setTimeout",
+    "line": 51594
+  },
+  {
+    "name": "setTimeout",
+    "line": 51654
+  },
+  {
+    "name": "_thSection",
+    "line": 52248
+  },
+  {
+    "name": "setTimeout",
+    "line": 52358
+  },
+  {
+    "name": "_refreshCurrentPage",
+    "line": 52444
+  },
+  {
+    "name": "setTimeout",
+    "line": 52454
+  },
+  {
+    "name": "_init",
+    "line": 52538
+  },
+  {
+    "name": "tryRestore",
+    "line": 52545
+  },
+  {
+    "name": "setTimeout",
+    "line": 52631
+  },
+  {
+    "name": "setTimeout",
+    "line": 52644
+  },
+  {
+    "name": "_wf",
+    "line": 52715
+  },
+  {
+    "name": "_wf",
+    "line": 52731
+  },
+  {
+    "name": "_tryInject",
+    "line": 53035
+  },
+  {
+    "name": "setTimeout",
+    "line": 53216
+  },
+  {
+    "name": "setTimeout",
+    "line": 53225
+  },
+  {
+    "name": "chains",
+    "line": 54387
+  },
+  {
+    "name": "_groups",
+    "line": 54452
+  },
+  {
+    "name": "setTimeout",
+    "line": 54533
+  },
+  {
+    "name": "setTimeout",
+    "line": 54600
+  },
+  {
+    "name": "setTimeout",
+    "line": 54613
+  },
+  {
+    "name": "_isInsideScrollable",
+    "line": 54739
+  },
+  {
+    "name": "_init",
+    "line": 54814
+  },
+  {
+    "name": "_attachBottomSwipe",
+    "line": 54842
+  },
+  {
+    "name": "_attachBottomSwipe",
+    "line": 54878
+  },
+  {
+    "name": "groups",
+    "line": 54900
+  },
+  {
+    "name": "raw",
+    "line": 55123
+  },
+  {
+    "name": "raw",
+    "line": 55148
+  },
+  {
+    "name": "chains",
+    "line": 55168
+  },
+  {
+    "name": "_vKeys",
+    "line": 55293
+  },
+  {
+    "name": "_groups",
+    "line": 55304
+  },
+  {
+    "name": "_hk",
+    "line": 55319
+  },
+  {
+    "name": "rpcs",
+    "line": 55838
+  },
+  {
+    "name": "rpcs",
+    "line": 55898
+  },
+  {
+    "name": "_allToks",
+    "line": 55937
+  },
+  {
+    "name": "c",
+    "line": 56030
+  },
+  {
+    "name": "sym",
+    "line": 56134
+  },
+  {
+    "name": "sym",
+    "line": 56164
+  },
+  {
+    "name": "maxSlip",
+    "line": 56413
+  },
+  {
+    "name": "humanAmt",
+    "line": 56544
+  },
+  {
+    "name": "_allToks",
+    "line": 56572
+  },
+  {
+    "name": "swapper",
+    "line": 56708
+  },
+  {
+    "name": "outWei",
+    "line": 56711
+  },
+  {
+    "name": "_netTokens",
+    "line": 57300
+  },
+  {
+    "name": "_allToks",
+    "line": 57309
+  },
+  {
+    "name": "pct",
+    "line": 57745
+  },
+  {
+    "name": "buildRow",
+    "line": 57918
+  },
+  {
+    "name": "pct",
+    "line": 57919
+  },
+  {
+    "name": "label",
+    "line": 58182
+  },
+  {
+    "name": "_cid",
+    "line": 58198
+  },
+  {
+    "name": "_vKeys",
+    "line": 58206
+  },
+  {
+    "name": "_groups",
+    "line": 58211
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 58451
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 58452
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 58465
+  },
+  {
+    "name": "setTimeout",
+    "line": 58471
+  },
+  {
+    "name": "setTimeout",
+    "line": 58580
+  },
+  {
+    "name": "allRecents",
+    "line": 58599
+  },
+  {
+    "name": "explorerBase",
+    "line": 58615
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 58667
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 58668
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 58684
+  },
+  {
+    "name": "setTimeout",
+    "line": 58690
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 58809
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 58810
+  },
+  {
+    "name": "chainId",
+    "line": 58933
+  },
+  {
+    "name": "chainName",
+    "line": 58934
+  },
+  {
+    "name": "_wSuffix",
+    "line": 59014
+  },
+  {
+    "name": "_fromColors",
+    "line": 59126
+  },
+  {
+    "name": "_toColors",
+    "line": 59127
+  },
+  {
+    "name": "c",
+    "line": 59238
+  },
+  {
+    "name": "frac",
+    "line": 59249
+  },
+  {
+    "name": "errMsg",
+    "line": 59825
+  },
+  {
+    "name": "chainId",
+    "line": 59855
+  },
+  {
+    "name": "_tip",
+    "line": 59964
+  },
+  {
+    "name": "_doRestore",
+    "line": 60119
+  },
+  {
+    "name": "chains",
+    "line": 60120
+  },
+  {
+    "name": "_set",
+    "line": 60331
+  },
+  {
+    "name": "_getOverlay",
+    "line": 60361
+  },
+  {
+    "name": "onStart",
+    "line": 60958
+  },
+  {
+    "name": "onMove",
+    "line": 60964
+  },
+  {
+    "name": "onEnd",
+    "line": 60970
+  },
+  {
+    "name": "setTimeout",
+    "line": 61038
+  },
+  {
+    "name": "_init",
+    "line": 61045
+  },
+  {
+    "name": "setTimeout",
+    "line": 61284
+  },
+  {
+    "name": "chain",
+    "line": 61391
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 61439
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 61440
+  },
+  {
+    "name": "setTimeout",
+    "line": 61453
+  },
+  {
+    "name": "setTimeout",
+    "line": 61461
+  },
+  {
+    "name": "chains",
+    "line": 61488
+  },
+  {
+    "name": "chain",
+    "line": 61554
+  },
+  {
+    "name": "chain",
+    "line": 61585
+  },
+  {
+    "name": "rpcs",
+    "line": 61735
+  },
+  {
+    "name": "setTimeout",
+    "line": 61981
+  },
+  {
+    "name": "effectiveChainId",
+    "line": 62181
+  },
+  {
+    "name": "chain",
+    "line": 62183
+  },
+  {
+    "name": "set",
+    "line": 62419
+  },
+  {
+    "name": "raw",
+    "line": 62608
+  },
+  {
+    "name": "raw",
+    "line": 62616
+  },
+  {
+    "name": "setTimeout",
+    "line": 62633
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 62659
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 62660
+  },
+  {
+    "name": "setTimeout",
+    "line": 62762
+  },
+  {
+    "name": "lines",
+    "line": 63082
+  },
+  {
+    "name": "setTimeout",
+    "line": 63159
+  },
+  {
+    "name": "t",
+    "line": 63215
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 63346
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 63347
+  },
+  {
+    "name": "raw",
+    "line": 63432
+  },
+  {
+    "name": "setTimeout",
+    "line": 63451
+  },
+  {
+    "name": "t",
+    "line": 63541
+  },
+  {
+    "name": "raw",
+    "line": 63562
+  },
+  {
+    "name": "raw",
+    "line": 63580
+  },
+  {
+    "name": "raw",
+    "line": 63588
+  },
+  {
+    "name": "rpcList",
+    "line": 64257
+  },
+  {
+    "name": "chains",
+    "line": 64389
+  },
+  {
+    "name": "em",
+    "line": 64705
+  },
+  {
+    "name": "cfg",
+    "line": 64718
+  },
+  {
+    "name": "rpcs",
+    "line": 64722
+  },
+  {
+    "name": "setTimeout",
+    "line": 64738
+  },
+  {
+    "name": "hash",
+    "line": 64895
+  },
+  {
+    "name": "explorerBase",
+    "line": 65042
+  },
+  {
+    "name": "_rpcs",
+    "line": 65376
+  },
+  {
+    "name": "em",
+    "line": 66029
+  },
+  {
+    "name": "_thRpcs",
+    "line": 66166
+  },
+  {
+    "name": "total",
+    "line": 66329
+  },
+  {
+    "name": "rpcs",
+    "line": 67104
+  },
+  {
+    "name": "setTimeout",
+    "line": 67360
+  },
+  {
+    "name": "_bcRpcs",
+    "line": 67429
+  },
+  {
+    "name": "em",
+    "line": 67444
+  },
+  {
+    "name": "fullChain",
+    "line": 67485
+  },
+  {
+    "name": "em",
+    "line": 67486
+  },
+  {
+    "name": "key",
+    "line": 67790
+  },
+  {
+    "name": "_thRpcs",
+    "line": 68325
+  },
+  {
+    "name": "_thRpcs",
+    "line": 68389
+  },
+  {
+    "name": "withdrawNative",
+    "line": 68429
+  },
+  {
+    "name": "_thRpcs",
+    "line": 68463
+  },
+  {
+    "name": "withdrawToken",
+    "line": 68576
+  },
+  {
+    "name": "_thRpcs",
+    "line": 68611
+  },
+  {
+    "name": "setTimeout",
+    "line": 68806
+  },
+  {
+    "name": "_bc",
+    "line": 68832
+  },
+  {
+    "name": "_bcRpcs",
+    "line": 68839
+  },
+  {
+    "name": "fullChain",
+    "line": 68853
+  },
+  {
+    "name": "em",
+    "line": 68854
+  },
+  {
+    "name": "fullChain",
+    "line": 68879
+  },
+  {
+    "name": "em",
+    "line": 68880
+  },
+  {
+    "name": "_rpcs",
+    "line": 68942
+  },
+  {
+    "name": "_em",
+    "line": 68949
+  },
+  {
+    "name": "tokenAddr",
+    "line": 69075
+  },
+  {
+    "name": "_thRpcs",
+    "line": 69157
+  },
+  {
+    "name": "selectedChain",
+    "line": 69373
+  },
+  {
+    "name": "showSelectedOnly",
+    "line": 69385
+  },
+  {
+    "name": "showAllChains",
+    "line": 69401
+  },
+  {
+    "name": "_thRpcs",
+    "line": 70042
+  },
+  {
+    "name": "em",
+    "line": 70491
+  },
+  {
+    "name": "_thRpcs",
+    "line": 70538
+  },
+  {
+    "name": "_thRpcs",
+    "line": 70778
+  },
+  {
+    "name": "_thRpcs",
+    "line": 70824
+  },
+  {
+    "name": "_thRpcs",
+    "line": 71114
+  },
+  {
+    "name": "_thRpcs",
+    "line": 71196
+  },
+  {
+    "name": "_thRpcs",
+    "line": 71263
+  },
+  {
+    "name": "_thRpcs",
+    "line": 71449
+  },
+  {
+    "name": "_thRpcs",
+    "line": 71807
+  },
+  {
+    "name": "em",
+    "line": 72518
+  },
+  {
+    "name": "total",
+    "line": 72579
+  },
+  {
+    "name": "_thRpcs",
+    "line": 73057
+  },
+  {
+    "name": "_thRpcs",
+    "line": 73162
+  },
+  {
+    "name": "developerKey",
+    "line": 73621
+  },
+  {
+    "name": "_thRpcs",
+    "line": 73706
+  },
+  {
+    "name": "gasBuffer",
+    "line": 73842
+  },
+  {
+    "name": "bufferPercent",
+    "line": 73851
+  },
+  {
+    "name": "_thRpcs",
+    "line": 73954
+  },
+  {
+    "name": "_thRpcs",
+    "line": 74105
+  },
+  {
+    "name": "maxFeePerGas",
+    "line": 74192
+  },
+  {
+    "name": "gasPriceWithBuffer",
+    "line": 74196
+  },
+  {
+    "name": "maxFeePerGas",
+    "line": 74233
+  },
+  {
+    "name": "gasPriceWithBuffer",
+    "line": 74236
+  },
+  {
+    "name": "_thRpcs",
+    "line": 74382
+  },
+  {
+    "name": "_thRpcs",
+    "line": 74582
+  },
+  {
+    "name": "ethChain",
+    "line": 74738
+  },
+  {
+    "name": "em",
+    "line": 74912
+  },
+  {
+    "name": "el",
+    "line": 74978
+  },
+  {
+    "name": "el",
+    "line": 75316
+  },
+  {
+    "name": "_thRpcs",
+    "line": 75432
+  },
+  {
+    "name": "progressPercent",
+    "line": 75629
+  },
+  {
+    "name": "_thRpcs",
+    "line": 75669
+  },
+  {
+    "name": "_thRpcs",
+    "line": 75715
+  },
+  {
+    "name": "setTimeout",
+    "line": 75961
+  },
+  {
+    "name": "selectedChain",
+    "line": 76539
+  },
+  {
+    "name": "_bcRpcs",
+    "line": 76546
+  },
+  {
+    "name": "buildChainList",
+    "line": 76553
+  },
+  {
+    "name": "showSelectedOnly",
+    "line": 76587
+  },
+  {
+    "name": "showAllChains",
+    "line": 76610
+  },
+  {
+    "name": "_thRpcs",
+    "line": 76672
+  },
+  {
+    "name": "selectedChain",
+    "line": 76976
+  },
+  {
+    "name": "_rpcs",
+    "line": 76982
+  },
+  {
+    "name": "buildChainList",
+    "line": 76988
+  },
+  {
+    "name": "showSelectedOnly",
+    "line": 77043
+  },
+  {
+    "name": "_thRpcs",
+    "line": 77072
+  },
+  {
+    "name": "_thRpcs",
+    "line": 77202
+  },
+  {
+    "name": "keys",
+    "line": 77302
+  },
+  {
+    "name": "tokenAddr",
+    "line": 77303
+  },
+  {
+    "name": "_thCopyAllAddresses",
+    "line": 77452
+  },
+  {
+    "name": "recipient",
+    "line": 77546
+  },
+  {
+    "name": "_thRpcs",
+    "line": 77662
+  },
+  {
+    "name": "chain",
+    "line": 77745
+  },
+  {
+    "name": "selectedChain",
+    "line": 78213
+  },
+  {
+    "name": "_rpcs",
+    "line": 78220
+  },
+  {
+    "name": "buildChainList",
+    "line": 78226
+  },
+  {
+    "name": "showSelectedOnly",
+    "line": 78293
+  },
+  {
+    "name": "selectedChain",
+    "line": 78321
+  },
+  {
+    "name": "_rpcs",
+    "line": 78328
+  },
+  {
+    "name": "buildChainList",
+    "line": 78334
+  },
+  {
+    "name": "attachSearchListener",
+    "line": 78386
+  },
+  {
+    "name": "showSelectedOnly",
+    "line": 78404
+  },
+  {
+    "name": "_thRpcs",
+    "line": 78499
+  },
+  {
+    "name": "_thRpcs",
+    "line": 79070
+  },
+  {
+    "name": "_estGP",
+    "line": 79203
+  },
+  {
+    "name": "gasBuffer",
+    "line": 79244
+  },
+  {
+    "name": "bufferPercent",
+    "line": 79253
+  },
+  {
+    "name": "selectedChain",
+    "line": 79573
+  },
+  {
+    "name": "buildChainList",
+    "line": 79578
+  },
+  {
+    "name": "showSelectedOnly",
+    "line": 79605
+  },
+  {
+    "name": "showAllChains",
+    "line": 79628
+  },
+  {
+    "name": "selectedChain",
+    "line": 79687
+  },
+  {
+    "name": "buildChainList",
+    "line": 79692
+  },
+  {
+    "name": "showSelectedOnly",
+    "line": 79719
+  },
+  {
+    "name": "showAllChains",
+    "line": 79742
+  },
+  {
+    "name": "_thRpcs",
+    "line": 79841
+  },
+  {
+    "name": "_thRpcs",
+    "line": 79973
+  },
+  {
+    "name": "handleSelect",
+    "line": 80760
+  },
+  {
+    "name": "senderKeys",
+    "line": 80969
+  },
+  {
+    "name": "recipient",
+    "line": 80970
+  },
+  {
+    "name": "_thRpcs",
+    "line": 81166
+  },
+  {
+    "name": "_thRpcs",
+    "line": 81311
+  },
+  {
+    "name": "all",
+    "line": 81796
+  },
+  {
+    "name": "all",
+    "line": 81811
+  },
+  {
+    "name": "all",
+    "line": 81855
+  },
+  {
+    "name": "all",
+    "line": 81873
+  },
+  {
+    "name": "all",
+    "line": 81888
+  },
+  {
+    "name": "all",
+    "line": 81930
+  },
+  {
+    "name": "all",
+    "line": 81948
+  },
+  {
+    "name": "all",
+    "line": 81963
+  },
+  {
+    "name": "setTimeout",
+    "line": 82164
+  },
+  {
+    "name": "chain",
+    "line": 82173
+  },
+  {
+    "name": "setTimeout",
+    "line": 82240
+  },
+  {
+    "name": "setTimeout",
+    "line": 82272
+  },
+  {
+    "name": "chain",
+    "line": 82601
+  },
+  {
+    "name": "setTimeout",
+    "line": 82699
+  },
+  {
+    "name": "chain",
+    "line": 82843
+  },
+  {
+    "name": "setTimeout",
+    "line": 82907
+  },
+  {
+    "name": "chain",
+    "line": 82962
+  },
+  {
+    "name": "chain",
+    "line": 83104
+  },
+  {
+    "name": "setTimeout",
+    "line": 83209
+  },
+  {
+    "name": "setTimeout",
+    "line": 83218
+  },
+  {
+    "name": "setTimeout",
+    "line": 83268
+  },
+  {
+    "name": "_chs",
+    "line": 84106
+  },
+  {
+    "name": "setTimeout",
+    "line": 84215
+  },
+  {
+    "name": "_msg",
+    "line": 85730
+  },
+  {
+    "name": "_escHtml",
+    "line": 85853
+  },
+  {
+    "name": "url",
+    "line": 86273
+  },
+  {
+    "name": "url",
+    "line": 86288
+  },
+  {
+    "name": "url",
+    "line": 86304
+  },
+  {
+    "name": "url",
+    "line": 86345
+  },
+  {
+    "name": "url",
+    "line": 86473
+  },
+  {
+    "name": "url",
+    "line": 86492
+  },
+  {
+    "name": "nonce",
+    "line": 86505
+  },
+  {
+    "name": "url",
+    "line": 86532
+  },
+  {
+    "name": "url",
+    "line": 86549
+  },
+  {
+    "name": "url",
+    "line": 86566
+  },
+  {
+    "name": "url",
+    "line": 86605
+  },
+  {
+    "name": "url",
+    "line": 86622
+  },
+  {
+    "name": "nonce",
+    "line": 86659
+  },
+  {
+    "name": "method",
+    "line": 86680
+  },
+  {
+    "name": "t",
+    "line": 86838
+  },
+  {
+    "name": "price",
+    "line": 86922
+  },
+  {
+    "name": "sym",
+    "line": 87023
+  },
+  {
+    "name": "sym",
+    "line": 87036
+  },
+  {
+    "name": "sym",
+    "line": 87044
+  },
+  {
+    "name": "sym",
+    "line": 87062
+  },
+  {
+    "name": "sym",
+    "line": 87073
+  },
+  {
+    "name": "sym",
+    "line": 87082
+  },
+  {
+    "name": "sym",
+    "line": 87090
+  },
+  {
+    "name": "sym",
+    "line": 87132
+  },
+  {
+    "name": "sym",
+    "line": 87173
+  },
+  {
+    "name": "q",
+    "line": 87230
+  },
+  {
+    "name": "apiKey",
+    "line": 87730
+  },
+  {
+    "name": "secret",
+    "line": 87731
+  },
+  {
+    "name": "passphrase",
+    "line": 87732
+  },
+  {
+    "name": "pair",
+    "line": 87804
+  },
+  {
+    "name": "q",
+    "line": 88019
+  },
+  {
+    "name": "coin",
+    "line": 88110
+  },
+  {
+    "name": "item",
+    "line": 88141
+  },
+  {
+    "name": "htxAcc",
+    "line": 88528
+  },
+  {
+    "name": "list",
+    "line": 88767
+  },
+  {
+    "name": "entry",
+    "line": 88796
+  },
+  {
+    "name": "htxAcc",
+    "line": 88818
+  },
+  {
+    "name": "key",
+    "line": 88823
+  },
+  {
+    "name": "marketList",
+    "line": 88943
+  },
+  {
+    "name": "cfg",
+    "line": 89045
+  },
+  {
+    "name": "cfg",
+    "line": 89055
+  },
+  {
+    "name": "marketList",
+    "line": 89117
+  },
+  {
+    "name": "list",
+    "line": 89196
+  },
+  {
+    "name": "htxAcc",
+    "line": 89249
+  },
+  {
+    "name": "key",
+    "line": 89254
+  },
+  {
+    "name": "locked",
+    "line": 89264
+  },
+  {
+    "name": "entry",
+    "line": 89305
+  },
+  {
+    "name": "msg",
+    "line": 89361
+  },
+  {
+    "name": "init",
+    "line": 89427
+  },
+  {
+    "name": "buf",
+    "line": 89960
+  },
+  {
+    "name": "fmtPrice",
+    "line": 90120
+  },
+  {
+    "name": "q",
+    "line": 90253
+  },
+  {
+    "name": "bal",
+    "line": 90384
+  },
+  {
+    "name": "bal",
+    "line": 90388
+  },
+  {
+    "name": "coins",
+    "line": 90392
+  },
+  {
+    "name": "bal",
+    "line": 90393
+  },
+  {
+    "name": "setTxt",
+    "line": 90771
+  },
+  {
+    "name": "info",
+    "line": 90937
+  },
+  {
+    "name": "list",
+    "line": 91150
+  },
+  {
+    "name": "fmt",
+    "line": 91491
+  },
+  {
+    "name": "fmtP",
+    "line": 91496
+  },
+  {
+    "name": "bodyStr",
+    "line": 91600
+  },
+  {
+    "name": "bodyStr",
+    "line": 91609
+  },
+  {
+    "name": "bodyStr",
+    "line": 91621
+  },
+  {
+    "name": "bodyStr",
+    "line": 91667
+  },
+  {
+    "name": "bodyStr",
+    "line": 91679
+  },
+  {
+    "name": "bodyStr",
+    "line": 91692
+  },
+  {
+    "name": "bodyStr",
+    "line": 91709
+  },
+  {
+    "name": "nonce",
+    "line": 91745
+  },
+  {
+    "name": "bodyStr",
+    "line": 91746
+  },
+  {
+    "name": "init",
+    "line": 91792
+  },
+  {
+    "name": "bal",
+    "line": 91849
+  },
+  {
+    "name": "item",
+    "line": 91875
+  },
+  {
+    "name": "coin",
+    "line": 91884
+  },
+  {
+    "name": "c",
+    "line": 91885
+  },
+  {
+    "name": "acct",
+    "line": 91916
+  },
+  {
+    "name": "item",
+    "line": 91921
+  },
+  {
+    "name": "item",
+    "line": 91933
+  },
+  {
+    "name": "item",
+    "line": 91938
+  },
+  {
+    "name": "setSide",
+    "line": 91971
+  },
+  {
+    "name": "setOrderType",
+    "line": 91988
+  },
+  {
+    "name": "_em",
+    "line": 92351
+  },
+  {
+    "name": "list",
+    "line": 92403
+  },
+  {
+    "name": "list",
+    "line": 92427
+  },
+  {
+    "name": "list",
+    "line": 92433
+  },
+  {
+    "name": "list",
+    "line": 92439
+  },
+  {
+    "name": "_cacheKey",
+    "line": 92541
+  },
+  {
+    "name": "openPairPicker",
+    "line": 92551
+  },
+  {
+    "name": "list",
+    "line": 92591
+  },
+  {
+    "name": "base",
+    "line": 92644
+  },
+  {
+    "name": "stepPrice",
+    "line": 92749
+  },
+  {
+    "name": "stepAmount",
+    "line": 92757
+  },
+  {
+    "name": "bal",
+    "line": 92904
+  },
+  {
+    "name": "cancelOrder",
+    "line": 93569
+  },
+  {
+    "name": "renderOrders",
+    "line": 93946
+  },
+  {
+    "name": "sideColor",
+    "line": 93955
+  },
+  {
+    "name": "buf",
+    "line": 94157
+  },
+  {
+    "name": "buf",
+    "line": 94345
+  },
+  {
+    "name": "book",
+    "line": 94369
+  },
+  {
+    "name": "asksRaw",
+    "line": 94370
+  },
+  {
+    "name": "bidsRaw",
+    "line": 94371
+  },
+  {
+    "name": "poll",
+    "line": 94560
+  },
+  {
+    "name": "mid",
+    "line": 94668
+  },
+  {
+    "name": "item",
+    "line": 94700
+  },
+  {
+    "name": "item",
+    "line": 94713
+  },
+  {
+    "name": "item",
+    "line": 94717
+  },
+  {
+    "name": "item",
+    "line": 94730
+  },
+  {
+    "name": "pad",
+    "line": 94741
+  },
+  {
+    "name": "setTimeout",
+    "line": 94885
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 95237
+  },
+  {
+    "name": "q",
+    "line": 95291
+  },
+  {
+    "name": "key",
+    "line": 95486
+  },
+  {
+    "name": "meta",
+    "line": 95487
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 96509
+  },
+  {
+    "name": "_doClose",
+    "line": 96524
+  },
+  {
+    "name": "requestAnimationFrame",
+    "line": 96538
+  },
+  {
+    "name": "_bitmartChainsWd",
+    "line": 96727
+  },
+  {
+    "name": "_activeExcId",
+    "line": 96948
+  },
+  {
+    "name": "expiry",
+    "line": 97141
+  },
+  {
+    "name": "nonce",
+    "line": 97184
+  },
+  {
+    "name": "raw",
+    "line": 97431
+  },
+  {
+    "name": "walletType",
+    "line": 97487
+  },
+  {
+    "name": "expiry",
+    "line": 97610
+  },
+  {
+    "name": "nonce",
+    "line": 97659
+  },
+  {
+    "name": "q",
+    "line": 97773
+  },
+  {
+    "name": "addr",
+    "line": 98144
+  }
+]

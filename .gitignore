@@ -1,0 +1,34 @@
+# Dependencies and build output
+node_modules/
+core/dist/
+ui/android/.gradle/
+ui/android/build/
+ui/android/app/build/
+ui/android/app/.cxx/
+ui/android/local.properties
+ui/ios/Pods/
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*.jks
+*.p12
+*.keystore
+!ui/android/app/debug.keystore
+google-services.json
+secrets/
+*.pem
+
+# Legacy mirror (read-only reference, never packaged)
+legacy/
+
+# Release artifacts (packaged explicitly)
+nexus-wallet-rebuild-*.zip
+apk/
+staging/
+*.log
+
+# OS noise
+.DS_Store
+Thumbs.db

@@ -1,0 +1,319 @@
+{
+  "keys": [
+    {
+      "key": "__nexus_fsk_v1__",
+      "line": 24387,
+      "count": 1
+    },
+    {
+      "key": "__nexus_sw_code__",
+      "line": 307,
+      "count": 3
+    },
+    {
+      "key": "__nexus_sw_ver__",
+      "line": 82483,
+      "count": 1
+    },
+    {
+      "key": "_nexusDraw_",
+      "line": 33020,
+      "count": 1
+    },
+    {
+      "key": "batchTransferContracts",
+      "line": 65522,
+      "count": 11
+    },
+    {
+      "key": "batchTransferContractsToken",
+      "line": 71784,
+      "count": 10
+    },
+    {
+      "key": "brh_cleared_ts",
+      "line": 49772,
+      "count": 5
+    },
+    {
+      "key": "centralContracts",
+      "line": 67783,
+      "count": 7
+    },
+    {
+      "key": "fut_lev_",
+      "line": 91821,
+      "count": 2
+    },
+    {
+      "key": "multiKeyNativeContracts",
+      "line": 73532,
+      "count": 7
+    },
+    {
+      "key": "nexus_active_chain",
+      "line": 29243,
+      "count": 2
+    },
+    {
+      "key": "nexus_active_group",
+      "line": 28742,
+      "count": 4
+    },
+    {
+      "key": "nexus_bal_cache_",
+      "line": 23169,
+      "count": 4
+    },
+    {
+      "key": "nexus_bio_cred_id",
+      "line": 177,
+      "count": 2
+    },
+    {
+      "key": "nexus_bio_lock",
+      "line": 174,
+      "count": 5
+    },
+    {
+      "key": "nexus_br_disconnected",
+      "line": 21630,
+      "count": 7
+    },
+    {
+      "key": "nexus_br_sender",
+      "line": 21591,
+      "count": 11
+    },
+    {
+      "key": "nexus_bsb_pm",
+      "line": 16260,
+      "count": 1
+    },
+    {
+      "key": "nexus_console_log_enabled",
+      "line": 11,
+      "count": 2
+    },
+    {
+      "key": "nexus_custom_rpcs_v1",
+      "line": 36454,
+      "count": 4
+    },
+    {
+      "key": "nexus_display_currency",
+      "line": 61174,
+      "count": 2
+    },
+    {
+      "key": "nexus_exc_active",
+      "line": 86179,
+      "count": 3
+    },
+    {
+      "key": "nexus_exc_keys_v1",
+      "line": 95055,
+      "count": 4
+    },
+    {
+      "key": "nexus_exc_pair_",
+      "line": 86180,
+      "count": 3
+    },
+    {
+      "key": "nexus_fut_pair_",
+      "line": 91799,
+      "count": 2
+    },
+    {
+      "key": "nexus_haptic",
+      "line": 40475,
+      "count": 3
+    },
+    {
+      "key": "nexus_home_mode",
+      "line": 21511,
+      "count": 2
+    },
+    {
+      "key": "nexus_hw_group_id_v2",
+      "line": 28742,
+      "count": 7
+    },
+    {
+      "key": "nexus_hw_selected_group_v1",
+      "line": 28998,
+      "count": 4
+    },
+    {
+      "key": "nexus_lock_cred_id",
+      "line": 24644,
+      "count": 3
+    },
+    {
+      "key": "nexus_lock_method",
+      "line": 40502,
+      "count": 1
+    },
+    {
+      "key": "nexus_lock_pat",
+      "line": 176,
+      "count": 5
+    },
+    {
+      "key": "nexus_lock_pin",
+      "line": 175,
+      "count": 5
+    },
+    {
+      "key": "nexus_notif",
+      "line": 28256,
+      "count": 5
+    },
+    {
+      "key": "nexus_paymaster_enabled",
+      "line": 16342,
+      "count": 3
+    },
+    {
+      "key": "nexus_paymaster_url",
+      "line": 16260,
+      "count": 1
+    },
+    {
+      "key": "nexus_send_chain_id",
+      "line": 37952,
+      "count": 3
+    },
+    {
+      "key": "nexus_send_from_pk",
+      "line": 38427,
+      "count": 6
+    },
+    {
+      "key": "nexus_sup_pks",
+      "line": 62508,
+      "count": 4
+    },
+    {
+      "key": "nexus_sw_signer",
+      "line": 53914,
+      "count": 6
+    },
+    {
+      "key": "nexus_swap_chain_id",
+      "line": 53875,
+      "count": 2
+    },
+    {
+      "key": "nexus_swap_paymaster_enabled",
+      "line": 16866,
+      "count": 2
+    },
+    {
+      "key": "nexus_swap_selected_keys",
+      "line": 53452,
+      "count": 2
+    },
+    {
+      "key": "nexus_token_cache",
+      "line": 21328,
+      "count": 3
+    },
+    {
+      "key": "nexus_token_cache_",
+      "line": 21326,
+      "count": 2
+    },
+    {
+      "key": "nexus-pwa-dismissed",
+      "line": 82651,
+      "count": 6
+    },
+    {
+      "key": "nexus-theme",
+      "line": 52961,
+      "count": 2
+    },
+    {
+      "key": "receiverAddresses",
+      "line": 66431,
+      "count": 2
+    },
+    {
+      "key": "receiverAddressesToken",
+      "line": 70764,
+      "count": 4
+    },
+    {
+      "key": "sw_recent",
+      "line": 53900,
+      "count": 2
+    },
+    {
+      "key": "sw_recent_cleared_ts",
+      "line": 58513,
+      "count": 3
+    },
+    {
+      "key": "transferHub_chain_",
+      "line": 64602,
+      "count": 2
+    },
+    {
+      "key": "transferHub_chain_batchNative",
+      "line": 65485,
+      "count": 1
+    },
+    {
+      "key": "transferHub_chain_batchToken",
+      "line": 70403,
+      "count": 2
+    },
+    {
+      "key": "transferHub_chain_withdraw",
+      "line": 64335,
+      "count": 2
+    },
+    {
+      "key": "transferHub_currentSection",
+      "line": 21555,
+      "count": 15
+    },
+    {
+      "key": "withdrawContracts",
+      "line": 67784,
+      "count": 6
+    }
+  ],
+  "dynamicPrefixes": [
+    {
+      "prefix": "nexus_token_cache_",
+      "line": 21326
+    },
+    {
+      "prefix": "nexus_bal_cache_",
+      "line": 23169
+    },
+    {
+      "prefix": "_nexusDraw_",
+      "line": 33020
+    },
+    {
+      "prefix": "transferHub_chain_",
+      "line": 64602
+    },
+    {
+      "prefix": "nexus_exc_pair_",
+      "line": 86180
+    },
+    {
+      "prefix": "nexus_fut_pair_",
+      "line": 91799
+    },
+    {
+      "prefix": "fut_lev_",
+      "line": 91821
+    }
+  ]
+}
